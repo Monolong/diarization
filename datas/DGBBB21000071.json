@@ -1,0 +1,6538 @@
+{
+	"metadata": {
+		"title": "DGBBB21000071",
+		"creator": "솔트룩스",
+		"distributor": "솔트룩스",
+		"year": 2021,
+		"category": "구어 > 공적 > 회의",
+		"date": "20200712",
+		"media": "라디오",
+		"communication": "대면",
+		"type": "토론",
+		"domain": "경제",
+		"topic": "전기차자동차 관련",
+		"speaker_num": 6,
+		"organization": "",
+		"annotation_level": "원시",
+		"sampling": "본문 전체"
+	},
+	"speaker": [
+		{
+			"id": "DG0001",
+			"name": "DG0001",
+			"age": "40대",
+			"occupation": "디제이",
+			"role": "사회자",
+			"sex": "남"
+		},
+		{
+			"id": "DG0002",
+			"name": "DG0002",
+			"age": "30대",
+			"occupation": "기자",
+			"role": "토론자",
+			"sex": "여"
+		},
+		{
+			"id": "DG0003",
+			"name": "DG0003",
+			"age": "40대",
+			"occupation": "명지전문대 교수",
+			"role": "토론자",
+			"sex": "남"
+		},
+		{
+			"id": "DG0004",
+			"name": "DG0004",
+			"age": "40대",
+			"occupation": "기업인",
+			"role": "토론자",
+			"sex": "남"
+		},
+		{
+			"id": "DG0005",
+			"name": "DG0005",
+			"age": "30대",
+			"occupation": "아나운서",
+			"role": "사회자",
+			"sex": "여"
+		},
+		{
+			"id": "DG0006",
+			"name": "DG0006",
+			"age": "60대 이상",
+			"occupation": "교수",
+			"role": "토론자",
+			"sex": "남"
+		}
+	],
+	"setting": {
+		"relation": "사회자 1인 외 토론자"
+	},
+	"utterance": [
+		{
+			"id": "DGBBB21000071.1.1.1",
+			"start": "0.000",
+			"end": "7.084",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "안녕하세요 교통시대 @이름1입니다 당신은 빡빡한 사람입니까 느슨한 사람입니까? /(bgm)",
+			"original_form": "안녕하세요 교통시대 &name1&입니다 당신은 빡빡한 사람입니까 느슨한 사람입니까?",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.2",
+			"start": "7.084",
+			"end": "17.156",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(이십 년)/(20년) 동안 문화와 심리학을 연구해온 미국의 한 심리학 교수가 (오 개)/(5개) 대륙 (삼십여 개)/(30여 개) 국에서 (칠천 명가량의)/(7천 명가량의) 표본을 조사했는데요. /(bgm)",
+			"original_form": "이십 년 동안 문화와 심리학을 연구해온 미국의 한 심리학 교수가 오 개 대륙 삼십여 개 국에서 칠천 명가량의 표본을 조사했는데요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이십 년",
+					"number": "20년",
+					"begin": 1,
+					"end": 4
+				},
+				{
+					"id": 2,
+					"hangeul": "오 개",
+					"number": "5개",
+					"begin": 37,
+					"end": 39
+				},
+				{
+					"id": 3,
+					"hangeul": "삼십여 개",
+					"number": "30여 개",
+					"begin": 44,
+					"end": 48
+				},
+				{
+					"id": 4,
+					"hangeul": "칠천 명가량의",
+					"number": "7천 명가량의",
+					"begin": 54,
+					"end": 60
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.3",
+			"start": "17.156",
+			"end": "26.243",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그 결과 파키스탄 싱가폴 한국 또 노르웨이 터키 일본 중국 독일 등은요 빡빡한 사회로 분류됐고요. /(bgm)",
+			"original_form": "그 결과 파키스탄 싱가폴 한국 또 노르웨이 터키 일본 중국 독일 등은요 빡빡한 사회로 분류됐고요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.4",
+			"start": "26.243",
+			"end": "35.056",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "스페인 미국 오스트레일리아 뉴질랜드 그리스 브라질 네덜란드 이스라엘 등은요 느슨한 사회로 분류됐답니다. /(bgm)",
+			"original_form": "스페인 미국 오스트레일리아 뉴질랜드 그리스 브라질 네덜란드 이스라엘 등은요 느슨한 사회로 분류됐답니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.5",
+			"start": "35.056",
+			"end": "44.317",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "분류된 나라들을 보니까요 어느 정도 고개가 끄덕여지기도 하죠 빡빡하고 또 느슨하고 어떤 것이 더 낫다고 말하기는 어렵지만요. /(bgm)",
+			"original_form": "분류된 나라들을 보니까요 어느 정도 고개가 끄덕여지기도 하죠 빡빡하고 또 느슨하고 어떤 것이 더 낫다고 말하기는 어렵지만요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.6",
+			"start": "44.317",
+			"end": "54.811",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그러고 보면 우리들 모두 조금은 하루하루를 빡빡하게 살지 않았나 싶기도 합니다 하지만 오늘은 일요일이죠 주말마다 빡빡하게 살 필요는 없겠죠. /(bgm)",
+			"original_form": "그러고 보면 우리들 모두 조금은 하루하루를 빡빡하게 살지 않았나 싶기도 합니다 하지만 오늘은 일요일이죠 주말마다 빡빡하게 살 필요는 없겠죠.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.7",
+			"start": "54.811",
+			"end": "66.788",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "오늘은 조금 느슨하게 몸과 마음의 여유를 느껴보시면 어떨까 싶습니다 그럼 일요일날 아침에 재미있는 교통정보 시간이죠 @이름1의 교통시대 오늘도 출발해 보겠습니다. /(bgm)",
+			"original_form": "오늘은 조금 느슨하게 몸과 마음의 여유를 느껴보시면 어떨까 싶습니다 그럼 일요일날 아침에 재미있는 교통정보 시간이죠 &name1&의 교통시대 오늘도 출발해 보겠습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.8",
+			"start": "66.788",
+			"end": "77.289",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "원 투 쓰리 포 /(bgm)",
+			"original_form": "원 투 쓰리 포",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.9",
+			"start": "77.289",
+			"end": "90.346",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(한 주간의)/(1주간의) 교통 소식을 키워드로 정리해 짚어드립니다. /(bgm)",
+			"original_form": "한 주간의 교통 소식을 키워드로 정리해 짚어드립니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "한 주간의",
+					"number": "1주간의",
+					"begin": 1,
+					"end": 5
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.10",
+			"start": "90.346",
+			"end": "93.106",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "헤럴드경제 @이름2 기자 나오셨습니다 어서 오십시오.",
+			"original_form": "헤럴드경제 &name2& 기자 나오셨습니다 어서 오십시오.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.11",
+			"start": "93.106",
+			"end": "94.281",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "네 안녕하세요.",
+			"original_form": "네 안녕하세요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.12",
+			"start": "94.281",
+			"end": "103.793",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "네 그럼 지난 (한 주간)/(1주간) @이름2 기자가 꼽은 키워드를 살펴보도록 하겠습니다 첫 번째 키워드입니다 불황형 차마저 불황",
+			"original_form": "네 그럼 지난 한 주간 &name2& 기자가 꼽은 키워드를 살펴보도록 하겠습니다 첫 번째 키워드입니다 불황형 차마저 불황",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "한 주간",
+					"number": "1주간",
+					"begin": 9,
+					"end": 12
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.13",
+			"start": "103.793",
+			"end": "108.505",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "불황형 차가 불황이라니 이건 말장난 같은 키워드 같은데 어떤 내용입니까?",
+			"original_form": "불황형 차가 불황이라니 이건 말장난 같은 키워드 같은데 어떤 내용입니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.14",
+			"start": "108.505",
+			"end": "116.001",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "네 @상호명1 포터 @상호명2 봉고 이런 (일 톤)/(1톤) 트럭을 보통 불황형 자동차라고 부르는데요.",
+			"original_form": "네 &company-name1& 포터 &company-name2& 봉고 이런 일 톤 트럭을 보통 불황형 자동차라고 부르는데요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 톤",
+					"number": "1톤",
+					"begin": 44,
+					"end": 46
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.15",
+			"start": "116.001",
+			"end": "124.126",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "영세 자영업자들이 택배나 운반을 위해 구매하는 생계형 차다 보니까 경기가 나쁠 때 더 잘 팔려서 붙은 별명입니다.",
+			"original_form": "영세 자영업자들이 택배나 운반을 위해 구매하는 생계형 차다 보니까 경기가 나쁠 때 더 잘 팔려서 붙은 별명입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.16",
+			"start": "124.126",
+			"end": "133.645",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "어 실제로 (아이엠에프)/(IMF) 당시의 포터의 경우 전년 대비 판매량이 한 (육십일 퍼센트)/(61퍼센트) 정도 그리고 봉고는 (이십칠 퍼센트)/(27퍼센트) 가량 늘었을 정도입니다.",
+			"original_form": "어 실제로 아이엠에프 당시의 포터의 경우 전년 대비 판매량이 한 육십일 퍼센트 정도 그리고 봉고는 이십칠 퍼센트 가량 늘었을 정도입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "아이엠에프",
+					"english": "IMF",
+					"begin": 7,
+					"end": 11
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "육십일 퍼센트",
+					"number": "61퍼센트",
+					"begin": 37,
+					"end": 43
+				},
+				{
+					"id": 2,
+					"hangeul": "이십칠 퍼센트",
+					"number": "27퍼센트",
+					"begin": 56,
+					"end": 62
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.17",
+			"start": "133.645",
+			"end": "143.759",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "네 그렇죠 지금 말씀하신 차종 같은 경우에는 뭐 단일 차종 중에서 가장 많이 판매되는 차가 아닌가 또 거의 뭐 독과점 형태로 비슷한 차종이 없다 보니까 더 그런 것 같습니다.",
+			"original_form": "네 그렇죠 지금 말씀하신 차종 같은 경우에는 뭐 단일 차종 중에서 가장 많이 판매되는 차가 아닌가 또 거의 뭐 독과점 형태로 비슷한 차종이 없다 보니까 더 그런 것 같습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.18",
+			"start": "143.759",
+			"end": "155.093",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이 포터의 경우에는 많이 팔릴수록 경기가 안 좋아서 포터 지수라는 말까지 생겼을 정도라고 하는데 그런데 불황형 차마저 불황이라는 거 보니까 요즘 잘 안 팔리나 봅니다?",
+			"original_form": "이 포터의 경우에는 많이 팔릴수록 경기가 안 좋아서 포터 지수라는 말까지 생겼을 정도라고 하는데 그런데 불황형 차마저 불황이라는 거 보니까 요즘 잘 안 팔리나 봅니다?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.19",
+			"start": "155.093",
+			"end": "162.213",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "네 그렇습니다 이제 코로나 사태에서는 교수님께서 말씀하신 이 포터 지수가 거의 적용이 되지 않고 있는데요.",
+			"original_form": "네 그렇습니다 이제 코로나 사태에서는 교수님께서 말씀하신 이 포터 지수가 거의 적용이 되지 않고 있는데요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.20",
+			"start": "162.213",
+			"end": "170.673",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "@상호명1 그룹에 따르면 올해 (일월부터 오월까지)/(1월부터 5월까지) 포터 봉고 판매량이 작년 같은 기간보다 오히려 줄었습니다.",
+			"original_form": "&company-name1& 그룹에 따르면 올해 일월부터 오월까지 포터 봉고 판매량이 작년 같은 기간보다 오히려 줄었습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일월부터 오월까지",
+					"number": "1월부터 5월까지",
+					"begin": 28,
+					"end": 36
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.21",
+			"start": "170.673",
+			"end": "180.292",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "포터가 약 (십삼 퍼센트)/(13퍼센트) 정도 그리고 봉고가 (이 점 사 퍼센트)/(2. 4퍼센트) 가량 판매량이 떨어졌습니다 급기야 봉고 트럭 같은 경우에는",
+			"original_form": "포터가 약 십삼 퍼센트 정도 그리고 봉고가 이 점 사 퍼센트 가량 판매량이 떨어졌습니다 급기야 봉고 트럭 같은 경우에는",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "십삼 퍼센트",
+					"number": "13퍼센트",
+					"begin": 7,
+					"end": 12
+				},
+				{
+					"id": 2,
+					"hangeul": "이 점 사 퍼센트",
+					"number": "2. 4퍼센트",
+					"begin": 25,
+					"end": 33
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.22",
+			"start": "180.292",
+			"end": "188.831",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "@상호명2 광주 (삼)/(3) 공장에서 생산을 하는 는데요 판매량 감소로 인해서 이제 (칠월)/(7월) 중에 생산을 좀 몇 일 정도 중단을 한다는 계획입니다.",
+			"original_form": "&company-name2& 광주 삼 공장에서 생산을 하는 는데요 판매량 감소로 인해서 이제 칠월 중에 생산을 좀 몇 일 정도 중단을 한다는 계획입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼",
+					"number": "3",
+					"begin": 20,
+					"end": 20
+				},
+				{
+					"id": 2,
+					"hangeul": "칠월",
+					"number": "7월",
+					"begin": 53,
+					"end": 54
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.23",
+			"start": "188.831",
+			"end": "199.038",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "네 말씀 듣다 보니까 이해가 되는 것 같아요 요새 보면 식당부터 시작해서 일선에서 서민들의 어떤 모델 자체가 굉장히 어렵지 않습니까 그러다 보니까 이 생계형",
+			"original_form": "네 말씀 듣다 보니까 이해가 되는 것 같아요 요새 보면 식당부터 시작해서 일선에서 서민들의 어떤 모델 자체가 굉장히 어렵지 않습니까 그러다 보니까 이 생계형",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.24",
+			"start": "199.038",
+			"end": "206.560",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이 차량도 판매가 줄어든 것이 아닌가 이런 생각을 가질 수가 있는데 그만큼 이제 코로나 발 불황이 얼마나 심각한지 보여주는 사례인 것 같습니다.",
+			"original_form": "이 차량도 판매가 줄어든 것이 아닌가 이런 생각을 가질 수가 있는데 그만큼 이제 코로나 발 불황이 얼마나 심각한지 보여주는 사례인 것 같습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.25",
+			"start": "206.560",
+			"end": "208.595",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "다른 상용차는 지금 어떻습니까?",
+			"original_form": "다른 상용차는 지금 어떻습니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.26",
+			"start": "208.595",
+			"end": "219.362",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "다른 상용차들 상황은 더 좋지 않은 모양새입니다 올해 (일월에서 오월까지)/(1월에서 5월까지) 국산 승용차 내수 판매량이 작년 동기 대비 한 (이 퍼센트)/(2퍼센트) 정도 늘었는데요.",
+			"original_form": "다른 상용차들 상황은 더 좋지 않은 모양새입니다 올해 일월에서 오월까지 국산 승용차 내수 판매량이 작년 동기 대비 한 이 퍼센트 정도 늘었는데요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일월에서 오월까지",
+					"number": "1월에서 5월까지",
+					"begin": 31,
+					"end": 39
+				},
+				{
+					"id": 2,
+					"hangeul": "이 퍼센트",
+					"number": "2퍼센트",
+					"begin": 67,
+					"end": 71
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.27",
+			"start": "219.362",
+			"end": "224.428",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "반면에 같은 기간 상용차 내수 판매량은 (십오 퍼센트)/(15퍼센트) 가량 줄었습니다.",
+			"original_form": "반면에 같은 기간 상용차 내수 판매량은 십오 퍼센트 가량 줄었습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "십오 퍼센트",
+					"number": "15퍼센트",
+					"begin": 23,
+					"end": 28
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.28",
+			"start": "224.428",
+			"end": "235.480",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "특히 어제 경영 상용차 판매량 감소 폭이 좀 컸는데요 @상호명3 다마스나 라보 같은 차가 (이십오 퍼센트)/(25퍼센트) 안팎 판매량이 감소한 걸로 나타났습니다.",
+			"original_form": "특히 어제 경영 상용차 판매량 감소 폭이 좀 컸는데요 &company-name3& 다마스나 라보 같은 차가 이십오 퍼센트 안팎 판매량이 감소한 걸로 나타났습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이십오 퍼센트",
+					"number": "25퍼센트",
+					"begin": 61,
+					"end": 67
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.29",
+			"start": "235.480",
+			"end": "244.759",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "어~ 여기에 덤프나 카고트럭 같은 대형 화물트럭도 건설경기 침체로 판매량이 타격을 입었다라는 게 업계의 설명입니다.",
+			"original_form": "어~ 여기에 덤프나 카고트럭 같은 대형 화물트럭도 건설경기 침체로 판매량이 타격을 입었다라는 게 업계의 설명입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.30",
+			"start": "244.759",
+			"end": "248.614",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "상당히 지금 심각한 상황이 아닐 수 없겠는데 댓글이 궁금합니다.",
+			"original_form": "상당히 지금 심각한 상황이 아닐 수 없겠는데 댓글이 궁금합니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.31",
+			"start": "248.614",
+			"end": "258.475",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "네 자전거 노점상이나 하게 생겼다라는 자조적인 댓글이 가장 먼저 눈에 들어왔습니다 또 다른 네티즌 같은 경우에는 당장 가게에 손님이 없더라도 인제",
+			"original_form": "네 자전거 노점상이나 하게 생겼다라는 자조적인 댓글이 가장 먼저 눈에 들어왔습니다 또 다른 네티즌 같은 경우에는 당장 가게에 손님이 없더라도 인제",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.32",
+			"start": "258.475",
+			"end": "270.915",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "주변에 사람이 돌아다니기라도 하면은 몇 그릇이라도 팔겠다 참 이런 기대라도 있을 텐데 요즘은 좀 사람조차 없지 않습니까 그래서 희망이 없는 게 자영업의 현실이다 이런 댓글을 달기도 했구요.",
+			"original_form": "주변에 사람이 돌아다니기라도 하면은 몇 그릇이라도 팔겠다 참 이런 기대라도 있을 텐데 요즘은 좀 사람조차 없지 않습니까 그래서 희망이 없는 게 자영업의 현실이다 이런 댓글을 달기도 했구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.33",
+			"start": "270.915",
+			"end": "281.725",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "네 지금 마음이 좀 지금 아픕니다 코로나가 빨리 진정됐으면 하는 생각이 들고요 자 그러면 두 번째 키워드로 넘어가겠습니다 (십 년)/(10년) 만에 (일위)/(1위) 이거 어떤 이야기입니까?",
+			"original_form": "네 지금 마음이 좀 지금 아픕니다 코로나가 빨리 진정됐으면 하는 생각이 들고요 자 그러면 두 번째 키워드로 넘어가겠습니다 십 년 만에 일위 이거 어떤 이야기입니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "십 년",
+					"number": "10년",
+					"begin": 69,
+					"end": 71
+				},
+				{
+					"id": 2,
+					"hangeul": "일위",
+					"number": "1위",
+					"begin": 76,
+					"end": 77
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.34",
+			"start": "281.725",
+			"end": "293.358",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "네 미국 전기차 회사 @상호명4가 이달 (일 일에)/(1일에) 시가 총액 (이천칠십이억 달러를)/(2072억 달러를) 기록을 했는데요 어~ 시가총액 기준으로 세계 (일위)/(1위) 자동차 회사가 된 겁니다.",
+			"original_form": "네 미국 전기차 회사 &company-name4&가 이달 일 일에 시가 총액 이천칠십이억 달러를 기록을 했는데요 어~ 시가총액 기준으로 세계 일위 자동차 회사가 된 겁니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 일에",
+					"number": "1일에",
+					"begin": 33,
+					"end": 36
+				},
+				{
+					"id": 2,
+					"hangeul": "이천칠십이억 달러를",
+					"number": "2072억 달러를",
+					"begin": 44,
+					"end": 53
+				},
+				{
+					"id": 3,
+					"hangeul": "일위",
+					"number": "1위",
+					"begin": 80,
+					"end": 81
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.35",
+			"start": "293.358",
+			"end": "305.310",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "미국 나스닥 상장 (십 년)/(10년) 만의 일입니다 어~ 지난 (이천십 년 유월 이십구 일에)/(2010년 6월 29일에) 처음 상장할 당시에 @상호명4의 주식 공모가가 (십칠 달러)/(17달러) 밖에 안 됐는데요.",
+			"original_form": "미국 나스닥 상장 십 년 만의 일입니다 어~ 지난 이천십 년 유월 이십구 일에 처음 상장할 당시에 &company-name4&의 주식 공모가가 십칠 달러 밖에 안 됐는데요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "십 년",
+					"number": "10년",
+					"begin": 11,
+					"end": 13
+				},
+				{
+					"id": 2,
+					"hangeul": "이천십 년 유월 이십구 일에",
+					"number": "2010년 6월 29일에",
+					"begin": 29,
+					"end": 43
+				},
+				{
+					"id": 3,
+					"hangeul": "십칠 달러",
+					"number": "17달러",
+					"begin": 31,
+					"end": 35
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.36",
+			"start": "305.310",
+			"end": "313.123",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "(십 년)/(10년) 만에 무려 (사십육 배가)/(46배가) 급증하면서 @상호명5를 앞지르고 세계에서 시총이 가장 높은 자동차 회사가 된 겁니다.",
+			"original_form": "십 년 만에 무려 사십육 배가 급증하면서 &company-name5&를 앞지르고 세계에서 시총이 가장 높은 자동차 회사가 된 겁니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "십 년",
+					"number": "10년",
+					"begin": 1,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"hangeul": "사십육 배가",
+					"number": "46배가",
+					"begin": 11,
+					"end": 16
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.37",
+			"start": "313.123",
+			"end": "320.124",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "아니 @상호명4가 시위 초 (일위라는)/(1위라는) 거 자체가 이해가 좀 안 될 정도인데 생산 대수나 판매 대수가 도대체 어느 정도 되는 겁니까?",
+			"original_form": "아니 &company-name4&가 시위 초 일위라는 거 자체가 이해가 좀 안 될 정도인데 생산 대수나 판매 대수가 도대체 어느 정도 되는 겁니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일위라는",
+					"number": "1위라는",
+					"begin": 26,
+					"end": 29
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.38",
+			"start": "320.124",
+			"end": "330.630",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "어~ 사실 @상호명4는 생산능력이나 매출 모두 주요 완성차 업체에는 크게 못 미치는데요 올해 (일 분기)/(1분기) 기준 생산대수가 (십만 삼천 대에)/(10만 3천 대에) 불과합니다.",
+			"original_form": "어~ 사실 &company-name4&는 생산능력이나 매출 모두 주요 완성차 업체에는 크게 못 미치는데요 올해 일 분기 기준 생산대수가 십만 삼천 대에 불과합니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 분기",
+					"number": "1분기",
+					"begin": 63,
+					"end": 66
+				},
+				{
+					"id": 2,
+					"hangeul": "십만 삼천 대에",
+					"number": "10만 3천 대에",
+					"begin": 77,
+					"end": 84
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.39",
+			"start": "330.630",
+			"end": "337.990",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "어~ 시총 (이 위인)/(2위인) @상호명5가 (이백사십만 대인 걸)/(240만대인걸) 감안하면은 생산 대수가 상당히 적은 수준인 겁니다.",
+			"original_form": "어~ 시총 이 위인 &company-name5&가 이백사십만 대인 걸 감안하면은 생산 대수가 상당히 적은 수준인 겁니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이 위인",
+					"number": "2위인",
+					"begin": 7,
+					"end": 10
+				},
+				{
+					"id": 2,
+					"hangeul": "이백사십만 대인 걸",
+					"number": "240만대인걸",
+					"begin": 29,
+					"end": 38
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.40",
+			"start": "337.990",
+			"end": "349.800",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "@상호명5의 (사 퍼센트다)/(4퍼센트다) 이렇게 정리할 수 있겠습니다 어 작년 연간 판매 대수도 @상호명5가 (천사십육만 대인)/(1046만 대인) 반면에 @상호명4가 (삼십칠만 대를)/(37만 대를) 조금 못 판 수준이었습니다.",
+			"original_form": "&company-name5&의 사 퍼센트다 이렇게 정리할 수 있겠습니다 어 작년 연간 판매 대수도 &company-name5&가 천사십육만 대인 반면에 &company-name4&가 삼십칠만 대를 조금 못 판 수준이었습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "사 퍼센트다",
+					"number": "4퍼센트다",
+					"begin": 18,
+					"end": 23
+				},
+				{
+					"id": 2,
+					"hangeul": "천사십육만 대인",
+					"number": "1046만 대인",
+					"begin": 73,
+					"end": 80
+				},
+				{
+					"id": 3,
+					"hangeul": "삼십칠만 대를",
+					"number": "37만 대를",
+					"begin": 103,
+					"end": 109
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.41",
+			"start": "349.800",
+			"end": "362.020",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "@상호명4를 보는 일반인들의 시각이 기대감이 상당히 반영된 게 아닌가 이런 생각이 들고 또 이제 최근에 강화된 부분들이 전기차의 단점이 사라지면서 이제 내연기관차가 본격 사라지고 전기차의 시대가",
+			"original_form": "&company-name4&를 보는 일반인들의 시각이 기대감이 상당히 반영된 게 아닌가 이런 생각이 들고 또 이제 최근에 강화된 부분들이 전기차의 단점이 사라지면서 이제 내연기관차가 본격 사라지고 전기차의 시대가",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.42",
+			"start": "362.020",
+			"end": "370.581",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "오지 않았느냐 이 대표적인 혁명의 아이콘이 이제 @상호명4다 이런 얘기 때문에 올라가는 것 같은데 사람들이 보는 시각도 비슷할 것 같아요?",
+			"original_form": "오지 않았느냐 이 대표적인 혁명의 아이콘이 이제 &company-name4&다 이런 얘기 때문에 올라가는 것 같은데 사람들이 보는 시각도 비슷할 것 같아요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.43",
+			"start": "370.581",
+			"end": "381.849",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "네 맞습니다 이제 외신에서는 @상호명4의 추월을 놓고 이커머스 제국인 @상호명6이 기존 오프라인 쇼핑의 상징인 @상호명7를 추월한 것 같은 의미 뭐 이렇게 비교를 했는데요.",
+			"original_form": "네 맞습니다 이제 외신에서는 &company-name4&의 추월을 놓고 이커머스 제국인 &company-name6&이 기존 오프라인 쇼핑의 상징인 &company-name7&를 추월한 것 같은 의미 뭐 이렇게 비교를 했는데요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.44",
+			"start": "381.849",
+			"end": "393.975",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "자동차 업계 판 자체가 지금 말씀하신 대로 내연기관 중심에서 전기차로 바뀌면서 태생적 (디엔에이)/(DNA) 자체가 전기차인 @상호명4도 탄력을 받았다 이런 해석이 나오고 있습니다.",
+			"original_form": "자동차 업계 판 자체가 지금 말씀하신 대로 내연기관 중심에서 전기차로 바뀌면서 태생적 디엔에이 자체가 전기차인 &company-name4&도 탄력을 받았다 이런 해석이 나오고 있습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "디엔에이",
+					"english": "DNA",
+					"begin": 49,
+					"end": 52
+				}
+			],
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.45",
+			"start": "393.975",
+			"end": "403.901",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "여기에 @상호명4가 전기차 이외에도 태양광 패널 같은 사업도 펼치고 있는데요 어~ 생태계 자체를 자동차에 한정하지 않은 점에서 미뤄서",
+			"original_form": "여기에 &company-name4&가 전기차 이외에도 태양광 패널 같은 사업도 펼치고 있는데요 어~ 생태계 자체를 자동차에 한정하지 않은 점에서 미뤄서",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.46",
+			"start": "403.901",
+			"end": "408.945",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "사업 확장성 등에도 좀 긍정적인 평가가 작용하지 않았나 이런 분석도 있습니다.",
+			"original_form": "사업 확장성 등에도 좀 긍정적인 평가가 작용하지 않았나 이런 분석도 있습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.47",
+			"start": "408.945",
+			"end": "419.993",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "맞습니다 이 @상호명4를 보게 되면 상당히 부러운 것도 것들도 있어요 이런 어떤 벤처 기업에 대한 거 @이름3 자체가 워낙 그 상징적인 인물 아닙니까 @상호명4도 자동차라는 개념이 있지만은",
+			"original_form": "맞습니다 이 &company-name4&를 보게 되면 상당히 부러운 것도 것들도 있어요 이런 어떤 벤처 기업에 대한 거 &name3& 자체가 워낙 그 상징적인 인물 아닙니까 &company-name4&도 자동차라는 개념이 있지만은",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.48",
+			"start": "419.993",
+			"end": "432.480",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "우주로 올라가는 뭐 스페이스 엑스라든지 또 (구천 키로)/(9천 키로) 이상 달리는 탄환 열차 같은 거 이런 부분들은 상당히 좀 이 다른 분야의 확장성에 대한 부분들은 더 기대가 되지 않나 이런 생각을 갖는데 네티즌들 반응 궁금합니다.",
+			"original_form": "우주로 올라가는 뭐 스페이스 엑스라든지 또 구천 키로 이상 달리는 탄환 열차 같은 거 이런 부분들은 상당히 좀 이 다른 분야의 확장성에 대한 부분들은 더 기대가 되지 않나 이런 생각을 갖는데 네티즌들 반응 궁금합니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "구천 키로",
+					"number": "9천 키로",
+					"begin": 25,
+					"end": 29
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.49",
+			"start": "432.480",
+			"end": "442.888",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "네 뭐 @상호명4 주식을 너무 적게 산 게 아쉽다며 땅을 치는 네티즌들이 있는가 하면은 뭐 곧 곧 꺼질 거품이라는 회의적인 반응도 좀 눈에 띄었습니다. /(noise)",
+			"original_form": "네 뭐 &company-name4& 주식을 너무 적게 산 게 아쉽다며 땅을 치는 네티즌들이 있는가 하면은 뭐 곧 곧 꺼질 거품이라는 회의적인 반응도 좀 눈에 띄었습니다.",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.50",
+			"start": "442.888",
+			"end": "449.028",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "어 일부 네티즌들은 정말 (십 년)/(10년) 안에 내연 기관차들이 모두 사라질까 이런 의문도 좀 제기하기도 했구요.",
+			"original_form": "어 일부 네티즌들은 정말 십 년 안에 내연 기관차들이 모두 사라질까 이런 의문도 좀 제기하기도 했구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "십 년",
+					"number": "10년",
+					"begin": 15,
+					"end": 17
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.51",
+			"start": "449.028",
+			"end": "461.743",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "맞습니다 이 저도 인제 자동차를 하는 사람이어서 이쪽 평가라든지 많이 해주고 있습니다 정부도 그렇고 관련돼서 이 내연 기관차가 저는 인제 전기차라든지 수소차 이런 여러 가지가 나오면서 한 (삼십 년)/(30년) 정도 중첩될 가능성이 있었어요.",
+			"original_form": "맞습니다 이 저도 인제 자동차를 하는 사람이어서 이쪽 평가라든지 많이 해주고 있습니다 정부도 그렇고 관련돼서 이 내연 기관차가 저는 인제 전기차라든지 수소차 이런 여러 가지가 나오면서 한 삼십 년 정도 중첩될 가능성이 있었어요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼십 년",
+					"number": "30년",
+					"begin": 106,
+					"end": 109
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.52",
+			"start": "461.743",
+			"end": "474.987",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그래서 인제 연착륙에 대한 것들을 좀 가능성이 있다 이렇게 얘기했는데 전기차의 단점 뭐 급격히 사라지고 미래차에 대한 부분의 단점이 없어지면 이 기간이 (삼십 년에서)/(30년에서) 한 (십오 년)/(15년) 정도로 줄었다는 겁니다.",
+			"original_form": "그래서 인제 연착륙에 대한 것들을 좀 가능성이 있다 이렇게 얘기했는데 전기차의 단점 뭐 급격히 사라지고 미래차에 대한 부분의 단점이 없어지면 이 기간이 삼십 년에서 한 십오 년 정도로 줄었다는 겁니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼십 년에서",
+					"number": "30년에서",
+					"begin": 86,
+					"end": 91
+				},
+				{
+					"id": 2,
+					"hangeul": "십오 년",
+					"number": "15년",
+					"begin": 95,
+					"end": 98
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.53",
+			"start": "474.987",
+			"end": "484.290",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그러다 보니까 준비할 수 있는 기간이 없다라는 측면에서 좀 더 서둘러야 되지 않나 이런 생각이 좀 들고요 자 그럼 마지막 세 번째 키워드로 넘어가겠습니다.",
+			"original_form": "그러다 보니까 준비할 수 있는 기간이 없다라는 측면에서 좀 더 서둘러야 되지 않나 이런 생각이 좀 들고요 자 그럼 마지막 세 번째 키워드로 넘어가겠습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.54",
+			"start": "484.290",
+			"end": "488.290",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "로드킬 줄이기 대작전 이거 어떤 내용입니까? /(noise)",
+			"original_form": "로드킬 줄이기 대작전 이거 어떤 내용입니까?",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.55",
+			"start": "488.290",
+			"end": "496.168",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "네 정부가 해마다 도로에서 발생하는 동물 찻길 사고 이른바 로드킬을 방지하기 위해 대책 마련에 나섰습니다.",
+			"original_form": "네 정부가 해마다 도로에서 발생하는 동물 찻길 사고 이른바 로드킬을 방지하기 위해 대책 마련에 나섰습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.56",
+			"start": "496.168",
+			"end": "506.331",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "어 앞서 국토부가 환경부와 지난 (이천십팔 년에)/(2018년에) 로드킬 정보시스템을 개발을 했는데요 올해 이제 이 정보시스템 조사 결과를 바탕으로",
+			"original_form": "어 앞서 국토부가 환경부와 지난 이천십팔 년에 로드킬 정보시스템을 개발을 했는데요 올해 이제 이 정보시스템 조사 결과를 바탕으로",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이천십팔 년에",
+					"number": "2018년에",
+					"begin": 19,
+					"end": 25
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.57",
+			"start": "506.331",
+			"end": "517.545",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "(일 킬로미터당)/(1킬로미터당) 평균 (칠 점 일 건의)/(7. 1건의) 로드킬 사고가 발생하는 상위 (오십 개)/(50개) 구간을 선정한 겁니다 어~ 지역별로 살펴보면 충남에만 (열다섯 개)/(15개) 구간이 집중됐습니다.",
+			"original_form": "일 킬로미터당 평균 칠 점 일 건의 로드킬 사고가 발생하는 상위 오십 개 구간을 선정한 겁니다 어~ 지역별로 살펴보면 충남에만 열다섯 개 구간이 집중됐습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 킬로미터당",
+					"number": "1킬로미터당",
+					"begin": 1,
+					"end": 7
+				},
+				{
+					"id": 2,
+					"hangeul": "칠 점 일 건의",
+					"number": "7. 1건의",
+					"begin": 12,
+					"end": 19
+				},
+				{
+					"id": 3,
+					"hangeul": "오십 개",
+					"number": "50개",
+					"begin": 37,
+					"end": 40
+				},
+				{
+					"id": 4,
+					"hangeul": "열다섯 개",
+					"number": "15개",
+					"begin": 72,
+					"end": 76
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.58",
+			"start": "517.545",
+			"end": "520.007",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그 (오십 개)/(50개) 구간에는 어떤 대책을 세웠습니까?",
+			"original_form": "그 오십 개 구간에는 어떤 대책을 세웠습니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오십 개",
+					"number": "50개",
+					"begin": 3,
+					"end": 6
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.59",
+			"start": "520.007",
+			"end": "528.452",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "네 이제 이 구간에 고라니를 비롯한 야생동물의 도로 침입을 차단하기 위해서 유도 울타리를 설치를 합니다.",
+			"original_form": "네 이제 이 구간에 고라니를 비롯한 야생동물의 도로 침입을 차단하기 위해서 유도 울타리를 설치를 합니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.60",
+			"start": "528.452",
+			"end": "539.284",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "또 유도 울타리 설치가 어려운 지역에는 발광 다이오드 로드킬 주의 표지판을 설치할 예정입니다 어 그밖에 로드킬이 자주 발생하는 구간 진입 전에는 이제",
+			"original_form": "또 유도 울타리 설치가 어려운 지역에는 발광 다이오드 로드킬 주의 표지판을 설치할 예정입니다 어 그밖에 로드킬이 자주 발생하는 구간 진입 전에는 이제",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.61",
+			"start": "539.284",
+			"end": "543.791",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "운전자에게 내비게이션 안내를 하도록 하겠다 이런 방침입니다.",
+			"original_form": "운전자에게 내비게이션 안내를 하도록 하겠다 이런 방침입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.62",
+			"start": "543.791",
+			"end": "557.474",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "맞습니다 로드킬 자체가 워낙 많고 특히 이제 이 로드킬이 많이 발생하는 것이 실질적으로 이 들어올 수 있는 통로를 막는 것도 중요하지만 이 산과 산을 끊어놓은 도로 때문에서 에코 브리지 같은 거 많이 놓고 있는데",
+			"original_form": "맞습니다 로드킬 자체가 워낙 많고 특히 이제 이 로드킬이 많이 발생하는 것이 실질적으로 이 들어올 수 있는 통로를 막는 것도 중요하지만 이 산과 산을 끊어놓은 도로 때문에서 에코 브리지 같은 거 많이 놓고 있는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.63",
+			"start": "557.474",
+			"end": "567.724",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이런 부분들을 활성화되는 것도 로드킬 줄이는 방법이 아닌가 이런 생각을 가질 수가 있겠네요 지금 뭐 (오십 개)/(50개) 구간 대책을 세운다니까 반가운 소식인 것 같은데 네티즌 반응이 좀 궁금합니다.",
+			"original_form": "이런 부분들을 활성화되는 것도 로드킬 줄이는 방법이 아닌가 이런 생각을 가질 수가 있겠네요 지금 뭐 오십 개 구간 대책을 세운다니까 반가운 소식인 것 같은데 네티즌 반응이 좀 궁금합니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오십 개",
+					"number": "50개",
+					"begin": 57,
+					"end": 60
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.64",
+			"start": "567.724",
+			"end": "574.328",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "네 운전자나 야생동물 양쪽 모두를 보호하기 위한 좋은 방안인 것 같다 이런 칭찬이 적지 않았습니다.",
+			"original_form": "네 운전자나 야생동물 양쪽 모두를 보호하기 위한 좋은 방안인 것 같다 이런 칭찬이 적지 않았습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.65",
+			"start": "574.328",
+			"end": "583.651",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "일부 네티즌들 사이에서는 (오십 개)/(50개) 구간도 너무 적으니 이제 전국적으로 뭐 (오백 개)/(5백 개) 구간 (오천 개)/(5천 개) 구간으로 늘려 달라 이런 요구도 나왔고요.",
+			"original_form": "일부 네티즌들 사이에서는 오십 개 구간도 너무 적으니 이제 전국적으로 뭐 오백 개 구간 오천 개 구간으로 늘려 달라 이런 요구도 나왔고요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오십 개",
+					"number": "50개",
+					"begin": 15,
+					"end": 18
+				},
+				{
+					"id": 2,
+					"hangeul": "오백 개",
+					"number": "5백 개",
+					"begin": 42,
+					"end": 45
+				},
+				{
+					"id": 3,
+					"hangeul": "오천 개",
+					"number": "5천 개",
+					"begin": 50,
+					"end": 53
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.66",
+			"start": "583.651",
+			"end": "587.808",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "네 앞으로 확대가 기대된다고 볼 수가 있습니다 @이름2 기자 수고하셨습니다.",
+			"original_form": "네 앞으로 확대가 기대된다고 볼 수가 있습니다 &name2& 기자 수고하셨습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.67",
+			"start": "587.808",
+			"end": "588.954",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "네 감사합니다.",
+			"original_form": "네 감사합니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.68",
+			"start": "588.954",
+			"end": "601.751",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "교통 시대의 알찬 정보를 위해 청취자들의 즐거운 시간을 위해 이번 주도 마음껏 오지랖을 펼치실 분이죠 오지랖 탐정 명지전문대 @이름4 교수님 나오셨습니다 어서 오십시오. /(bgm)",
+			"original_form": "교통 시대의 알찬 정보를 위해 청취자들의 즐거운 시간을 위해 이번 주도 마음껏 오지랖을 펼치실 분이죠 오지랖 탐정 명지전문대 &name4& 교수님 나오셨습니다 어서 오십시오.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.69",
+			"start": "601.751",
+			"end": "602.792",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "네 안녕하십니까. /(bgm)",
+			"original_form": "네 안녕하십니까.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.70",
+			"start": "602.792",
+			"end": "604.347",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "오늘 어떤 이야기해 주실 거예요? /(bgm)",
+			"original_form": "오늘 어떤 이야기해 주실 거예요?",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.71",
+			"start": "604.347",
+			"end": "606.886",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "요즘 좀 재미가 들 했습니다. /(bgm)",
+			"original_form": "요즘 좀 재미가 들 했습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.72",
+			"start": "606.886",
+			"end": "607.520",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아 그래요?",
+			"original_form": "아 그래요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.73",
+			"start": "607.520",
+			"end": "613.414",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "예 확실히 제가 재미가 없었거든요 그래서 이번 주는 좀 쉬어가는 이야기로 별난 자동차 이야기",
+			"original_form": "예 확실히 제가 재미가 없었거든요 그래서 이번 주는 좀 쉬어가는 이야기로 별난 자동차 이야기",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.74",
+			"start": "613.414",
+			"end": "622.012",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아 그래요 말씀도 들어 말씀하시는 거 보니까 또 재미가 덜 했다는 자체 분석을 하신 것 같은데 오늘 진짜 재미있을 것 같아요 그 말씀 하시니까.",
+			"original_form": "아 그래요 말씀도 들어 말씀하시는 거 보니까 또 재미가 덜 했다는 자체 분석을 하신 것 같은데 오늘 진짜 재미있을 것 같아요 그 말씀 하시니까.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.75",
+			"start": "622.012",
+			"end": "625.110",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "자 첫 번째 어떤 차부터 소개해 주실 거예요?",
+			"original_form": "자 첫 번째 어떤 차부터 소개해 주실 거예요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.76",
+			"start": "625.110",
+			"end": "632.510",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "이게 일단 주제를 잘 잡아야 되거든요 주제가 연속돼야 됩니다 일단 세계에서 가장 긴 자동차입니다.",
+			"original_form": "이게 일단 주제를 잘 잡아야 되거든요 주제가 연속돼야 됩니다 일단 세계에서 가장 긴 자동차입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.77",
+			"start": "632.510",
+			"end": "635.604",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "가장 긴 자동차요 어떤 거죠?",
+			"original_form": "가장 긴 자동차요 어떤 거죠?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.78",
+			"start": "635.604",
+			"end": "643.888",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "일반 자동차 생각하시면 왜 우리가 바퀴가 (네 개)/(4개) 달린 자동차가 떠올리기 쉽잖아요 근데 바퀴 수만 무려 (스물여섯 개입니다.)/(26개입니다.)",
+			"original_form": "일반 자동차 생각하시면 왜 우리가 바퀴가 네 개 달린 자동차가 떠올리기 쉽잖아요 근데 바퀴 수만 무려 스물여섯 개입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "네 개",
+					"number": "4개",
+					"begin": 24,
+					"end": 26
+				},
+				{
+					"id": 2,
+					"hangeul": "스물여섯 개입니다.",
+					"number": "26개입니다.",
+					"begin": 58,
+					"end": 67
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.79",
+			"start": "643.888",
+			"end": "645.033",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(스물여섯 개)/(26개)",
+			"original_form": "스물여섯 개",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "스물여섯 개",
+					"number": "26개",
+					"begin": 1,
+					"end": 6
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.80",
+			"start": "645.033",
+			"end": "654.908",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "굉장히 기다란 차인데 이 세계에서 가장 긴 자동차라는 수식어를 갖고 있는 리무진이 바로 그 주인공인데요 이 자동차 커스텀 자동차 제작자인 @이름5라는 사람이",
+			"original_form": "굉장히 기다란 차인데 이 세계에서 가장 긴 자동차라는 수식어를 갖고 있는 리무진이 바로 그 주인공인데요 이 자동차 커스텀 자동차 제작자인 &name5&라는 사람이",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.81",
+			"start": "654.908",
+			"end": "662.079",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "캐딜락 데빌이라고 있잖아요 긴 거 그거 (두 대를)/(2대를) 합쳐 가지고 만든 재설계 자동차입니다.",
+			"original_form": "캐딜락 데빌이라고 있잖아요 긴 거 그거 두 대를 합쳐 가지고 만든 재설계 자동차입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "두 대를",
+					"number": "2대를",
+					"begin": 23,
+					"end": 26
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.82",
+			"start": "662.079",
+			"end": "673.733",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "지금 말씀하신 대로 바퀴가 (스물여섯 개)/(26개) 그러면은 이거 굴릴래면은 힘도 쎄야 되겠다 이런 생각이 좀 가지거든요 근데 물론 인제 자동차에서 가장 긴 게 리무진이라고 보통 그러지 않습니까 보통 앞 좌석 뒷좌석 사이를",
+			"original_form": "지금 말씀하신 대로 바퀴가 스물여섯 개 그러면은 이거 굴릴래면은 힘도 쎄야 되겠다 이런 생각이 좀 가지거든요 근데 물론 인제 자동차에서 가장 긴 게 리무진이라고 보통 그러지 않습니까 보통 앞 좌석 뒷좌석 사이를",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "스물여섯 개",
+					"number": "26개",
+					"begin": 16,
+					"end": 21
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.83",
+			"start": "673.733",
+			"end": "685.853",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "한 (이삼십 센치)/(20~30센치) 정도 늘려서 좀 더 뒷좌석에 어떻게 보면 쇼퍼 드리븐이라고 그러죠 그래서 (브이아이피들을)/(VIP들을) 좀 편하게 하는 걸 리무진이라고 그러는데 지금 말씀을 듣다 보니까 길이가 완전히 틀린 것 같은데",
+			"original_form": "한 이삼십 센치 정도 늘려서 좀 더 뒷좌석에 어떻게 보면 쇼퍼 드리븐이라고 그러죠 그래서 브이아이피들을 좀 편하게 하는 걸 리무진이라고 그러는데 지금 말씀을 듣다 보니까 길이가 완전히 틀린 것 같은데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "브이아이피들을",
+					"english": "VIP들을",
+					"begin": 51,
+					"end": 57
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이삼십 센치",
+					"number": "20~30센치",
+					"begin": 3,
+					"end": 8
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.84",
+			"start": "685.853",
+			"end": "688.828",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "오늘 소개해 주는 차는 지금 얼마나 긴 겁니까?",
+			"original_form": "오늘 소개해 주는 차는 지금 얼마나 긴 겁니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.85",
+			"start": "688.828",
+			"end": "697.913",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "이 길이만 (삼십 점 오 미터입니다)/(30. 5미터입니다) 너무 길기 때문에 자동차 중간 부분에 구부러질 수 있도록 제작이 되어있습니다. /(noise)",
+			"original_form": "이 길이만 삼십 점 오 미터입니다 너무 길기 때문에 자동차 중간 부분에 구부러질 수 있도록 제작이 되어있습니다.",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼십 점 오 미터입니다",
+					"number": "30. 5미터입니다",
+					"begin": 7,
+					"end": 18
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.86",
+			"start": "697.913",
+			"end": "706.331",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "굴곡도 돼 있어요 그러면 굴곡 그 버스하고 비슷한 거네요 왜냐하면 굴곡이 안 되면 사거리에서 회전을 못 하지 않습니까.",
+			"original_form": "굴곡도 돼 있어요 그러면 굴곡 그 버스하고 비슷한 거네요 왜냐하면 굴곡이 안 되면 사거리에서 회전을 못 하지 않습니까.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.87",
+			"start": "706.331",
+			"end": "711.714",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "그렇죠 그렇죠 그렇죠 자동차이기는 한데 도시철도나 기차를 떠올리시는 게 훨씬 더 이해하기 편하십니다.",
+			"original_form": "그렇죠 그렇죠 그렇죠 자동차이기는 한데 도시철도나 기차를 떠올리시는 게 훨씬 더 이해하기 편하십니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.88",
+			"start": "711.714",
+			"end": "723.137",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "이 긴 자동차 안에요 다이빙 보드도 있고요 풀장 있습니다 워터 베드 있구요 심지어는 작은 헬리콥터가 착륙할 수 있는 헬리패드도 장착돼 있답니다.",
+			"original_form": "이 긴 자동차 안에요 다이빙 보드도 있고요 풀장 있습니다 워터 베드 있구요 심지어는 작은 헬리콥터가 착륙할 수 있는 헬리패드도 장착돼 있답니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.89",
+			"start": "723.137",
+			"end": "727.294",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이게 차가 아니지 이게 완전히 이거 주택이 움직이는 주택이죠.",
+			"original_form": "이게 차가 아니지 이게 완전히 이거 주택이 움직이는 주택이죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.90",
+			"start": "727.294",
+			"end": "731.965",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "화려하게 꾸며진 내부 인테리어 덕분에 되게 오래된 차거든요 사실?",
+			"original_form": "화려하게 꾸며진 내부 인테리어 덕분에 되게 오래된 차거든요 사실?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.91",
+			"start": "731.965",
+			"end": "743.193",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "사실 이거 만드는 분들을 보면 좀 이상한 분들이야 그죠 이 천문학적인 비용을 쏟아부어 가지고 물론 이색 자동차 만들고 주목을 많이 받지만요 그런데 제가 걱정되는 게 아까도 이 곡선과 말씀드렸는데",
+			"original_form": "사실 이거 만드는 분들을 보면 좀 이상한 분들이야 그죠 이 천문학적인 비용을 쏟아부어 가지고 물론 이색 자동차 만들고 주목을 많이 받지만요 그런데 제가 걱정되는 게 아까도 이 곡선과 말씀드렸는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.92",
+			"start": "743.193",
+			"end": "751.759",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이거 너무 길어서 운전이나 제대로 할 수 있을까 이런 생각이 들거든요 반대로 인제 이거 가져올 때도 문제고요 좀 걱정이 좀 되는데",
+			"original_form": "이거 너무 길어서 운전이나 제대로 할 수 있을까 이런 생각이 들거든요 반대로 인제 이거 가져올 때도 문제고요 좀 걱정이 좀 되는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.93",
+			"start": "751.759",
+			"end": "755.519",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "자 반대로 그러면 세계에서 가장 작은 차 어떤 차입니까 그러면은",
+			"original_form": "자 반대로 그러면 세계에서 가장 작은 차 어떤 차입니까 그러면은",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.94",
+			"start": "755.519",
+			"end": "760.684",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "또 아시는구나 가장 작은 차인데 이름 자체가 가장 작은입니다.",
+			"original_form": "또 아시는구나 가장 작은 차인데 이름 자체가 가장 작은입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.95",
+			"start": "760.684",
+			"end": "761.630",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이름 자체가요?",
+			"original_form": "이름 자체가요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.96",
+			"start": "761.630",
+			"end": "771.280",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "예 이름을 가진 이 자동차가 영국의 맨섬의 @상호명8사라는 특이한 회사가 있거든요 영국이 왜 수제차 잘 만들잖아요.",
+			"original_form": "예 이름을 가진 이 자동차가 영국의 맨섬의 &company-name8&사라는 특이한 회사가 있거든요 영국이 왜 수제차 잘 만들잖아요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.97",
+			"start": "771.280",
+			"end": "781.825",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "얘네들이 또 희안하게 이걸 노리고 만든 것 같아요 필 (오)/(5) 필 (피)/(P) (오공이라는)/(50이라는) 차인데요 전체 길이가 어 (천삼백칠십일 밀리미터)/(1371 밀리미터)",
+			"original_form": "얘네들이 또 희안하게 이걸 노리고 만든 것 같아요 필 오 필 피 오공이라는 차인데요 전체 길이가 어 천삼백칠십일 밀리미터",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "피",
+					"english": "P",
+					"begin": 35,
+					"end": 35
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오",
+					"number": "5",
+					"begin": 31,
+					"end": 31
+				},
+				{
+					"id": 2,
+					"hangeul": "오공이라는",
+					"number": "50이라는",
+					"begin": 37,
+					"end": 41
+				},
+				{
+					"id": 3,
+					"hangeul": "천삼백칠십일 밀리미터",
+					"number": "1371 밀리미터",
+					"begin": 57,
+					"end": 67
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.98",
+			"start": "781.825",
+			"end": "789.110",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(일 점 삼 미터에요?)/(1. 3미터에요?) 지금 제 키보다 길이가 훨씬 더 짧은 거네요 전체 길이가 전장 말씀하시는 거죠 예",
+			"original_form": "일 점 삼 미터에요? 지금 제 키보다 길이가 훨씬 더 짧은 거네요 전체 길이가 전장 말씀하시는 거죠 예",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 점 삼 미터에요?",
+					"number": "1. 3미터에요?",
+					"begin": 1,
+					"end": 11
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.99",
+			"start": "789.110",
+			"end": "794.611",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "그리고 이제 전체 높이는요 (천이백 밀리미터)/(1200 밀리미터)",
+			"original_form": "그리고 이제 전체 높이는요 천이백 밀리미터",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "천이백 밀리미터",
+					"number": "1200 밀리미터",
+					"begin": 16,
+					"end": 23
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.100",
+			"start": "794.611",
+			"end": "802.577",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그니까 (일 점 이 미터)/(1. 2미터) 딱 뭐 아마 이 애청자분도 들으시면서 길이 (일 점 삼 미터)/(1. 3미터) 높이 (일 점 이 미터입니다)/(1. 2미터입니다) 그리구요?",
+			"original_form": "그니까 일 점 이 미터 딱 뭐 아마 이 애청자분도 들으시면서 길이 일 점 삼 미터 높이 일 점 이 미터입니다 그리구요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 점 이 미터",
+					"number": "1. 2미터",
+					"begin": 5,
+					"end": 12
+				},
+				{
+					"id": 2,
+					"hangeul": "일 점 삼 미터",
+					"number": "1. 3미터",
+					"begin": 38,
+					"end": 45
+				},
+				{
+					"id": 3,
+					"hangeul": "일 점 이 미터입니다",
+					"number": "1. 2미터입니다",
+					"begin": 50,
+					"end": 60
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.101",
+			"start": "802.577",
+			"end": "811.010",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "폭 어 구십 센치요 @웃음 그리고 이 자동차 무게가 (오십구 키로)/(59키로) 밖에 안됩니다.",
+			"original_form": "폭 어 구십 센치요 {laughing} 그리고 이 자동차 무게가 오십구 키로 밖에 안됩니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오십구 키로",
+					"number": "59키로",
+					"begin": 37,
+					"end": 42
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.102",
+			"start": "811.010",
+			"end": "811.762",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아 그래요?",
+			"original_form": "아 그래요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.103",
+			"start": "811.762",
+			"end": "813.834",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "예 그러니까 성인 남성 몸무게보다 적게 나갑니다.",
+			"original_form": "예 그러니까 성인 남성 몸무게보다 적게 나갑니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.104",
+			"start": "813.834",
+			"end": "822.714",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "근데 말씀 듣다 보니까 그런 것도 제가 봤어요 보면은 일본이 또 이런 것들을 시도를 굉장히 많이 하는데 일본에서 다니는 이제 일종의 마이크로 모빌리티인데",
+			"original_form": "근데 말씀 듣다 보니까 그런 것도 제가 봤어요 보면은 일본이 또 이런 것들을 시도를 굉장히 많이 하는데 일본에서 다니는 이제 일종의 마이크로 모빌리티인데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.105",
+			"start": "822.714",
+			"end": "833.651",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이 뭐냐 하면 (공공칠)/(007) 가방에 (공공칠)/(007) 가방을 딱 들고 가서요 (공공칠)/(007) 가방을 딱 여니까 이 모서리에서 바퀴 (네 개가)/(4개가) 탁 튀어나오고 그 위에 사람이 앉는 거예요 그리고 그냥 가는 거예요.",
+			"original_form": "이 뭐냐 하면 공공칠 가방에 공공칠 가방을 딱 들고 가서요 공공칠 가방을 딱 여니까 이 모서리에서 바퀴 네 개가 탁 튀어나오고 그 위에 사람이 앉는 거예요 그리고 그냥 가는 거예요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "공공칠",
+					"number": "007",
+					"begin": 9,
+					"end": 11
+				},
+				{
+					"id": 2,
+					"hangeul": "공공칠",
+					"number": "007",
+					"begin": 17,
+					"end": 19
+				},
+				{
+					"id": 3,
+					"hangeul": "공공칠",
+					"number": "007",
+					"begin": 34,
+					"end": 36
+				},
+				{
+					"id": 4,
+					"hangeul": "네 개가",
+					"number": "4개가",
+					"begin": 59,
+					"end": 62
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.106",
+			"start": "833.651",
+			"end": "846.673",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그러니까 이 필 저 (공공칠을)/(007을) 펴서 그 위에 앉아서 이동하는 자동차에요 근데 그거 자체를 한 (이십 키로)/(20키로) (삼십 키로)/(30키로) 뿐이 안 나갈 거 같은데 지금 이거는 말씀하신 거는 차 형태를 완전히 갖춘 거다 이런 생각이 드는데 근데",
+			"original_form": "그러니까 이 필 저 공공칠을 펴서 그 위에 앉아서 이동하는 자동차에요 근데 그거 자체를 한 이십 키로 삼십 키로 뿐이 안 나갈 거 같은데 지금 이거는 말씀하신 거는 차 형태를 완전히 갖춘 거다 이런 생각이 드는데 근데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "공공칠을",
+					"number": "007을",
+					"begin": 12,
+					"end": 15
+				},
+				{
+					"id": 2,
+					"hangeul": "이십 키로",
+					"number": "20키로",
+					"begin": 52,
+					"end": 56
+				},
+				{
+					"id": 3,
+					"hangeul": "삼십 키로",
+					"number": "30키로",
+					"begin": 58,
+					"end": 62
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.107",
+			"start": "846.673",
+			"end": "856.619",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "우리나라 같은 경우에는 가장 물론 경차가 요새 여러 가지가 있지만은 처음에 나오는 경차 중에서 티코가 있었거든요 이거 뭐 우스개소리로 뭐 들어서 옮긴다.",
+			"original_form": "우리나라 같은 경우에는 가장 물론 경차가 요새 여러 가지가 있지만은 처음에 나오는 경차 중에서 티코가 있었거든요 이거 뭐 우스개소리로 뭐 들어서 옮긴다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.108",
+			"start": "856.619",
+			"end": "866.393",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "실제로 문제가 있어서 사이드 브레이크를 채웠다 그러면 신경 안 쓰고 성인 (네 명)/(4명) 붙어서 들어서 옮겨버리면 이런 얘기 있었고 실제로 그랬었거든요 네 이거 진짜 가능합니까?",
+			"original_form": "실제로 문제가 있어서 사이드 브레이크를 채웠다 그러면 신경 안 쓰고 성인 네 명 붙어서 들어서 옮겨버리면 이런 얘기 있었고 실제로 그랬었거든요 네 이거 진짜 가능합니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "네 명",
+					"number": "4명",
+					"begin": 42,
+					"end": 44
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.109",
+			"start": "866.393",
+			"end": "869.017",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "이거는 기본적으로 혼자서도 옮기고요. /(noise)",
+			"original_form": "이거는 기본적으로 혼자서도 옮기고요.",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.110",
+			"start": "869.017",
+			"end": "871.232",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "혼자서도 옮깁니까 그죠 혼자서 옮기죠.",
+			"original_form": "혼자서도 옮깁니까 그죠 혼자서 옮기죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.111",
+			"start": "871.232",
+			"end": "879.552",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "그 정도는 기본이고요 이 필 (피오공이요)/(P50이요) 영국 자동차 버라이어티쇼 유명한 거 있잖아요 탑 기어 탑 기어에서 소개된 적이 있는데",
+			"original_form": "그 정도는 기본이고요 이 필 피오공이요 영국 자동차 버라이어티쇼 유명한 거 있잖아요 탑 기어 탑 기어에서 소개된 적이 있는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "피오공이요",
+					"english": "P50이요",
+					"begin": 17,
+					"end": 21
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "피오공이요",
+					"number": "P50이요",
+					"begin": 17,
+					"end": 21
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.112",
+			"start": "879.552",
+			"end": "881.417",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "그 프로그램 진행자 굉장히 유명합니다.",
+			"original_form": "그 프로그램 진행자 굉장히 유명합니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.113",
+			"start": "881.417",
+			"end": "890.920",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "저 본 기억 있어요 그거 그 차 그 차 입니까 그게 (피 오십)/(P50) (피 오십이에요)/(P50이에요) 그 (()) 사무실 들어가고 예 그 그 주인공이",
+			"original_form": "저 본 기억 있어요 그거 그 차 그 차 입니까 그게 피 오십 피 오십이에요 그 (()) 사무실 들어가고 예 그 그 주인공이",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "피 오십",
+					"english": "P50",
+					"begin": 30,
+					"end": 33
+				},
+				{
+					"id": 2,
+					"hangeul": "피 오십이에요",
+					"english": "P50이에요",
+					"begin": 35,
+					"end": 41
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "피 오십",
+					"number": "P50",
+					"begin": 30,
+					"end": 33
+				},
+				{
+					"id": 2,
+					"hangeul": "피 오십이에요",
+					"number": "P50이에요",
+					"begin": 35,
+					"end": 41
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.114",
+			"start": "890.920",
+			"end": "893.872",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "몸이 몸집이 크잖아요 몸집 커서",
+			"original_form": "몸이 몸집이 크잖아요 몸집 커서",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.115",
+			"start": "893.872",
+			"end": "897.688",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "영국의 @이름1 @웃음",
+			"original_form": "영국의 &name1& {laughing}",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.116",
+			"start": "897.688",
+			"end": "906.200",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "@이름6 워낙 유명하니까 근데 그 사람 찰 때 탈 때 제가 봤거든요 끼워서 집어넣느라구요 (()) 에다가 몸을 아주 끼워 집어넣더라고요.",
+			"original_form": "&name6& 워낙 유명하니까 근데 그 사람 찰 때 탈 때 제가 봤거든요 끼워서 집어넣느라구요 (()) 에다가 몸을 아주 끼워 집어넣더라고요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.117",
+			"start": "906.200",
+			"end": "912.204",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "근데 요로케 끼워서요 차를 탔어요 차를 타고 엘리베이터에 탔습니다 차가",
+			"original_form": "근데 요로케 끼워서요 차를 탔어요 차를 타고 엘리베이터에 탔습니다 차가",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.118",
+			"start": "912.204",
+			"end": "920.690",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "@웃음 그러니까 차에 탄 채로 또 같이 시승을 하는 거죠 들어가고 그러니까 그만큼 차가 작다는 뜻이고 엘리베이터가 큰 건지",
+			"original_form": "{laughing} 그러니까 차에 탄 채로 또 같이 시승을 하는 거죠 들어가고 그러니까 그만큼 차가 작다는 뜻이고 엘리베이터가 큰 건지",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.119",
+			"start": "920.690",
+			"end": "926.725",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "실제로 들어갔고요 그 상태로 올라갔고요 그리고 내려가지고 집 앞에 댔습니다.",
+			"original_form": "실제로 들어갔고요 그 상태로 올라갔고요 그리고 내려가지고 집 앞에 댔습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.120",
+			"start": "926.725",
+			"end": "930.931",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "어 그래요 지금 워낙 작은 차라서 좀 특이한 점이 굉장히 많을 것 같은데",
+			"original_form": "어 그래요 지금 워낙 작은 차라서 좀 특이한 점이 굉장히 많을 것 같은데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.121",
+			"start": "930.931",
+			"end": "938.319",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "그래서 이게 시동이 시동이 탑승 전에 진짜 직접 엔진 손잡이 있잖아요 옛날처럼 댕댕 이렇게 돌리는 거예요.",
+			"original_form": "그래서 이게 시동이 시동이 탑승 전에 진짜 직접 엔진 손잡이 있잖아요 옛날처럼 댕댕 이렇게 돌리는 거예요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.122",
+			"start": "938.319",
+			"end": "942.049",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "옛날 우리 찝차 앞에서 있죠 끼워가지고 막 돌려준 기억이 나거든요.",
+			"original_form": "옛날 우리 찝차 앞에서 있죠 끼워가지고 막 돌려준 기억이 나거든요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.123",
+			"start": "942.049",
+			"end": "953.567",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "그거를 해야 되고요 또 후진 기어가 없어서 후진 시에는 차에서 내려서 후면에 달린 손잡이를 들고 끌고 어 땡겨야 됩니다 근데 놀라운 거는 /(noise)",
+			"original_form": "그거를 해야 되고요 또 후진 기어가 없어서 후진 시에는 차에서 내려서 후면에 달린 손잡이를 들고 끌고 어 땡겨야 됩니다 근데 놀라운 거는",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.124",
+			"start": "953.567",
+			"end": "957.382",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "작은 차기는 한데요 느리지 않습니다 시속 (육십 킬로미터입니다.)/(60 킬로미터입니다.)",
+			"original_form": "작은 차기는 한데요 느리지 않습니다 시속 육십 킬로미터입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "육십 킬로미터입니다.",
+					"number": "60 킬로미터입니다.",
+					"begin": 24,
+					"end": 34
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.125",
+			"start": "957.382",
+			"end": "958.536",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "엄청나네요 이거",
+			"original_form": "엄청나네요 이거",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.126",
+			"start": "958.536",
+			"end": "965.682",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "예 (천구백육십이 년부터)/(1962년부터) (육십사 년까지)/(64년까지) 약 (오십대만)/(50대만) 생산해서 판매돼 있는데 희소가치도 굉장히",
+			"original_form": "예 천구백육십이 년부터 육십사 년까지 약 오십대만 생산해서 판매돼 있는데 희소가치도 굉장히",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "천구백육십이 년부터",
+					"number": "1962년부터",
+					"begin": 3,
+					"end": 12
+				},
+				{
+					"id": 2,
+					"hangeul": "육십사 년까지",
+					"number": "64년까지",
+					"begin": 14,
+					"end": 20
+				},
+				{
+					"id": 3,
+					"hangeul": "오십대만",
+					"number": "50대만",
+					"begin": 24,
+					"end": 27
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.127",
+			"start": "965.682",
+			"end": "968.751",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "일종의 클래식 카네요 고부가가치 클래식 카네요.",
+			"original_form": "일종의 클래식 카네요 고부가가치 클래식 카네요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.128",
+			"start": "968.751",
+			"end": "981.266",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "근데 이게 요즘 재미를 좀 봤던 모양입니다 @상호명8사가 (사십구 씨씨)/(49cc) 스트로크 엔진 탑재 모델과 함께 (일 점 오 킬로와트)/(1.5 킬로와트) 출력의 전기자동차도 내놨습니다.",
+			"original_form": "근데 이게 요즘 재미를 좀 봤던 모양입니다 &company-name8&사가 사십구 씨씨 스트로크 엔진 탑재 모델과 함께 일 점 오 킬로와트 출력의 전기자동차도 내놨습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "사십구 씨씨",
+					"english": "49cc",
+					"begin": 43,
+					"end": 48
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "사십구 씨씨",
+					"number": "49cc",
+					"begin": 43,
+					"end": 48
+				},
+				{
+					"id": 2,
+					"hangeul": "일 점 오 킬로와트",
+					"number": "1.5 킬로와트",
+					"begin": 68,
+					"end": 77
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.129",
+			"start": "981.266",
+			"end": "982.972",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "전기자동차 적용하기가 쉽죠.",
+			"original_form": "전기자동차 적용하기가 쉽죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.130",
+			"start": "982.972",
+			"end": "985.176",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "이게 전기자동차가 잘 된답니다.",
+			"original_form": "이게 전기자동차가 잘 된답니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.131",
+			"start": "985.176",
+			"end": "995.571",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "예 그렇죠 이게 인제 일명 소형 초소형 (일이 인승)/(1~2인승) 전기차를 우리가 마이크로 모빌리티다 이렇게 얘기를 하고 있거든요 그래서 고런 차로 만들어서 현대화식으로 미래형으로 만든 거네요?",
+			"original_form": "예 그렇죠 이게 인제 일명 소형 초소형 일이 인승 전기차를 우리가 마이크로 모빌리티다 이렇게 얘기를 하고 있거든요 그래서 고런 차로 만들어서 현대화식으로 미래형으로 만든 거네요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일이 인승",
+					"number": "1~2인승",
+					"begin": 23,
+					"end": 27
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.132",
+			"start": "995.571",
+			"end": "1004.432",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "상당히 재미있을 것 같은데 전 아까 설명하시는 것 내용 중에 재밌는 게 후진할 때 완전히 몸으로 때우는 아날로그 방식 아닙니까 이게 자 그러면은",
+			"original_form": "상당히 재미있을 것 같은데 전 아까 설명하시는 것 내용 중에 재밌는 게 후진할 때 완전히 몸으로 때우는 아날로그 방식 아닙니까 이게 자 그러면은",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.133",
+			"start": "1004.432",
+			"end": "1006.707",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "가장 높은 차하고 낮은 차가 있을 것 같은데",
+			"original_form": "가장 높은 차하고 낮은 차가 있을 것 같은데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.134",
+			"start": "1006.707",
+			"end": "1016.160",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "아 그렇죠 (()) 십니다 이번에는 세상에서 가장 낮은 도로 주행 자동차입니다 이 자동차는 얘기하셨던 (이천십삼 년도)/(2013년도) 일본에서 탄생했습니다.",
+			"original_form": "아 그렇죠 (()) 십니다 이번에는 세상에서 가장 낮은 도로 주행 자동차입니다 이 자동차는 얘기하셨던 이천십삼 년도 일본에서 탄생했습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이천십삼 년도",
+					"number": "2013년도",
+					"begin": 58,
+					"end": 64
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.135",
+			"start": "1016.160",
+			"end": "1027.442",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "그 아사코치라는 도시의 오까야마 산요 고등학교 자동차 공학과 학생들의 손에 의해서 만들어졌는데요 @상호명9에서 제작한 큐카의 구동계를 사용했는데",
+			"original_form": "그 아사코치라는 도시의 오까야마 산요 고등학교 자동차 공학과 학생들의 손에 의해서 만들어졌는데요 &company-name9&에서 제작한 큐카의 구동계를 사용했는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.136",
+			"start": "1027.442",
+			"end": "1034.090",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "바디하고 (@서스펜션이나)/(@suspension이나) (@스티어링이나)/(@steering이나) 시트 조명 같은 건 직접 전부 다 학생들이 다 만들었습니다.",
+			"original_form": "바디하고 서스펜션이나 스티어링이나 시트 조명 같은 건 직접 전부 다 학생들이 다 만들었습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "서스펜션이나",
+					"english": "suspension이나",
+					"begin": 6,
+					"end": 11
+				},
+				{
+					"id": 2,
+					"hangeul": "스티어링이나",
+					"english": "steering이나",
+					"begin": 13,
+					"end": 18
+				}
+			],
+			"hangeulToNumber": null,
+			"term": [
+				{
+					"id": 1,
+					"hangeul": "서스펜션이나",
+					"begin": 6,
+					"end": 11
+				},
+				{
+					"id": 2,
+					"hangeul": "스티어링이나",
+					"begin": 13,
+					"end": 18
+				}
+			]
+		},
+		{
+			"id": "DGBBB21000071.1.1.137",
+			"start": "1034.090",
+			"end": "1044.971",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아 그래요 이 우리나라도 그렇지만 일본도 그렇고 자동차 관련 전문 이렇게 고등학교나 이러면 대학에서 차를 직접 완전히 (백 퍼센트)/(100퍼센트) 거의 만들어가지고",
+			"original_form": "아 그래요 이 우리나라도 그렇지만 일본도 그렇고 자동차 관련 전문 이렇게 고등학교나 이러면 대학에서 차를 직접 완전히 백 퍼센트 거의 만들어가지고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "백 퍼센트",
+					"number": "100퍼센트",
+					"begin": 67,
+					"end": 71
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.138",
+			"start": "1044.971",
+			"end": "1055.388",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "뭐 시스템만 지금 갖다 일부 쓰고 그래서 이 전시하는 것들을 보면 완성도가 옛날하고 틀려요 굉장히 좋은데 그러니까 이 고등학교 친구들이 가장 낮은 차를 만들었다 이거죠?",
+			"original_form": "뭐 시스템만 지금 갖다 일부 쓰고 그래서 이 전시하는 것들을 보면 완성도가 옛날하고 틀려요 굉장히 좋은데 그러니까 이 고등학교 친구들이 가장 낮은 차를 만들었다 이거죠?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.139",
+			"start": "1055.388",
+			"end": "1065.091",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "근데 낮은 차하니까 그 생각이 들어요 우리가 인제 이 고급 스포츠카 중에서 고성능 차 중에서 람보르기니 있잖아요 낮은 람보르기니는 얼마나 낮냐면은요.",
+			"original_form": "근데 낮은 차하니까 그 생각이 들어요 우리가 인제 이 고급 스포츠카 중에서 고성능 차 중에서 람보르기니 있잖아요 낮은 람보르기니는 얼마나 낮냐면은요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.140",
+			"start": "1065.091",
+			"end": "1074.507",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이 주차장 들어갈 때 주차장 바 있죠 안 올리고 밑으로 지나가요 @웃음 그러니까 주차비 안 내고 그냥 통과하는 이런 경우도 있었거든요.",
+			"original_form": "이 주차장 들어갈 때 주차장 바 있죠 안 올리고 밑으로 지나가요 {laughing} 그러니까 주차비 안 내고 그냥 통과하는 이런 경우도 있었거든요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.141",
+			"start": "1074.507",
+			"end": "1076.079",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "요것도 가능합니다.",
+			"original_form": "요것도 가능합니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.142",
+			"start": "1076.079",
+			"end": "1076.570",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아 그래요?",
+			"original_form": "아 그래요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.143",
+			"start": "1076.570",
+			"end": "1085.443",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "요고 이름이 미라이 우리말로 미래라는 뜻인데요 자동차 바닥부터 가장 높은 지점까지의 길이가 총 (사십오 점 이 센치미터밖에)/(45. 2 센치미터밖에)",
+			"original_form": "요고 이름이 미라이 우리말로 미래라는 뜻인데요 자동차 바닥부터 가장 높은 지점까지의 길이가 총 사십오 점 이 센치미터밖에",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "사십오 점 이 센치미터밖에",
+					"number": "45. 2 센치미터밖에",
+					"begin": 54,
+					"end": 67
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.144",
+			"start": "1085.443",
+			"end": "1089.326",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "높은 데까지 (사십오 센치면)/(45센치면) 자 사람 엎드려야 되는 거 아니에요?",
+			"original_form": "높은 데까지 사십오 센치면 자 사람 엎드려야 되는 거 아니에요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "사십오 센치면",
+					"number": "45센치면",
+					"begin": 8,
+					"end": 14
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.145",
+			"start": "1089.326",
+			"end": "1101.933",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "거의 엎드립니다 엎드리는 수준인데 높이는 낮을지라도 이 자동차는 성인 남성 (한 명이)/(1명이) 탑승할 수 있구요 일본의 모든 도로에서 합법적으로 주행할 수 있습니다 거기다가 화석연료를 사용하지 않고 배터리를 사용하기 때문에",
+			"original_form": "거의 엎드립니다 엎드리는 수준인데 높이는 낮을지라도 이 자동차는 성인 남성 한 명이 탑승할 수 있구요 일본의 모든 도로에서 합법적으로 주행할 수 있습니다 거기다가 화석연료를 사용하지 않고 배터리를 사용하기 때문에",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "한 명이",
+					"number": "1명이",
+					"begin": 43,
+					"end": 46
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.146",
+			"start": "1101.933",
+			"end": "1106.411",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "오염물질 배출 안되구요 (한 번)/(1번) 충전하면 (팔십 키로는)/(80키로는) 너끈히 갑니다.",
+			"original_form": "오염물질 배출 안되구요 한 번 충전하면 팔십 키로는 너끈히 갑니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "한 번",
+					"number": "1번",
+					"begin": 14,
+					"end": 16
+				},
+				{
+					"id": 2,
+					"hangeul": "팔십 키로는",
+					"number": "80키로는",
+					"begin": 23,
+					"end": 28
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.147",
+			"start": "1106.411",
+			"end": "1115.878",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "대단하네요 친환경 의미가 있네요 또 이 말씀 들으니까 그 생각이 나요 호주에서 세계 이 태양광 자동차 대회가 있거든요 이 차는 되도록 가볍게 만들어야 되기 때문에",
+			"original_form": "대단하네요 친환경 의미가 있네요 또 이 말씀 들으니까 그 생각이 나요 호주에서 세계 이 태양광 자동차 대회가 있거든요 이 차는 되도록 가볍게 만들어야 되기 때문에",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.148",
+			"start": "1115.878",
+			"end": "1121.738",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "마른 사람이 타야 되고요 공기 저항 들어가기 위해서 누워서 타야 하는데 오직 태양광 태양전지로만 갑니다.",
+			"original_form": "마른 사람이 타야 되고요 공기 저항 들어가기 위해서 누워서 타야 하는데 오직 태양광 태양전지로만 갑니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.149",
+			"start": "1121.738",
+			"end": "1122.434",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "아 그럼요.",
+			"original_form": "아 그럼요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.150",
+			"start": "1122.434",
+			"end": "1133.678",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "예 그래서 이 또 이거 말고 또 리 (일 리터)/(1리터) 카라고 해서 (일 리터)/(1리터) 가지고 (일 리터)/(1리터) 가지고 박 교수님 보시기에 (일 리터)/(1리터) 가지고 몇 키로 갈 것 같아요 이론적으로 이론적인 게 아니라 실제로 이제 시험적으로 만든 거죠",
+			"original_form": "예 그래서 이 또 이거 말고 또 리 일 리터 카라고 해서 일 리터 가지고 일 리터 가지고 박 교수님 보시기에 일 리터 가지고 몇 키로 갈 것 같아요 이론적으로 이론적인 게 아니라 실제로 이제 시험적으로 만든 거죠",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 리터",
+					"number": "1리터",
+					"begin": 21,
+					"end": 24
+				},
+				{
+					"id": 2,
+					"hangeul": "일 리터",
+					"number": "1리터",
+					"begin": 33,
+					"end": 36
+				},
+				{
+					"id": 3,
+					"hangeul": "일 리터",
+					"number": "1리터",
+					"begin": 42,
+					"end": 45
+				},
+				{
+					"id": 4,
+					"hangeul": "일 리터",
+					"number": "1리터",
+					"begin": 62,
+					"end": 65
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.151",
+			"start": "1133.678",
+			"end": "1136.435",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "(일 리터)/(1리터) 가지고 (오십 키로?)/(50키로?)",
+			"original_form": "일 리터 가지고 오십 키로?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 리터",
+					"number": "1리터",
+					"begin": 1,
+					"end": 4
+				},
+				{
+					"id": 2,
+					"hangeul": "오십 키로?",
+					"number": "50키로?",
+					"begin": 10,
+					"end": 15
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.152",
+			"start": "1136.435",
+			"end": "1143.137",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아이 좀 크게 후하게 좀 얘기해 보세요 어우 무슨 (일 리터)/(1리터) 가지고 (오십 키로를)/(50키로를) 가요 지금 차가 얼마나 가는지 아세요?",
+			"original_form": "아이 좀 크게 후하게 좀 얘기해 보세요 어우 무슨 일 리터 가지고 오십 키로를 가요 지금 차가 얼마나 가는지 아세요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 리터",
+					"number": "1리터",
+					"begin": 29,
+					"end": 32
+				},
+				{
+					"id": 2,
+					"hangeul": "오십 키로를",
+					"number": "50키로를",
+					"begin": 38,
+					"end": 43
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.153",
+			"start": "1143.137",
+			"end": "1144.309",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "(백 키로요?)/(100키로요?)",
+			"original_form": "백 키로요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "백 키로요?",
+					"number": "100키로요?",
+					"begin": 1,
+					"end": 6
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.154",
+			"start": "1144.309",
+			"end": "1146.484",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(백 키로)/(100키로) 좀 후하게 가지시래두요.",
+			"original_form": "백 키로 좀 후하게 가지시래두요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "백 키로",
+					"number": "100키로",
+					"begin": 1,
+					"end": 4
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.155",
+			"start": "1146.484",
+			"end": "1147.258",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "(천 키로요?)/(1000키로요?)",
+			"original_form": "천 키로요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "천 키로요?",
+					"number": "1000키로요?",
+					"begin": 1,
+					"end": 6
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.156",
+			"start": "1147.258",
+			"end": "1148.002",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "예.",
+			"original_form": "예.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.157",
+			"start": "1148.002",
+			"end": "1148.812",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "아 (천 키로요?)/(1000키로요?)",
+			"original_form": "아 천 키로요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "천 키로요?",
+					"number": "1000키로요?",
+					"begin": 3,
+					"end": 8
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.158",
+			"start": "1148.812",
+			"end": "1161.241",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이상을 갑니다 대단하죠 대단합니다 물론 이제 수평이고요 물론 인제 (일 리터)/(1리터) 다 쓸 때까지 (천 킬로)/(1000킬로) 가면 사람 갈 거예요 맛이 갈거에요 주행거리를 간 다음에 유리 비커에 들어가 있는",
+			"original_form": "이상을 갑니다 대단하죠 대단합니다 물론 이제 수평이고요 물론 인제 일 리터 다 쓸 때까지 천 킬로 가면 사람 갈 거예요 맛이 갈거에요 주행거리를 간 다음에 유리 비커에 들어가 있는",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 리터",
+					"number": "1리터",
+					"begin": 38,
+					"end": 41
+				},
+				{
+					"id": 2,
+					"hangeul": "천 킬로",
+					"number": "1000킬로",
+					"begin": 51,
+					"end": 54
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.159",
+			"start": "1161.241",
+			"end": "1172.862",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이제 연료를 얼만큼 줄었는지를 보고 추산을 하는 이런 방법이죠 그래서 마일리지 카 대회라고 있거든요 그래서 이런 것들도 미리 어떤 과학기술에 대한 고연비 친환경 자동차를 만드는 건데",
+			"original_form": "이제 연료를 얼만큼 줄었는지를 보고 추산을 하는 이런 방법이죠 그래서 마일리지 카 대회라고 있거든요 그래서 이런 것들도 미리 어떤 과학기술에 대한 고연비 친환경 자동차를 만드는 건데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.160",
+			"start": "1172.862",
+			"end": "1182.295",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "자 근데 지금 조금 아까 그 차 들으니까 높이가 (사십오 센치면은)/(45센치면은) (한 가지는)/(1가지는) 걱정이 돼요 대한민국 하면 제일 세계에서 제일 많은 게 뭔지 아시죠?",
+			"original_form": "자 근데 지금 조금 아까 그 차 들으니까 높이가 사십오 센치면은 한 가지는 걱정이 돼요 대한민국 하면 제일 세계에서 제일 많은 게 뭔지 아시죠?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "사십오 센치면은",
+					"number": "45센치면은",
+					"begin": 28,
+					"end": 35
+				},
+				{
+					"id": 2,
+					"hangeul": "한 가지는",
+					"number": "1가지는",
+					"begin": 37,
+					"end": 41
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.161",
+			"start": "1182.295",
+			"end": "1189.880",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "과속방지턱 진짜 많은 나라입니다 그러니까 스포츠카의 지옥이다 이러거든요 밑바닥 다 긁어버리는 이거 못 넘어갈 것 같은데",
+			"original_form": "과속방지턱 진짜 많은 나라입니다 그러니까 스포츠카의 지옥이다 이러거든요 밑바닥 다 긁어버리는 이거 못 넘어갈 것 같은데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.162",
+			"start": "1189.880",
+			"end": "1195.554",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "못 넘고요 실제로 과속방지턱에 걸려가지고 시소가 됐던 적이 있습니다 들어서 옮겼죠",
+			"original_form": "못 넘고요 실제로 과속방지턱에 걸려가지고 시소가 됐던 적이 있습니다 들어서 옮겼죠",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.163",
+			"start": "1195.554",
+			"end": "1198.936",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아까 말씀드렸는데 가장 높은 차 어떤 차입니까?",
+			"original_form": "아까 말씀드렸는데 가장 높은 차 어떤 차입니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.164",
+			"start": "1198.936",
+			"end": "1204.542",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "아 이 가장 높은 차는 해외 노천광산 등지에서 사용되는 그 하울 트럭이라고 있습니다.",
+			"original_form": "아 이 가장 높은 차는 해외 노천광산 등지에서 사용되는 그 하울 트럭이라고 있습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.165",
+			"start": "1204.542",
+			"end": "1206.841",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이거 봤어요 이것도 봤어 네.",
+			"original_form": "이거 봤어요 이것도 봤어 네.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.166",
+			"start": "1206.841",
+			"end": "1217.112",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "이게 하울 트럭이 그냥 하나의 종류를 가르치 종류거든요 이게 광산 건설 현장 같은 데서 그 만들어진 특수 설계된 단단한 덤프트럭인데",
+			"original_form": "이게 하울 트럭이 그냥 하나의 종류를 가르치 종류거든요 이게 광산 건설 현장 같은 데서 그 만들어진 특수 설계된 단단한 덤프트럭인데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.167",
+			"start": "1217.112",
+			"end": "1230.470",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "이거 울트라 클래스로 분류되거든요 (삼백 톤)/(300톤) 정도 화물 적재량이에요 이게 어디서 나오냐 하면 그 아바타라는 영화가 있잖아요 거기가 큰 그 저기 타이어를 가진 자동차 있잖아요 예 그겁니다.",
+			"original_form": "이거 울트라 클래스로 분류되거든요 삼백 톤 정도 화물 적재량이에요 이게 어디서 나오냐 하면 그 아바타라는 영화가 있잖아요 거기가 큰 그 저기 타이어를 가진 자동차 있잖아요 예 그겁니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼백 톤",
+					"number": "300톤",
+					"begin": 20,
+					"end": 23
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.168",
+			"start": "1230.470",
+			"end": "1234.839",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "타이어 지름만 사 미터인데요 @상호명10 사의 힐 트럭이 대표적이구요.",
+			"original_form": "타이어 지름만 사 미터인데요 &company-name10& 사의 힐 트럭이 대표적이구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.169",
+			"start": "1234.839",
+			"end": "1246.951",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "와 지금 어떤 생각 하시면 될 것 같으면 (삼백 톤이면요)/(300톤이면요) 일반 우리가 길거리에서 굉장히 큰 트럭 보시죠 그게 (이십오 점 오 톤)/(25. 5톤) 짜립니다 굉장히 큰 트럭 그러니까 (삼백 톤이면은)/(300 톤이면은) 아마 어느 정도 큰지 기억나실 때도",
+			"original_form": "와 지금 어떤 생각 하시면 될 것 같으면 삼백 톤이면요 일반 우리가 길거리에서 굉장히 큰 트럭 보시죠 그게 이십오 점 오 톤 짜립니다 굉장히 큰 트럭 그러니까 삼백 톤이면은 아마 어느 정도 큰지 기억나실 때도",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼백 톤이면요",
+					"number": "300톤이면요",
+					"begin": 24,
+					"end": 30
+				},
+				{
+					"id": 2,
+					"hangeul": "이십오 점 오 톤",
+					"number": "25. 5톤",
+					"begin": 61,
+					"end": 69
+				},
+				{
+					"id": 3,
+					"hangeul": "삼백 톤이면은",
+					"number": "300 톤이면은",
+					"begin": 90,
+					"end": 96
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.170",
+			"start": "1246.951",
+			"end": "1260.087",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그리고 또 타이어 하게 되면은 이 타이어가 얼마큼 크냐면요 아이들이 이 휠 타이어 쪽에 이렇게 서 있으면요 구경에 반도 안 올라가 키가 타이어 하나의 키 높이가요 엄청난다라고 보시면 되구요.",
+			"original_form": "그리고 또 타이어 하게 되면은 이 타이어가 얼마큼 크냐면요 아이들이 이 휠 타이어 쪽에 이렇게 서 있으면요 구경에 반도 안 올라가 키가 타이어 하나의 키 높이가요 엄청난다라고 보시면 되구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.171",
+			"start": "1260.087",
+			"end": "1272.738",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그리고 지금 아까 말씀하셨는데 (사 미터 면은)/(4미터면은) 진짜 엄청나거든요 저도 인제 영화에서 보도 뭐 아까 실제로도 인제 봤다고 말씀드렸는데 물론 우리나라에서 못 봅니다 이거 우리나라에 없고 호주 특수한 노천광산 이런 데 있더라구요?",
+			"original_form": "그리고 지금 아까 말씀하셨는데 사 미터 면은 진짜 엄청나거든요 저도 인제 영화에서 보도 뭐 아까 실제로도 인제 봤다고 말씀드렸는데 물론 우리나라에서 못 봅니다 이거 우리나라에 없고 호주 특수한 노천광산 이런 데 있더라구요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "사 미터 면은",
+					"number": "4미터면은",
+					"begin": 18,
+					"end": 24
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.172",
+			"start": "1272.738",
+			"end": "1276.380",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "네 다른 신기한 차 또 있습니까 점점 신기해지는 것 같은데요?",
+			"original_form": "네 다른 신기한 차 또 있습니까 점점 신기해지는 것 같은데요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.173",
+			"start": "1276.380",
+			"end": "1287.456",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "기대하시는 거 알고 있습니다 제가 뭔지 역시 모든 분들이 다 똑같습니다 예 가장 비싼 차 가장 비싼 차 제일 궁금하시죠?",
+			"original_form": "기대하시는 거 알고 있습니다 제가 뭔지 역시 모든 분들이 다 똑같습니다 예 가장 비싼 차 가장 비싼 차 제일 궁금하시죠?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.174",
+			"start": "1287.456",
+			"end": "1293.786",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "세계에서 가장 비싼 차 알아볼 건데요 (천구백육십삼 년형)/(1963년형) 페라리가 영예의 고가 자동차로 이름을 올렸습니다.",
+			"original_form": "세계에서 가장 비싼 차 알아볼 건데요 천구백육십삼 년형 페라리가 영예의 고가 자동차로 이름을 올렸습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "천구백육십삼 년형",
+					"number": "1963년형",
+					"begin": 22,
+					"end": 30
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.175",
+			"start": "1293.786",
+			"end": "1294.927",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "얼마입니까 이거요.",
+			"original_form": "얼마입니까 이거요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.176",
+			"start": "1294.927",
+			"end": "1303.855",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "이거 (오백오십육억 원입니다)/(556억 원입니다) @웃음 페라리 에이 맞습니다 진짜로요. /(noise)",
+			"original_form": "이거 오백오십육억 원입니다 {laughing} 페라리 에이 맞습니다 진짜로요.",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오백오십육억 원입니다",
+					"number": "556억 원입니다",
+					"begin": 4,
+					"end": 14
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.177",
+			"start": "1303.855",
+			"end": "1315.251",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "페라리 (이오공)/(250) (지티오인데요)/(GTO인데요) 자동차 마니아들 사이에서 이미 뛰어난 주행성능 아름다운 디자인 그리고 세계에서 단 (삼십아홉 대만)/(39대만) 생산된 희귀 차종이기 때문에 꿈의 차로 불리고요.",
+			"original_form": "페라리 이오공 지티오인데요 자동차 마니아들 사이에서 이미 뛰어난 주행성능 아름다운 디자인 그리고 세계에서 단 삼십아홉 대만 생산된 희귀 차종이기 때문에 꿈의 차로 불리고요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "지티오인데요",
+					"english": "GTO인데요",
+					"begin": 9,
+					"end": 14
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이오공",
+					"number": "250",
+					"begin": 5,
+					"end": 7
+				},
+				{
+					"id": 2,
+					"hangeul": "삼십아홉 대만",
+					"number": "39대만",
+					"begin": 62,
+					"end": 68
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.178",
+			"start": "1315.251",
+			"end": "1322.167",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "이 모델 자체가 창업자 @이름7가 슈퍼카를 들어가는 참모델이기 때문에 굉장히 희소가치가 높습니다.",
+			"original_form": "이 모델 자체가 창업자 &name7&가 슈퍼카를 들어가는 참모델이기 때문에 굉장히 희소가치가 높습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.179",
+			"start": "1322.167",
+			"end": "1333.052",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아 그만큼 희소가치가 있다 보통 이제 클래식카 중에서 고부가가치가 있는 것들 뭐 수십억 원 정도 이런 것들만 해도 굉장히 높다 이렇게 생각하시는데 지금 말씀하셨던 (오백오십육억 원입니다.)/(556억 원입니다.)",
+			"original_form": "아 그만큼 희소가치가 있다 보통 이제 클래식카 중에서 고부가가치가 있는 것들 뭐 수십억 원 정도 이런 것들만 해도 굉장히 높다 이렇게 생각하시는데 지금 말씀하셨던 오백오십육억 원입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오백오십육억 원입니다.",
+					"number": "556억 원입니다.",
+					"begin": 92,
+					"end": 103
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.180",
+			"start": "1333.052",
+			"end": "1335.953",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "가격이 진짜 후덜덜한데 판매한 사람 누구입니까?",
+			"original_form": "가격이 진짜 후덜덜한데 판매한 사람 누구입니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.181",
+			"start": "1335.953",
+			"end": "1342.421",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "예 요거 팔아서 대박 나신 분 그 미국의 자동차 수집가인 @이름8라는",
+			"original_form": "예 요거 팔아서 대박 나신 분 그 미국의 자동차 수집가인 &name8&라는",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.182",
+			"start": "1342.421",
+			"end": "1345.639",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이름도 좀 특이하네요 피읖자가 이렇게 많어요.",
+			"original_form": "이름도 좀 특이하네요 피읖자가 이렇게 많어요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.183",
+			"start": "1345.639",
+			"end": "1357.121",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "어 어려워요 그런데 이분이 이탈리아 쪽 계열이더라고요 예 @이름8 그래서 이 금액은 원래 (천구백육십이 년형)/(1962년형) 원래 요 전 단계에 (이오공)/(250) (지티오가)/(GTO가)",
+			"original_form": "어 어려워요 그런데 이분이 이탈리아 쪽 계열이더라고요 예 &name8& 그래서 이 금액은 원래 천구백육십이 년형 원래 요 전 단계에 이오공 지티오가",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "지티오가",
+					"english": "GTO가",
+					"begin": 79,
+					"end": 82
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "천구백육십이 년형",
+					"number": "1962년형",
+					"begin": 54,
+					"end": 62
+				},
+				{
+					"id": 2,
+					"hangeul": "이오공",
+					"number": "250",
+					"begin": 75,
+					"end": 77
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.184",
+			"start": "1357.121",
+			"end": "1363.719",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "(삼백칠십사억 원)/(374억 원) 정도에 팔렸거든요 그런데 이거 갈아치우고 (오백오십육억 원)/(556억 원) 세계 최고 반열에 올랐습니다.",
+			"original_form": "삼백칠십사억 원 정도에 팔렸거든요 그런데 이거 갈아치우고 오백오십육억 원 세계 최고 반열에 올랐습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼백칠십사억 원",
+					"number": "374억 원",
+					"begin": 1,
+					"end": 8
+				},
+				{
+					"id": 2,
+					"hangeul": "오백오십육억 원",
+					"number": "556억 원",
+					"begin": 33,
+					"end": 40
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.185",
+			"start": "1363.719",
+			"end": "1373.642",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "대단합니다 차에 대해서 뭐 한없이 좋은 얘기가 많이 나오고 한번 흥미진진한 것 같습니다 그런데 날씨가 좀 덥지 않습니까 지금 시원한 차 없습니까 시원한 차",
+			"original_form": "대단합니다 차에 대해서 뭐 한없이 좋은 얘기가 많이 나오고 한번 흥미진진한 것 같습니다 그런데 날씨가 좀 덥지 않습니까 지금 시원한 차 없습니까 시원한 차",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.186",
+			"start": "1373.642",
+			"end": "1384.262",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "아 요 마지막 보너스 사실 요거 마지막으로 얘기드리려고 준비한 건데 요즘같이 더운 여름철에 꼭 이용해 보고 싶은 거 요런 자동차들이 예 있어요 예",
+			"original_form": "아 요 마지막 보너스 사실 요거 마지막으로 얘기드리려고 준비한 건데 요즘같이 더운 여름철에 꼭 이용해 보고 싶은 거 요런 자동차들이 예 있어요 예",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.187",
+			"start": "1384.262",
+			"end": "1394.656",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "요 이 자동차는 세계에서 가장 빠른 목욕탕이라는 이름을 갖고 있습니다 미국 (엘에이에)/(LA에) 사는 청년 (두 명이요)/(2명이요) (천구백육십구 년형)/(1969년형) 캐딜락 쿠페 있잖아요 왜 델마와 루이스 이런 데 나오는 거",
+			"original_form": "요 이 자동차는 세계에서 가장 빠른 목욕탕이라는 이름을 갖고 있습니다 미국 엘에이에 사는 청년 두 명이요 천구백육십구 년형 캐딜락 쿠페 있잖아요 왜 델마와 루이스 이런 데 나오는 거",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "엘에이에",
+					"english": "LA에",
+					"begin": 43,
+					"end": 46
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "두 명이요",
+					"number": "2명이요",
+					"begin": 54,
+					"end": 58
+				},
+				{
+					"id": 2,
+					"hangeul": "천구백육십구 년형",
+					"number": "1969년형",
+					"begin": 60,
+					"end": 68
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.188",
+			"start": "1394.656",
+			"end": "1398.175",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "굉장히 쓸데없는 부품 많이 있고 차만 큰 거 있죠.",
+			"original_form": "굉장히 쓸데없는 부품 많이 있고 차만 큰 거 있죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.189",
+			"start": "1398.175",
+			"end": "1405.925",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "고거 (팔십만 원)/(80만 원) 주고 사 갖고 개조한 차량인데요 수영장으로 이용하기 위해서 무리 없이 개조하는데 약 (육 년이)/(6년이) 걸렸습니다.",
+			"original_form": "고거 팔십만 원 주고 사 갖고 개조한 차량인데요 수영장으로 이용하기 위해서 무리 없이 개조하는데 약 육 년이 걸렸습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "팔십만 원",
+					"number": "80만 원",
+					"begin": 4,
+					"end": 8
+				},
+				{
+					"id": 2,
+					"hangeul": "육 년이",
+					"number": "6년이",
+					"begin": 57,
+					"end": 60
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.190",
+			"start": "1405.925",
+			"end": "1412.594",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아니 자동차에서 수영할 수 있다 이거죠 지금 아니 안에다 수영장을 만들었다 이 뜻인가요 시원할 것 같은데 진짜로",
+			"original_form": "아니 자동차에서 수영할 수 있다 이거죠 지금 아니 안에다 수영장을 만들었다 이 뜻인가요 시원할 것 같은데 진짜로",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.191",
+			"start": "1412.594",
+			"end": "1421.580",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "자동차 엔진으로 운전석에 채운 물의 온도를 유지시켜 줄 수도 있는데요 시원한 물도 가능하구요 섭씨 (삼십구 도까지)/(39도까지) 뜨거운 물로 데울 수도 있습니다.",
+			"original_form": "자동차 엔진으로 운전석에 채운 물의 온도를 유지시켜 줄 수도 있는데요 시원한 물도 가능하구요 섭씨 삼십구 도까지 뜨거운 물로 데울 수도 있습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼십구 도까지",
+					"number": "39도까지",
+					"begin": 56,
+					"end": 62
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.192",
+			"start": "1421.580",
+			"end": "1424.121",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "엔진 자체를 뜨겁게 이렇게 가열시키는 거네요.",
+			"original_form": "엔진 자체를 뜨겁게 이렇게 가열시키는 거네요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.193",
+			"start": "1424.121",
+			"end": "1433.432",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "그래서 자동차에 담긴 물 자체는 철저하게 방수처리돼 있고요 절대 밖으로 새지 않는데 수영장으로 물을 채운 상태에서 (백육십 키로)/(160키로) 속도를 낼 수 있습니다.",
+			"original_form": "그래서 자동차에 담긴 물 자체는 철저하게 방수처리돼 있고요 절대 밖으로 새지 않는데 수영장으로 물을 채운 상태에서 백육십 키로 속도를 낼 수 있습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "백육십 키로",
+					"number": "160키로",
+					"begin": 65,
+					"end": 70
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.194",
+			"start": "1433.432",
+			"end": "1441.069",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그러면 수영장 안에 사람이 누워서 수영복 입고 이렇게 바깥에 쳐다보는데 앞에 운전자는 운전하면서 손 흔들면서 이렇게 갈 수 있는 거네요?",
+			"original_form": "그러면 수영장 안에 사람이 누워서 수영복 입고 이렇게 바깥에 쳐다보는데 앞에 운전자는 운전하면서 손 흔들면서 이렇게 갈 수 있는 거네요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.195",
+			"start": "1441.069",
+			"end": "1443.699",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "그러니까 이 무더운 여름에 꼭 (한 번)/(1번) 이용해 보시면",
+			"original_form": "그러니까 이 무더운 여름에 꼭 한 번 이용해 보시면",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "한 번",
+					"number": "1번",
+					"begin": 18,
+					"end": 20
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.196",
+			"start": "1443.699",
+			"end": "1446.422",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "브레이크 잡으면 출렁거려서 물이 반이 빠질 것 같아요.",
+			"original_form": "브레이크 잡으면 출렁거려서 물이 반이 빠질 것 같아요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.197",
+			"start": "1446.422",
+			"end": "1455.164",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "아 그거 위험하죠 가능할 수 있습니다 근데요 교수님 요거 요거는 어떨까요 우리 이거 요번에 청취율 (일등)/(1등) 하면 둘이서 이거 해보는거",
+			"original_form": "아 그거 위험하죠 가능할 수 있습니다 근데요 교수님 요거 요거는 어떨까요 우리 이거 요번에 청취율 일등 하면 둘이서 이거 해보는거",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일등",
+					"number": "1등",
+					"begin": 56,
+					"end": 57
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.198",
+			"start": "1455.164",
+			"end": "1456.165",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이 차 빌려서요?",
+			"original_form": "이 차 빌려서요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.199",
+			"start": "1456.165",
+			"end": "1457.916",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "이 차 빌려가꼬 수영복 입고 이렇게",
+			"original_form": "이 차 빌려가꼬 수영복 입고 이렇게",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.200",
+			"start": "1457.916",
+			"end": "1468.356",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아 지금 코로나 때문에 가긴 어딜 갑니까 @웃음 자 오늘 이제 특이한 자동차 뭐 세계에서 특이한 이 대한민국에서 볼 수 없는 자동차하고도 가격도 그렇고 굉장히 재미있는 건데",
+			"original_form": "아 지금 코로나 때문에 가긴 어딜 갑니까 {laughing} 자 오늘 이제 특이한 자동차 뭐 세계에서 특이한 이 대한민국에서 볼 수 없는 자동차하고도 가격도 그렇고 굉장히 재미있는 건데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.201",
+			"start": "1468.356",
+			"end": "1477.775",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "다음 주가 더 기대가 되는 것 같습니다 말씀을 듣다 보니까 어 말씀만 들어도 신나는 그런 느낌이 많이 듭니다 그래서 이색 자동차 이모저모 알아봤습니다.",
+			"original_form": "다음 주가 더 기대가 되는 것 같습니다 말씀을 듣다 보니까 어 말씀만 들어도 신나는 그런 느낌이 많이 듭니다 그래서 이색 자동차 이모저모 알아봤습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.202",
+			"start": "1477.775",
+			"end": "1487.810",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "자동차에 관심이 많은 가족 단위 혹은 친구 사이에 가장 마음에 드는 자동차에 대해서 이야기를 나눠 보는 거 재미있을 것 같습니다 다음 주를 기대하겠습니다 @이름3 교수님 고맙습니다.",
+			"original_form": "자동차에 관심이 많은 가족 단위 혹은 친구 사이에 가장 마음에 드는 자동차에 대해서 이야기를 나눠 보는 거 재미있을 것 같습니다 다음 주를 기대하겠습니다 &name3& 교수님 고맙습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.203",
+			"start": "1487.810",
+			"end": "1488.769",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "예 감사합니다.",
+			"original_form": "예 감사합니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.204",
+			"start": "1488.769",
+			"end": "1499.353",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "자동차에 대해 잘 모르는 (@차알못도) 이 시간 함께하면 걱정이 없습니다 자동차에 대한 궁금한 점을 쉽고 친절하게 알려드리는 우리 명장님이 계시니까요. /(bgm)",
+			"original_form": "자동차에 대해 잘 모르는 차알못도 이 시간 함께하면 걱정이 없습니다 자동차에 대한 궁금한 점을 쉽고 친절하게 알려드리는 우리 명장님이 계시니까요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": [
+				{
+					"id": 1,
+					"hangeul": "차알못도",
+					"begin": 15,
+					"end": 18
+				}
+			]
+		},
+		{
+			"id": "DGBBB21000071.1.1.205",
+			"start": "1499.353",
+			"end": "1506.364",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "오늘도 대한민국 자동차 정비 명장과 함께하는 명장 본색입니다 @이름9 명장님 나오셨습니다 어서 오십시오. /(bgm)",
+			"original_form": "오늘도 대한민국 자동차 정비 명장과 함께하는 명장 본색입니다 &name9& 명장님 나오셨습니다 어서 오십시오.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.206",
+			"start": "1506.364",
+			"end": "1507.215",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "네 안녕하세요. /(bgm)",
+			"original_form": "네 안녕하세요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.207",
+			"start": "1507.215",
+			"end": "1511.401",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "네 명장님 세상에서 가장 좋은 자동차 어떤 자동차라고 보세요?",
+			"original_form": "네 명장님 세상에서 가장 좋은 자동차 어떤 자동차라고 보세요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.208",
+			"start": "1511.401",
+			"end": "1521.136",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "저는 일단 잘 달리고 또 잘 스고 또 내가 원하는 방향으로 조향이 가능한 차 이게 제일 좋은 차라 보는 거죠 왜냐하면 잘 달리기만 하는데 잘 못 스면 안 좋은 차잖아요.",
+			"original_form": "저는 일단 잘 달리고 또 잘 스고 또 내가 원하는 방향으로 조향이 가능한 차 이게 제일 좋은 차라 보는 거죠 왜냐하면 잘 달리기만 하는데 잘 못 스면 안 좋은 차잖아요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.209",
+			"start": "1521.136",
+			"end": "1533.090",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "근데 잘 또 방향도 틀 때 거기에 맞춰서 조향이 잘 돼야 되잖아요 그래서 잘 달리고 잘 스고 조향이 잘 되는 차 그 차는 좋은 차다 그다음에 될 수 있으면 어떤 사고가 안 나는",
+			"original_form": "근데 잘 또 방향도 틀 때 거기에 맞춰서 조향이 잘 돼야 되잖아요 그래서 잘 달리고 잘 스고 조향이 잘 되는 차 그 차는 좋은 차다 그다음에 될 수 있으면 어떤 사고가 안 나는",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.210",
+			"start": "1533.090",
+			"end": "1534.917",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그런 차가 좋은 차다 이렇게 보는 거죠.",
+			"original_form": "그런 차가 좋은 차다 이렇게 보는 거죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.211",
+			"start": "1534.917",
+			"end": "1547.147",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "예 결국은 인제 안전한 자동차가 가장 좋은 차다 이 말씀이신 것 같습니다 예 근데 이제 이 최근에 나오는 나온 차들 보게 되면 안전장치 신경을 많이 쓴다고 하는데 그중에 이제 불의의 사고가 났을 때",
+			"original_form": "예 결국은 인제 안전한 자동차가 가장 좋은 차다 이 말씀이신 것 같습니다 예 근데 이제 이 최근에 나오는 나온 차들 보게 되면 안전장치 신경을 많이 쓴다고 하는데 그중에 이제 불의의 사고가 났을 때",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.212",
+			"start": "1547.147",
+			"end": "1556.394",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "차 안에 사람들을 보호하기 위한 안전장치 중의 하나가 제가 대표적인 게 에어백인 것 같습니다 이 명장님 에어백도 맨 처음 등장했을 때보다 많이 진보했지 않습니까?",
+			"original_form": "차 안에 사람들을 보호하기 위한 안전장치 중의 하나가 제가 대표적인 게 에어백인 것 같습니다 이 명장님 에어백도 맨 처음 등장했을 때보다 많이 진보했지 않습니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.213",
+			"start": "1556.394",
+			"end": "1566.397",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "지금은 (일 세대부터 사 세대까지)/(1세대부터 4세대까지) 나와 있죠 (사 세대는)/(4세대는) 이제 수출용 차만 쓰다가 요새 이제 김 교수님이랑 저랑 뭐 (사 세대에서)/(4세대에서) 워낙 많이 하다 보니까",
+			"original_form": "지금은 일 세대부터 사 세대까지 나와 있죠 사 세대는 이제 수출용 차만 쓰다가 요새 이제 김 교수님이랑 저랑 뭐 사 세대에서 워낙 많이 하다 보니까",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 세대부터 사 세대까지",
+					"number": "1세대부터 4세대까지",
+					"begin": 5,
+					"end": 17
+				},
+				{
+					"id": 2,
+					"hangeul": "사 세대는",
+					"number": "4세대는",
+					"begin": 25,
+					"end": 29
+				},
+				{
+					"id": 3,
+					"hangeul": "사 세대에서",
+					"number": "4세대에서",
+					"begin": 64,
+					"end": 69
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.214",
+			"start": "1566.397",
+			"end": "1575.630",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그러다 보니까 이제 (삼 세대)/(3세대) (사 세대)/(4세대) 많이 쓰게 되는데 이제 에어백 같은 경우는 지금은 이제 이런 거죠 이제 좋은 차 같은 경우에 운전자가 몇 명 탔냐",
+			"original_form": "그러다 보니까 이제 삼 세대 사 세대 많이 쓰게 되는데 이제 에어백 같은 경우는 지금은 이제 이런 거죠 이제 좋은 차 같은 경우에 운전자가 몇 명 탔냐",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼 세대",
+					"number": "3세대",
+					"begin": 12,
+					"end": 15
+				},
+				{
+					"id": 2,
+					"hangeul": "사 세대",
+					"number": "4세대",
+					"begin": 17,
+					"end": 20
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.215",
+			"start": "1575.630",
+			"end": "1585.346",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "이 차가 감지하는 거죠 혼자만 탔다 그러면 혼자 있는 데만 터뜨리는 거고 만약에 (두 명)/(2명) 탔다 앞에 뒤에 그럼 (두 명)/(2명) 터트린 거예요 그다음에 인제 만약에 또",
+			"original_form": "이 차가 감지하는 거죠 혼자만 탔다 그러면 혼자 있는 데만 터뜨리는 거고 만약에 두 명 탔다 앞에 뒤에 그럼 두 명 터트린 거예요 그다음에 인제 만약에 또",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "두 명",
+					"number": "2명",
+					"begin": 46,
+					"end": 48
+				},
+				{
+					"id": 2,
+					"hangeul": "두 명",
+					"number": "2명",
+					"begin": 62,
+					"end": 64
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.216",
+			"start": "1585.346",
+			"end": "1595.565",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "몸무게가 무거운 사람이냐 가벼운 사람이냐 또 감지해서 가벼운 사람은 어린아이일 수가 있잖아요 그래서 이제 (한 번에)/(1번에) 빵 터트리는 게 아니라 단계별로 보통 (이 단계)/(2단계) 정도",
+			"original_form": "몸무게가 무거운 사람이냐 가벼운 사람이냐 또 감지해서 가벼운 사람은 어린아이일 수가 있잖아요 그래서 이제 한 번에 빵 터트리는 게 아니라 단계별로 보통 이 단계 정도",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "한 번에",
+					"number": "1번에",
+					"begin": 60,
+					"end": 63
+				},
+				{
+					"id": 2,
+					"hangeul": "이 단계",
+					"number": "2단계",
+					"begin": 86,
+					"end": 89
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.217",
+			"start": "1595.565",
+			"end": "1597.137",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "감지를 해서 터진 거죠?",
+			"original_form": "감지를 해서 터진 거죠?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.218",
+			"start": "1597.137",
+			"end": "1603.258",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "무게를 감지해서 터트리는 이런 시스템까지 해서 이게 (사 단계인데)/(4단계인데) 요새는 에어백이 많이 좋아졌죠 네",
+			"original_form": "무게를 감지해서 터트리는 이런 시스템까지 해서 이게 사 단계인데 요새는 에어백이 많이 좋아졌죠 네",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "사 단계인데",
+					"number": "4단계인데",
+					"begin": 30,
+					"end": 35
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.219",
+			"start": "1603.258",
+			"end": "1616.728",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그런데 예전에 보면 운전석만 에어백만 있었던 때도 있었고 또 예를 들어서 조수석까지가 있었고 최근에 보면 뒷좌석 사이드 에어백 커튼 에어백 종류도 많고 어떤 차 보면은 뭐",
+			"original_form": "그런데 예전에 보면 운전석만 에어백만 있었던 때도 있었고 또 예를 들어서 조수석까지가 있었고 최근에 보면 뒷좌석 사이드 에어백 커튼 에어백 종류도 많고 어떤 차 보면은 뭐",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.220",
+			"start": "1616.728",
+			"end": "1627.303",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(열 개)/(10개) 이상 되는 경우도 있는데 문제는 항상 그런 불만이 소비자들 중에서 가진 분들이 있어요 뭐냐면 차가 충돌해서 반파가 됐는데 에어백이 터지지 않아가지고 이거 문제가 있는 것 아니냐 이런 질문 많이 하시거든요.",
+			"original_form": "열 개 이상 되는 경우도 있는데 문제는 항상 그런 불만이 소비자들 중에서 가진 분들이 있어요 뭐냐면 차가 충돌해서 반파가 됐는데 에어백이 터지지 않아가지고 이거 문제가 있는 것 아니냐 이런 질문 많이 하시거든요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "열 개",
+					"number": "10개",
+					"begin": 1,
+					"end": 3
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.221",
+			"start": "1627.303",
+			"end": "1638.793",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "사실 에어백에 이제 사건들이 많았죠 아마 이렇게 좋은 에어백이 장착된 건 아마 우리 김 교수님 그동안에 방송 덕이나 저랑 많이 해서 아마 이렇게 좋아졌다라고 보는데",
+			"original_form": "사실 에어백에 이제 사건들이 많았죠 아마 이렇게 좋은 에어백이 장착된 건 아마 우리 김 교수님 그동안에 방송 덕이나 저랑 많이 해서 아마 이렇게 좋아졌다라고 보는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.222",
+			"start": "1638.793",
+			"end": "1651.884",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "사실 에어백 같은 경우가 인제 어 예전에는 결국 저 운전석만 있었죠 처음에는 뭐 그러다가 조금 고급차는 조수석까지 있었고 그러다가 이제 조금 있다 커튼 에어백도 생기게 되고 또 고급차들은 뒤에",
+			"original_form": "사실 에어백 같은 경우가 인제 어 예전에는 결국 저 운전석만 있었죠 처음에는 뭐 그러다가 조금 고급차는 조수석까지 있었고 그러다가 이제 조금 있다 커튼 에어백도 생기게 되고 또 고급차들은 뒤에",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.223",
+			"start": "1651.884",
+			"end": "1664.318",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "운전석이 있는까지 다 이제 핸들 있는 데까지 다 있었는데 사실은 이 에어백 자체가 어떻게 보면 안전거리를 확보 안 되든가 이러면 굉장히 위험할 수도 있는 거거든요 저는 이 에어백이 지금은 이제",
+			"original_form": "운전석이 있는까지 다 이제 핸들 있는 데까지 다 있었는데 사실은 이 에어백 자체가 어떻게 보면 안전거리를 확보 안 되든가 이러면 굉장히 위험할 수도 있는 거거든요 저는 이 에어백이 지금은 이제",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.224",
+			"start": "1664.318",
+			"end": "1676.382",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "항상 터지는 건 아니잖아요 터진 무조건 터진다고 좋은 건 아니기 때문에 에어백이 사람의 인체에 맞춰서 컴퓨터가 시뮬레이션까지 다 해 가지고 자기가 아 요쯤 여기서 터트려 겠다라는까지 했기 때문에",
+			"original_form": "항상 터지는 건 아니잖아요 터진 무조건 터진다고 좋은 건 아니기 때문에 에어백이 사람의 인체에 맞춰서 컴퓨터가 시뮬레이션까지 다 해 가지고 자기가 아 요쯤 여기서 터트려 겠다라는까지 했기 때문에",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.225",
+			"start": "1676.382",
+			"end": "1685.570",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "다른 에어백들이 지금 우리는 엄청나게 발전됐는데 우리가 생각하는 시점에서 터져야 될 게 안 터지고 또 안 터질 게 터지는 경우가 있어서 조금 아쉬움이 있는데",
+			"original_form": "다른 에어백들이 지금 우리는 엄청나게 발전됐는데 우리가 생각하는 시점에서 터져야 될 게 안 터지고 또 안 터질 게 터지는 경우가 있어서 조금 아쉬움이 있는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.226",
+			"start": "1685.570",
+			"end": "1697.628",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "아마 이제 조금 있으면 뭐 에어백이 정말 안전한 차가 아닌가 하는 생각을 합니다 근데 결국은 또 택시 같은 경우도 맨날 운전석만 있었잖아요 그러다가 저번에 우리 김 교수님 얘기했을 때 조수석에 왜 없냐 조수석도 이제 의무화가 됐는데",
+			"original_form": "아마 이제 조금 있으면 뭐 에어백이 정말 안전한 차가 아닌가 하는 생각을 합니다 근데 결국은 또 택시 같은 경우도 맨날 운전석만 있었잖아요 그러다가 저번에 우리 김 교수님 얘기했을 때 조수석에 왜 없냐 조수석도 이제 의무화가 됐는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.227",
+			"start": "1697.628",
+			"end": "1705.121",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "요새는 에어백에 대해서 뭐 세대는 물론이고 하여간 좋은 에어백들이 시스템 별로 굉장히 좋은 게 많이 나와 있더라고요.",
+			"original_form": "요새는 에어백에 대해서 뭐 세대는 물론이고 하여간 좋은 에어백들이 시스템 별로 굉장히 좋은 게 많이 나와 있더라고요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.228",
+			"start": "1705.121",
+			"end": "1716.619",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "네 그리고 이제 아까도 (사 세대)/(4세대) 에어백까지 지금 진보됐다 이런 말씀을 하셨는데 이 어떤 사고로 에어백이 터졌는데 이 상황에 따라서는 에어백이 도리어 흉기가 될 수 있다 이런 말도 많이 나오거든요.",
+			"original_form": "네 그리고 이제 아까도 사 세대 에어백까지 지금 진보됐다 이런 말씀을 하셨는데 이 어떤 사고로 에어백이 터졌는데 이 상황에 따라서는 에어백이 도리어 흉기가 될 수 있다 이런 말도 많이 나오거든요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "사 세대",
+					"number": "4세대",
+					"begin": 14,
+					"end": 17
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.229",
+			"start": "1716.619",
+			"end": "1724.447",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "제가 실험을 해 봤거든요 제가 이제 에어백을 맞은 사람이 얼굴에 (()) 멍들어갖고 병원에 입원한 적이 있었어요 그래서 제가",
+			"original_form": "제가 실험을 해 봤거든요 제가 이제 에어백을 맞은 사람이 얼굴에 (()) 멍들어갖고 병원에 입원한 적이 있었어요 그래서 제가",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.230",
+			"start": "1724.447",
+			"end": "1737.155",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "또 차를 고치고 왔길래 아니 왜 그러냐고 했더니 에어백에 맞았대요 사고 나가지고 그래서 그때 기분이 기분이 어땠냐 그랬더니 자기가 예전에 젊었을 때 술을 좋아했는데 가끔가다 만취해 가지고 콘크리트 바닥에 부딪쳐 가지고 코 깨지고 얼굴",
+			"original_form": "또 차를 고치고 왔길래 아니 왜 그러냐고 했더니 에어백에 맞았대요 사고 나가지고 그래서 그때 기분이 기분이 어땠냐 그랬더니 자기가 예전에 젊었을 때 술을 좋아했는데 가끔가다 만취해 가지고 콘크리트 바닥에 부딪쳐 가지고 코 깨지고 얼굴",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.231",
+			"start": "1737.155",
+			"end": "1749.429",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "망가지는 경험이 있는데 그것보다 더 쎄더라 에어백을 맞으니까 그런데 이분의 운전의 습관이 핸들 아주 가까이 운전하는 사람입니다 그러니깐 핸들하고 한 (삼십 센치)/(30센치) 정도를 이상 떨어뜨리고 해야 되는데",
+			"original_form": "망가지는 경험이 있는데 그것보다 더 쎄더라 에어백을 맞으니까 그런데 이분의 운전의 습관이 핸들 아주 가까이 운전하는 사람입니다 그러니깐 핸들하고 한 삼십 센치 정도를 이상 떨어뜨리고 해야 되는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼십 센치",
+					"number": "30센치",
+					"begin": 84,
+					"end": 88
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.232",
+			"start": "1749.429",
+			"end": "1751.207",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "왜 핸들 바짝 붙어서 하는 사람들 있습니다.",
+			"original_form": "왜 핸들 바짝 붙어서 하는 사람들 있습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.233",
+			"start": "1751.207",
+			"end": "1756.497",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "운전할 때요 도리어 그게 위험해서 에어백이 흉기가 될 수 있다 그래서 너무 앞으로 다가오게 되면 그거 맞지 않습니까",
+			"original_form": "운전할 때요 도리어 그게 위험해서 에어백이 흉기가 될 수 있다 그래서 너무 앞으로 다가오게 되면 그거 맞지 않습니까",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.234",
+			"start": "1756.497",
+			"end": "1769.250",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그러니까 초보운전 배울 때 뭔가 불안함을 느끼는 사람 있잖아요 그러니까 그냥 다급한 마음에 가까이하면 더 앞에도 잘 보이기는 해요 그러다 보면 그게 습관이 돼서 하다 보니까 (삼 센치)/(3센치) 안에 있는 것이",
+			"original_form": "그러니까 초보운전 배울 때 뭔가 불안함을 느끼는 사람 있잖아요 그러니까 그냥 다급한 마음에 가까이하면 더 앞에도 잘 보이기는 해요 그러다 보면 그게 습관이 돼서 하다 보니까 삼 센치 안에 있는 것이",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼 센치",
+					"number": "3센치",
+					"begin": 98,
+					"end": 101
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.235",
+			"start": "1769.250",
+			"end": "1779.041",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "터지게 되니까 그 모양이 된 거예요 그래서 제가 실험을 해봤죠 진짜 얼마나 쎈가 해 가지고 (@바이스에) 수박을 딱 넣고 에어백 거기다 딱 놓고 (삼십 센치)/(30센치) 안에 딱 놓고 터트려 봤더니",
+			"original_form": "터지게 되니까 그 모양이 된 거예요 그래서 제가 실험을 해봤죠 진짜 얼마나 쎈가 해 가지고 바이스에 수박을 딱 넣고 에어백 거기다 딱 놓고 삼십 센치 안에 딱 놓고 터트려 봤더니",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼십 센치",
+					"number": "30센치",
+					"begin": 79,
+					"end": 83
+				}
+			],
+			"term": [
+				{
+					"id": 1,
+					"hangeul": "바이스에",
+					"begin": 52,
+					"end": 55
+				}
+			]
+		},
+		{
+			"id": "DGBBB21000071.1.1.236",
+			"start": "1779.041",
+			"end": "1789.460",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "수박이 박살 나게 깨지더라고요 우리 솔직히 수박 주먹으로 우리 남자들 성인들도 (한 번)/(1번) 때려서 깨지나요 안 깨지거든요 근데 그런데 그게 깨질 정도면 얼마나 강한 겁니까.",
+			"original_form": "수박이 박살 나게 깨지더라고요 우리 솔직히 수박 주먹으로 우리 남자들 성인들도 한 번 때려서 깨지나요 안 깨지거든요 근데 그런데 그게 깨질 정도면 얼마나 강한 겁니까.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "한 번",
+					"number": "1번",
+					"begin": 45,
+					"end": 47
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.237",
+			"start": "1789.460",
+			"end": "1795.213",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "만약에 우리 김 교수님처럼 안경을 쓰셨대든가 아니면 또 성형을 했던 사람들 굉장히 위험할 수가 있는데",
+			"original_form": "만약에 우리 김 교수님처럼 안경을 쓰셨대든가 아니면 또 성형을 했던 사람들 굉장히 위험할 수가 있는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.238",
+			"start": "1795.213",
+			"end": "1807.576",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그래서 보면은 앞에 앉아서 이렇게 에어백이 터졌는데 사망은 안 하더라도 뭐 갈비뼈가 부러진다든지 또는 밀면서 열상을 입어서 이 목부터 얼굴까지 있죠 이 열상으로 인해 화상 입는 거 있죠.",
+			"original_form": "그래서 보면은 앞에 앉아서 이렇게 에어백이 터졌는데 사망은 안 하더라도 뭐 갈비뼈가 부러진다든지 또는 밀면서 열상을 입어서 이 목부터 얼굴까지 있죠 이 열상으로 인해 화상 입는 거 있죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.239",
+			"start": "1807.576",
+			"end": "1809.108",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그런 사고도 많이 있거든요.",
+			"original_form": "그런 사고도 많이 있거든요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.240",
+			"start": "1809.108",
+			"end": "1819.442",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "또 하나가 에어백이 한 템포 늦게 터져 가지고 하마터면 늦게 가슴을 맞은 분이 있습니다 옛날 강원도 교수 강원대학교 교수님인데 너무 아파하는 거야 그래서 내가",
+			"original_form": "또 하나가 에어백이 한 템포 늦게 터져 가지고 하마터면 늦게 가슴을 맞은 분이 있습니다 옛날 강원도 교수 강원대학교 교수님인데 너무 아파하는 거야 그래서 내가",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.241",
+			"start": "1819.442",
+			"end": "1826.658",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "왜냐 빨리 터지잖아요 (천 분의)/(1000분의) (일초)/(1초) (이초)/(2초) (삼초)/(3초) 터지는데 그걸 한 템포 늦게 터지는 것도 있다는 사실을 그때 알았어요.",
+			"original_form": "왜냐 빨리 터지잖아요 천 분의 일초 이초 삼초 터지는데 그걸 한 템포 늦게 터지는 것도 있다는 사실을 그때 알았어요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "천 분의",
+					"number": "1000분의",
+					"begin": 13,
+					"end": 16
+				},
+				{
+					"id": 2,
+					"hangeul": "일초",
+					"number": "1초",
+					"begin": 18,
+					"end": 19
+				},
+				{
+					"id": 3,
+					"hangeul": "이초",
+					"number": "2초",
+					"begin": 21,
+					"end": 22
+				},
+				{
+					"id": 4,
+					"hangeul": "삼초",
+					"number": "3초",
+					"begin": 24,
+					"end": 25
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.242",
+			"start": "1826.658",
+			"end": "1835.173",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그런 얘기가 있죠 미국이 이제 (사 세대)/(4세대) 에어백이 세계에서 가장 진보된 에어백을 의무적으로 택일하는 이유가 미국에서 이전에 실태조사를 했는데",
+			"original_form": "그런 얘기가 있죠 미국이 이제 사 세대 에어백이 세계에서 가장 진보된 에어백을 의무적으로 택일하는 이유가 미국에서 이전에 실태조사를 했는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "사 세대",
+					"number": "4세대",
+					"begin": 18,
+					"end": 21
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.243",
+			"start": "1835.173",
+			"end": "1845.767",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "과거 한 (십 년)/(10년) 동안에 에어백 그때 (일 세대)/(1세대) 파워드 에어백이죠 그때 넣었을 때 이 (십 년)/(10년) 동안에 (삼백 명이)/(300명이) 에어백 맞아 죽은 통계가 나오면서 미국이 난리가 났었거든요 그래서",
+			"original_form": "과거 한 십 년 동안에 에어백 그때 일 세대 파워드 에어백이죠 그때 넣었을 때 이 십 년 동안에 삼백 명이 에어백 맞아 죽은 통계가 나오면서 미국이 난리가 났었거든요 그래서",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "십 년",
+					"number": "10년",
+					"begin": 6,
+					"end": 8
+				},
+				{
+					"id": 2,
+					"hangeul": "일 세대",
+					"number": "1세대",
+					"begin": 21,
+					"end": 24
+				},
+				{
+					"id": 3,
+					"hangeul": "십 년",
+					"number": "10년",
+					"begin": 47,
+					"end": 49
+				},
+				{
+					"id": 4,
+					"hangeul": "삼백 명이",
+					"number": "300명이",
+					"begin": 55,
+					"end": 59
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.244",
+			"start": "1845.767",
+			"end": "1853.292",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "에어백이 이렇게 빨리 됐지 않나 이렇게 보고 있는데 근데 그런 부분도 있어요 에어백이 안전장치긴 하더라도 상황에 따라서 흉기가 될 수가 있는데",
+			"original_form": "에어백이 이렇게 빨리 됐지 않나 이렇게 보고 있는데 근데 그런 부분도 있어요 에어백이 안전장치긴 하더라도 상황에 따라서 흉기가 될 수가 있는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.245",
+			"start": "1853.292",
+			"end": "1857.309",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "만약에 앞자리에 앉으면서 아이를 안고 있는 행위 이거 진짜 위험하지 않습니까?",
+			"original_form": "만약에 앞자리에 앉으면서 아이를 안고 있는 행위 이거 진짜 위험하지 않습니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.246",
+			"start": "1857.309",
+			"end": "1868.774",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그래서 아이는요 사실 앞에선 절대 안 되구요 어따 태워야 되냐면 조수석 뒷좌석 있죠 조수석 뒷좌석이 원래 우리가 맨날 자동차 옛날 뭐 자가용 시절에 보면 (브이아이피)/(VIP) 자리 아닙니까?",
+			"original_form": "그래서 아이는요 사실 앞에선 절대 안 되구요 어따 태워야 되냐면 조수석 뒷좌석 있죠 조수석 뒷좌석이 원래 우리가 맨날 자동차 옛날 뭐 자가용 시절에 보면 브이아이피 자리 아닙니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "브이아이피",
+					"english": "VIP",
+					"begin": 87,
+					"end": 91
+				}
+			],
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.247",
+			"start": "1868.774",
+			"end": "1880.413",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "거기가 어떻게 보면 안 자동차 중에 안전 존입니다 다른 사고 난 유형을 여러 가지 봤을 때 제일 안 다치는 부분이 고기에요 웬만한 사고에서 조수석 뒷좌석이 제일 안 다치는 거에요.",
+			"original_form": "거기가 어떻게 보면 안 자동차 중에 안전 존입니다 다른 사고 난 유형을 여러 가지 봤을 때 제일 안 다치는 부분이 고기에요 웬만한 사고에서 조수석 뒷좌석이 제일 안 다치는 거에요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.248",
+			"start": "1880.413",
+			"end": "1893.003",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그래서 (브이아이피)/(VIP) 타는 거 같애요 그다음에 조수석 앞쪽 굉장히 위험합니다 왜냐면 만약에 내가 운전을 하잖아요 본능적으로 내가 주변에 아주 귀한 사람이 있다 하더라도 본능적으로 자기는 안 다칠려고 핸들을 조작하게 돼 있어요.",
+			"original_form": "그래서 브이아이피 타는 거 같애요 그다음에 조수석 앞쪽 굉장히 위험합니다 왜냐면 만약에 내가 운전을 하잖아요 본능적으로 내가 주변에 아주 귀한 사람이 있다 하더라도 본능적으로 자기는 안 다칠려고 핸들을 조작하게 돼 있어요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "브이아이피",
+					"english": "VIP",
+					"begin": 5,
+					"end": 9
+				}
+			],
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.249",
+			"start": "1893.003",
+			"end": "1905.514",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그러면 조수석 앞쪽이 굉장히 위험한 자리가 돼요 그리고 또 이제 저기 운전석 뒤쪽 거기를 뭐 뒤에서 받칠 때 위험하기는 한데 어쨌든 어린아이들은 유아 시트를 매서 아이를 돌보는 마음으로",
+			"original_form": "그러면 조수석 앞쪽이 굉장히 위험한 자리가 돼요 그리고 또 이제 저기 운전석 뒤쪽 거기를 뭐 뒤에서 받칠 때 위험하기는 한데 어쨌든 어린아이들은 유아 시트를 매서 아이를 돌보는 마음으로",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.250",
+			"start": "1905.514",
+			"end": "1916.445",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "조수석 앞쪽에 태우는 건 굉장히 좀 피해야 되지 않나 생각합니다 왜냐면 거기는 제가 여러 가지 사고의 차들 저희는 공장이다 보니까 많이 보잖아요 하여간 큰 사고 나면 조수석이고",
+			"original_form": "조수석 앞쪽에 태우는 건 굉장히 좀 피해야 되지 않나 생각합니다 왜냐면 거기는 제가 여러 가지 사고의 차들 저희는 공장이다 보니까 많이 보잖아요 하여간 큰 사고 나면 조수석이고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.251",
+			"start": "1916.445",
+			"end": "1928.493",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "조수석 앞쪽이고 그다음에 또 뒤쪽에 받으면 운전석 뒤쪽이고 이렇기 때문에 어떻게 보면 안전 존이 운전석과 이제 저기 조수석 뒤쪽인데 또 운전석은 핸들 때매",
+			"original_form": "조수석 앞쪽이고 그다음에 또 뒤쪽에 받으면 운전석 뒤쪽이고 이렇기 때문에 어떻게 보면 안전 존이 운전석과 이제 저기 조수석 뒤쪽인데 또 운전석은 핸들 때매",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.252",
+			"start": "1928.493",
+			"end": "1938.401",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "이 핸들이 가슴을 때리잖아요 너무 가까이 밀려 들어오면서 그러기 때문에 사실은 안전 존 쪽에다가 아이를 유아 시트를 설치하는 게 굉장히 좋습니다 근데",
+			"original_form": "이 핸들이 가슴을 때리잖아요 너무 가까이 밀려 들어오면서 그러기 때문에 사실은 안전 존 쪽에다가 아이를 유아 시트를 설치하는 게 굉장히 좋습니다 근데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.253",
+			"start": "1938.401",
+			"end": "1949.686",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이제 참조해서 북유럽 쪽에서 그때 스웨덴인가 노르웨이가 그랬거든요 이 올해부터 추진하는 법 중에 하나가 카시트 자체를 똑바로 앉히지 않고 반대로 하게끔 법제화를 시켜요 왜 그러냐면",
+			"original_form": "이제 참조해서 북유럽 쪽에서 그때 스웨덴인가 노르웨이가 그랬거든요 이 올해부터 추진하는 법 중에 하나가 카시트 자체를 똑바로 앉히지 않고 반대로 하게끔 법제화를 시켜요 왜 그러냐면",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.254",
+			"start": "1949.686",
+			"end": "1961.449",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아이들 같은 경우에 앞에 충돌을 할 때 위와 같은 데는 목이 힘이 없으니까 앞으로 쏠려서 목에 충격을 받으니까 이거 뒤로 카시트를 돌려놓는 거죠 그런 것들도 안전에 관련된 굉장히 중요한 부분이 아닌가 이렇게 보고 있거든요.",
+			"original_form": "아이들 같은 경우에 앞에 충돌을 할 때 위와 같은 데는 목이 힘이 없으니까 앞으로 쏠려서 목에 충격을 받으니까 이거 뒤로 카시트를 돌려놓는 거죠 그런 것들도 안전에 관련된 굉장히 중요한 부분이 아닌가 이렇게 보고 있거든요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.255",
+			"start": "1961.449",
+			"end": "1972.180",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "제가 아는 사람이 그 유아시트 그것 때문에 사실은 아예 아이들의 에어백을 시트도 인제 접히고 아니면 보호하는 거예요 그냥 탁 맞는 게 아니라 이게 보호하는",
+			"original_form": "제가 아는 사람이 그 유아시트 그것 때문에 사실은 아예 아이들의 에어백을 시트도 인제 접히고 아니면 보호하는 거예요 그냥 탁 맞는 게 아니라 이게 보호하는",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.256",
+			"start": "1972.180",
+			"end": "1983.813",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그런 장치를 해봤는데 특허까지는 되는데 (()) 한마디로 이제 여러 가지 경제적인 문제가 있어서 그런 거 같아요 메이커에서 이제 내가 보기엔 굉장히 좋은 것 같은데 선정을 안 하시더라고",
+			"original_form": "그런 장치를 해봤는데 특허까지는 되는데 (()) 한마디로 이제 여러 가지 경제적인 문제가 있어서 그런 거 같아요 메이커에서 이제 내가 보기엔 굉장히 좋은 것 같은데 선정을 안 하시더라고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.257",
+			"start": "1983.813",
+			"end": "1994.965",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그거 있으면 내가 그 친구가 트렁크를 봤을 때는 굉장히 안어요 이렇게 엄마처럼 예 그래서 난 참 좋다 저런 건 메이커에서 선정할 것 같은데라는데 이상하게 안 하더라고.",
+			"original_form": "그거 있으면 내가 그 친구가 트렁크를 봤을 때는 굉장히 안어요 이렇게 엄마처럼 예 그래서 난 참 좋다 저런 건 메이커에서 선정할 것 같은데라는데 이상하게 안 하더라고.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.258",
+			"start": "1994.965",
+			"end": "2006.291",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "맞습니다 좋은 아이디어 같은 게 원천기술을 가지고 있음에도 불구하고 상품화라는 이 단계를 올라가기가 어려운데 정부나 이런 데에서도 중기부도 있잖습니까 그래서 좋은 아이디어 같은 경우는 좀 지원을 해서",
+			"original_form": "맞습니다 좋은 아이디어 같은 게 원천기술을 가지고 있음에도 불구하고 상품화라는 이 단계를 올라가기가 어려운데 정부나 이런 데에서도 중기부도 있잖습니까 그래서 좋은 아이디어 같은 경우는 좀 지원을 해서",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.259",
+			"start": "2006.291",
+			"end": "2009.540",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "상용화까지 만들어주는 사실 그 고비를 못 넘어가거든요.",
+			"original_form": "상용화까지 만들어주는 사실 그 고비를 못 넘어가거든요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.260",
+			"start": "2009.540",
+			"end": "2014.784",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그래서 유아시트도 그냥 우리가 여 뭐 어떻게 보면 안전벨트 매는 거에 지나지 않잖아요 그렇기 때문에",
+			"original_form": "그래서 유아시트도 그냥 우리가 여 뭐 어떻게 보면 안전벨트 매는 거에 지나지 않잖아요 그렇기 때문에",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.261",
+			"start": "2014.784",
+			"end": "2023.731",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "혹시나 아이들 목이라든가 교수님 말대로 목이라든가 또 아니면 또 이 간극이 또 차의 사고의 충격에 따라 달라질 수 있고 꼬꾸라질 수 뒤집어질 수 있는 거거든요 그래서",
+			"original_form": "혹시나 아이들 목이라든가 교수님 말대로 목이라든가 또 아니면 또 이 간극이 또 차의 사고의 충격에 따라 달라질 수 있고 꼬꾸라질 수 뒤집어질 수 있는 거거든요 그래서",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.262",
+			"start": "2023.731",
+			"end": "2035.305",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그쪽에 조수석 뒤쪽에 에어백을 어린이용 만약에 하게 되면 따로 하든가 아니면 선택을 하더라도 거기에도 에어백 하나는 하나쯤 뒤 조수석",
+			"original_form": "그쪽에 조수석 뒤쪽에 에어백을 어린이용 만약에 하게 되면 따로 하든가 아니면 선택을 하더라도 거기에도 에어백 하나는 하나쯤 뒤 조수석",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.263",
+			"start": "2035.305",
+			"end": "2046.759",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "뒤 시트 앞쪽의 뒤에다가 좀 만들어 두는 것도 아이들도 보호하는 것 아닌가 생각했고요 또 유아시트도 약간의 그런 한마디로 좀 이렇게 포장처럼 되게 되는 에어백이",
+			"original_form": "뒤 시트 앞쪽의 뒤에다가 좀 만들어 두는 것도 아이들도 보호하는 것 아닌가 생각했고요 또 유아시트도 약간의 그런 한마디로 좀 이렇게 포장처럼 되게 되는 에어백이",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.264",
+			"start": "2046.759",
+			"end": "2049.309",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "어 좀 있어야 되지 않을까 생각이 좀 듭니다.",
+			"original_form": "어 좀 있어야 되지 않을까 생각이 좀 듭니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.265",
+			"start": "2049.309",
+			"end": "2057.257",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그리고 역시 이제 에어백 하게 되면 실과 바늘이 한 세트가 이제 안전띠 아니 안전벨트 아닙니까 안전띠 안 매면 에어백이 더 위험하지 않습니까.",
+			"original_form": "그리고 역시 이제 에어백 하게 되면 실과 바늘이 한 세트가 이제 안전띠 아니 안전벨트 아닙니까 안전띠 안 매면 에어백이 더 위험하지 않습니까.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.266",
+			"start": "2057.257",
+			"end": "2068.228",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "네 맞습니다 사실은 이제 에어백과 안전벨트가 동시에 이렇게 작동된다는 동시에 작동하지 않거든요 자 안전벨트도 요새 다 (@프리텐셔너)/(@pretensioner) 안전벨트 같은 경우는 거기에 충격을 받으면",
+			"original_form": "네 맞습니다 사실은 이제 에어백과 안전벨트가 동시에 이렇게 작동된다는 동시에 작동하지 않거든요 자 안전벨트도 요새 다 프리텐셔너 안전벨트 같은 경우는 거기에 충격을 받으면",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "프리텐셔너",
+					"english": "pretensioner",
+					"begin": 67,
+					"end": 71
+				}
+			],
+			"hangeulToNumber": null,
+			"term": [
+				{
+					"id": 1,
+					"hangeul": "프리텐셔너",
+					"begin": 67,
+					"end": 71
+				}
+			]
+		},
+		{
+			"id": "DGBBB21000071.1.1.267",
+			"start": "2068.228",
+			"end": "2079.787",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "화약으로 안전벨트를 터트려요 그러면 그게 이제 (@프리텐셔너)/(@pretensioner) 기어로 확 땡겨가지고 운전자를 운전자를 시트에 딱 고정시킨 다음에 그다음에 에어백이 터지게 되어 있거든요 근데 만약에 또",
+			"original_form": "화약으로 안전벨트를 터트려요 그러면 그게 이제 프리텐셔너 기어로 확 땡겨가지고 운전자를 운전자를 시트에 딱 고정시킨 다음에 그다음에 에어백이 터지게 되어 있거든요 근데 만약에 또",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "프리텐셔너",
+					"english": "pretensioner",
+					"begin": 27,
+					"end": 31
+				}
+			],
+			"hangeulToNumber": null,
+			"term": [
+				{
+					"id": 1,
+					"hangeul": "프리텐셔너",
+					"begin": 27,
+					"end": 31
+				}
+			]
+		},
+		{
+			"id": "DGBBB21000071.1.1.268",
+			"start": "2079.787",
+			"end": "2091.080",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그 안전벨트가 또 한 (육칠 년)/(6~7년) 정도 되면 브레이크가 잘 안 듣는 경우가 많아요 원래 안전벨트 브레이크가 있어요 천천히 땡기면 쑥 들어오지만 빨리 땡기면 탁탁탁 걸리지 않습니까 이게 만약에 (한 번)/(1번)",
+			"original_form": "그 안전벨트가 또 한 육칠 년 정도 되면 브레이크가 잘 안 듣는 경우가 많아요 원래 안전벨트 브레이크가 있어요 천천히 땡기면 쑥 들어오지만 빨리 땡기면 탁탁탁 걸리지 않습니까 이게 만약에 한 번",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "육칠 년",
+					"number": "6~7년",
+					"begin": 13,
+					"end": 16
+				},
+				{
+					"id": 2,
+					"hangeul": "한 번",
+					"number": "1번",
+					"begin": 106,
+					"end": 108
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.269",
+			"start": "2091.080",
+			"end": "2099.270",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "작동될 때 그냥 풀려 버리게 되면 그 에어백이 결국 무기가 될 수 있는 거거든요 그래서 안전벨트도 저는 법적으로",
+			"original_form": "작동될 때 그냥 풀려 버리게 되면 그 에어백이 결국 무기가 될 수 있는 거거든요 그래서 안전벨트도 저는 법적으로",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.270",
+			"start": "2099.270",
+			"end": "2107.582",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "몇 키로 아니면 몇만 킬로 되면 교환하라 이런 항목이 있으면 좋겠어요 왜냐면 내가 보면 이게 대부분 안전벨트 매면 자기 안전을 생각하는 거보다",
+			"original_form": "몇 키로 아니면 몇만 킬로 되면 교환하라 이런 항목이 있으면 좋겠어요 왜냐면 내가 보면 이게 대부분 안전벨트 매면 자기 안전을 생각하는 거보다",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.271",
+			"start": "2107.582",
+			"end": "2109.827",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "교통 딱지 안 뗄려고 매는 사람도 꽤나 있거든요.",
+			"original_form": "교통 딱지 안 뗄려고 매는 사람도 꽤나 있거든요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.272",
+			"start": "2109.827",
+			"end": "2120.120",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "영구적으로 생각을 하시는 분들이 있는데 제가 보기에도 안전벨트 중에서 문제가 있거나 이거 고장이 있는 건데 그대로 하고 다니는 분들이 있거든요 그런 부분도 한번 점검하는 것도 괜찮지 않나",
+			"original_form": "영구적으로 생각을 하시는 분들이 있는데 제가 보기에도 안전벨트 중에서 문제가 있거나 이거 고장이 있는 건데 그대로 하고 다니는 분들이 있거든요 그런 부분도 한번 점검하는 것도 괜찮지 않나",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.273",
+			"start": "2120.120",
+			"end": "2129.475",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그래서 우리가 검사 우리 자동차 검사 맡잖습니까 (이 년)/(2년) (사 년)/(4년) 만에 맡게 되면 제가 봤을 때는 안전벨트 브레이크가 잘 듣나 안 듣나 보고 안되면",
+			"original_form": "그래서 우리가 검사 우리 자동차 검사 맡잖습니까 이 년 사 년 만에 맡게 되면 제가 봤을 때는 안전벨트 브레이크가 잘 듣나 안 듣나 보고 안되면",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이 년",
+					"number": "2년",
+					"begin": 28,
+					"end": 30
+				},
+				{
+					"id": 2,
+					"hangeul": "사 년",
+					"number": "4년",
+					"begin": 32,
+					"end": 34
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.274",
+			"start": "2129.475",
+			"end": "2141.576",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "아무래도 운전석에는 사람 많이 타고 조수석을 덜 탈 수 있고 뒤에는 좀 덜하더라도 운전석과 조수석은 어느 정도의 기간이 되면 안전벨트 교환하라는 품목이 들어가는 게 좋지 않을까 왜냐면",
+			"original_form": "아무래도 운전석에는 사람 많이 타고 조수석을 덜 탈 수 있고 뒤에는 좀 덜하더라도 운전석과 조수석은 어느 정도의 기간이 되면 안전벨트 교환하라는 품목이 들어가는 게 좋지 않을까 왜냐면",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.275",
+			"start": "2141.576",
+			"end": "2152.758",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "에어백이 있는데도 크게 다친 사람들을 데려오면 그게 안 맞는 거야 내가 봤을 때는 그거는 뭐 안전벨트 브레이크가 듣지 않아서 그 에어백 그냥 에 에 그럴 확률이 있었다고 보거든요?",
+			"original_form": "에어백이 있는데도 크게 다친 사람들을 데려오면 그게 안 맞는 거야 내가 봤을 때는 그거는 뭐 안전벨트 브레이크가 듣지 않아서 그 에어백 그냥 에 에 그럴 확률이 있었다고 보거든요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.276",
+			"start": "2152.758",
+			"end": "2162.797",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "제가 (()) 정확한 건 아무래도 저는 이제 맨날 사고 차가 우리 공장 들어오다 보니까 다친 사람들을 보게 되면 야 분명히 에어백이 터졌어 그렇다고 안전벨트가 작동되는 건 아닌데",
+			"original_form": "제가 (()) 정확한 건 아무래도 저는 이제 맨날 사고 차가 우리 공장 들어오다 보니까 다친 사람들을 보게 되면 야 분명히 에어백이 터졌어 그렇다고 안전벨트가 작동되는 건 아닌데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.277",
+			"start": "2162.797",
+			"end": "2173.973",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "어떻게 보면 야 이거 느슨하다 이거 한번 브레이킹 안 잡힌 거 아니야라는 생각이 드는 거죠 사실은 그래서 저는 인제 그 정말 안전을 생각한다면 안전벨트 메고 그냥 법적으로만 통과하면 된다는 게 아니라",
+			"original_form": "어떻게 보면 야 이거 느슨하다 이거 한번 브레이킹 안 잡힌 거 아니야라는 생각이 드는 거죠 사실은 그래서 저는 인제 그 정말 안전을 생각한다면 안전벨트 메고 그냥 법적으로만 통과하면 된다는 게 아니라",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.278",
+			"start": "2173.973",
+			"end": "2181.057",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "고 기간이 되면 최소한 (십 년)/(10년) 된 안전벨트는 앞과 뒤를 무조건 교환하라라는 항목이 들어가셨으면 좋겠다는 생각이 좀 듭니다.",
+			"original_form": "고 기간이 되면 최소한 십 년 된 안전벨트는 앞과 뒤를 무조건 교환하라라는 항목이 들어가셨으면 좋겠다는 생각이 좀 듭니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "십 년",
+					"number": "10년",
+					"begin": 14,
+					"end": 16
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.279",
+			"start": "2181.057",
+			"end": "2193.242",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그리고 역시 이제 보통 이제 요새 차는 자동 진단 기능 우리가 (@오비디 투라)/(@OBD2라) 그래서 진단 커넥터 여러 가지 기능들이 있는데 계기판에 에어백 경고등이 뜨는 경우가 간혹 있거든요 이거 바로 점검하는 게 낫겠죠.",
+			"original_form": "그리고 역시 이제 보통 이제 요새 차는 자동 진단 기능 우리가 오비디 투라 그래서 진단 커넥터 여러 가지 기능들이 있는데 계기판에 에어백 경고등이 뜨는 경우가 간혹 있거든요 이거 바로 점검하는 게 낫겠죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "오비디 투라",
+					"english": "OBD2라",
+					"begin": 36,
+					"end": 41
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오비디 투라",
+					"number": "OBD2라",
+					"begin": 36,
+					"end": 41
+				}
+			],
+			"term": [
+				{
+					"id": 1,
+					"hangeul": "오비디 투라",
+					"begin": 36,
+					"end": 41
+				}
+			]
+		},
+		{
+			"id": "DGBBB21000071.1.1.280",
+			"start": "2193.242",
+			"end": "2205.109",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "사실 에어백 경고등 뜨는 거는 대부분 (두 가지가)/(2가지가) 있어요 우리가 핸들 쪽에 (@클락 스프링) 있지 않습니까 거기에 배선이 내려가요 그 (@클락 스프링이) 고장이거나 배선에 접촉 불량이 한 (칠십 프로)/(70프로) 정도 되구요.",
+			"original_form": "사실 에어백 경고등 뜨는 거는 대부분 두 가지가 있어요 우리가 핸들 쪽에 클락 스프링 있지 않습니까 거기에 배선이 내려가요 그 클락 스프링이 고장이거나 배선에 접촉 불량이 한 칠십 프로 정도 되구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "두 가지가",
+					"number": "2가지가",
+					"begin": 22,
+					"end": 26
+				},
+				{
+					"id": 2,
+					"hangeul": "칠십 프로",
+					"number": "70프로",
+					"begin": 99,
+					"end": 103
+				}
+			],
+			"term": [
+				{
+					"id": 1,
+					"hangeul": "클락 스프링",
+					"begin": 42,
+					"end": 47
+				},
+				{
+					"id": 2,
+					"hangeul": "클락 스프링이",
+					"begin": 72,
+					"end": 78
+				}
+			]
+		},
+		{
+			"id": "DGBBB21000071.1.1.281",
+			"start": "2205.109",
+			"end": "2217.818",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그다음에 이제 앞에 그 모듈레이터가 고장이에요 고건 한 (삼십 프로)/(30프로) 됩니다 그래서 만약에 그 경고등이 들어왔다는 에어백은 일단 작동을 안 하는 겁니다 못하는 거죠 근데 대부분 고장이 (@클락 스프링이) 걔 고장이 한 (오십 프로)/(50프로)",
+			"original_form": "그다음에 이제 앞에 그 모듈레이터가 고장이에요 고건 한 삼십 프로 됩니다 그래서 만약에 그 경고등이 들어왔다는 에어백은 일단 작동을 안 하는 겁니다 못하는 거죠 근데 대부분 고장이 클락 스프링이 걔 고장이 한 오십 프로",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼십 프로",
+					"number": "30프로",
+					"begin": 32,
+					"end": 36
+				},
+				{
+					"id": 2,
+					"hangeul": "오십 프로",
+					"number": "50프로",
+					"begin": 118,
+					"end": 122
+				}
+			],
+			"term": [
+				{
+					"id": 1,
+					"hangeul": "클락 스프링이",
+					"begin": 102,
+					"end": 108
+				}
+			]
+		},
+		{
+			"id": "DGBBB21000071.1.1.282",
+			"start": "2217.818",
+			"end": "2230.380",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그다음에 배선이 뭐 한 (삼십 프로)/(30프로) 정도 되고 나머지 인제 모듈 자체기 때문에 아마 (@클락 스프링이나) 이런 거는 뭐 좀 돈이 들어가지만 배선하고 (@클락 스프링에) 문제가 되는 확률이 높으니까 꼭 점검할 필요가 있죠.",
+			"original_form": "그다음에 배선이 뭐 한 삼십 프로 정도 되고 나머지 인제 모듈 자체기 때문에 아마 클락 스프링이나 이런 거는 뭐 좀 돈이 들어가지만 배선하고 클락 스프링에 문제가 되는 확률이 높으니까 꼭 점검할 필요가 있죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼십 프로",
+					"number": "30프로",
+					"begin": 14,
+					"end": 18
+				}
+			],
+			"term": [
+				{
+					"id": 1,
+					"hangeul": "클락 스프링이나",
+					"begin": 47,
+					"end": 54
+				},
+				{
+					"id": 2,
+					"hangeul": "클락 스프링에",
+					"begin": 80,
+					"end": 86
+				}
+			]
+		},
+		{
+			"id": "DGBBB21000071.1.1.283",
+			"start": "2230.380",
+			"end": "2240.239",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "제가 마지막 질문으로요 혹시 에어백이 (한 번)/(1번) 터졌는데 뭐 간혹 잘못해서 터지는 경우가 있는데 이거 일회용으로 쓰기엔 너무 아깝다 이거 재활용할 수 없지 않느냐 이런 얘기도 하는 것 같애요.",
+			"original_form": "제가 마지막 질문으로요 혹시 에어백이 한 번 터졌는데 뭐 간혹 잘못해서 터지는 경우가 있는데 이거 일회용으로 쓰기엔 너무 아깝다 이거 재활용할 수 없지 않느냐 이런 얘기도 하는 것 같애요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "한 번",
+					"number": "1번",
+					"begin": 22,
+					"end": 24
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.284",
+			"start": "2240.239",
+			"end": "2249.627",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "아 그거는 이제 소비자 입장에 그런데 에어백 재사용하면 절대 안 됩니다 시스템적으로 그걸 아주 순간적인 (천분의)/(1000분의) (일 초)/(1초) (이 초)/(2초) (삼 초이기)/(3초이기) 때문에 그게 만약에 재사용하게 되면 그게 안 되면 어떻게 해요.",
+			"original_form": "아 그거는 이제 소비자 입장에 그런데 에어백 재사용하면 절대 안 됩니다 시스템적으로 그걸 아주 순간적인 천분의 일 초 이 초 삼 초이기 때문에 그게 만약에 재사용하게 되면 그게 안 되면 어떻게 해요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "천분의",
+					"number": "1000분의",
+					"begin": 59,
+					"end": 61
+				},
+				{
+					"id": 2,
+					"hangeul": "일 초",
+					"number": "1초",
+					"begin": 63,
+					"end": 65
+				},
+				{
+					"id": 3,
+					"hangeul": "이 초",
+					"number": "2초",
+					"begin": 67,
+					"end": 69
+				},
+				{
+					"id": 4,
+					"hangeul": "삼 초이기",
+					"number": "3초이기",
+					"begin": 71,
+					"end": 75
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.285",
+			"start": "2249.627",
+			"end": "2260.722",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "안전 백이 안전 에어백이 아니죠 그래서 저는 안전 에어백 같은 거를 재사용하는 것은 저는 개인적으로는 우리 현재 시스템은 좀 반대 의견에 표를 하나 던지겠습니다.",
+			"original_form": "안전 백이 안전 에어백이 아니죠 그래서 저는 안전 에어백 같은 거를 재사용하는 것은 저는 개인적으로는 우리 현재 시스템은 좀 반대 의견에 표를 하나 던지겠습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.286",
+			"start": "2260.722",
+			"end": "2270.801",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "자 오늘은 @이름9 명장님을 통해서 에어백 또 특히 이제 안전 장치의 또 안전띠와 에어백의 역할 이런 부분들을 말씀드렸습니다 말씀 고맙습니다. /(bgm)",
+			"original_form": "자 오늘은 &name9& 명장님을 통해서 에어백 또 특히 이제 안전 장치의 또 안전띠와 에어백의 역할 이런 부분들을 말씀드렸습니다 말씀 고맙습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.287",
+			"start": "2270.801",
+			"end": "2271.763",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "네 감사합니다.",
+			"original_form": "네 감사합니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.288",
+			"start": "2271.763",
+			"end": "2282.300",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "안녕하세요 엠씨 바꿔서 아나운서 @이름10입니다 (코로나일구)/(코로나19) 때문에 정말 많은 분들이 힘든 와중에 뜻밖의 호황을 맞은 곳도 있다고 합니다. /(bgm)",
+			"original_form": "안녕하세요 엠씨 바꿔서 아나운서 &name10&입니다 코로나일구 때문에 정말 많은 분들이 힘든 와중에 뜻밖의 호황을 맞은 곳도 있다고 합니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "코로나일구",
+					"number": "코로나19",
+					"begin": 31,
+					"end": 35
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.289",
+			"start": "2282.300",
+			"end": "2293.421",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "바로 자동차 정비업체인데요 어떻게 된 일인지 이유가 뭔지 관련 이야기 @이름11 교수님께 자세히 들어보겠습니다 저의 영원한 패널 우리 @이름11 교수님 안녕하세요. /(bgm)",
+			"original_form": "바로 자동차 정비업체인데요 어떻게 된 일인지 이유가 뭔지 관련 이야기 &name11& 교수님께 자세히 들어보겠습니다 저의 영원한 패널 우리 &name11& 교수님 안녕하세요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.290",
+			"start": "2293.421",
+			"end": "2295.210",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "안녕하세요 네. /(noise)",
+			"original_form": "안녕하세요 네.",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.291",
+			"start": "2295.210",
+			"end": "2297.582",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "계속 계셨으면서 새로 오신 척",
+			"original_form": "계속 계셨으면서 새로 오신 척",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.292",
+			"start": "2297.582",
+			"end": "2302.523",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "이 밖에서 하니까 너무 좋은 것 같습니다 편안한 것 같아요 지금 아무리 막 떠들어도 괜찮구요.",
+			"original_form": "이 밖에서 하니까 너무 좋은 것 같습니다 편안한 것 같아요 지금 아무리 막 떠들어도 괜찮구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.293",
+			"start": "2302.523",
+			"end": "2305.038",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "교수님 속마음 알잖아요 이 코너 제일 좋아하시잖아요.",
+			"original_form": "교수님 속마음 알잖아요 이 코너 제일 좋아하시잖아요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.294",
+			"start": "2305.038",
+			"end": "2306.855",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "좋습니다 네.",
+			"original_form": "좋습니다 네.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.295",
+			"start": "2306.855",
+			"end": "2317.957",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "어 (코로나일구)/(코로나19) 사태가 장기화되면서 정말 경제적으로 타격을 입은 분야들이 많은데요 그런데 자동차 정비업체는 호황을 누리고 있다고 해요 그런데 이 말은",
+			"original_form": "어 코로나일구 사태가 장기화되면서 정말 경제적으로 타격을 입은 분야들이 많은데요 그런데 자동차 정비업체는 호황을 누리고 있다고 해요 그런데 이 말은",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "코로나일구",
+					"number": "코로나19",
+					"begin": 3,
+					"end": 7
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.296",
+			"start": "2317.957",
+			"end": "2320.214",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "곧 사람들의 자동차 이용율이 높아졌",
+			"original_form": "곧 사람들의 자동차 이용율이 높아졌",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.297",
+			"start": "2320.214",
+			"end": "2331.876",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "맞습니다 요새 사고율도 많이 늘어났거든요 잘 보셔야 될 것 같아요 코로나가 이제 이 언제 종식이 될지는 상당히 지금 고민거리가 많잖습니까 우리가 포스트 코로나 시대 이런 얘기를 하고 있지마는",
+			"original_form": "맞습니다 요새 사고율도 많이 늘어났거든요 잘 보셔야 될 것 같아요 코로나가 이제 이 언제 종식이 될지는 상당히 지금 고민거리가 많잖습니까 우리가 포스트 코로나 시대 이런 얘기를 하고 있지마는",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.298",
+			"start": "2331.876",
+			"end": "2340.991",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "포스트 코로나 시대라는 것은 코로나 이후의 시댄데 코로나 계속 가게 되면 그 코로나 포스트 코로나 시대라는 말이 없는거에요거든요 그러니까 지금 고민이 되는 건데",
+			"original_form": "포스트 코로나 시대라는 것은 코로나 이후의 시댄데 코로나 계속 가게 되면 그 코로나 포스트 코로나 시대라는 말이 없는거에요거든요 그러니까 지금 고민이 되는 건데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.299",
+			"start": "2340.991",
+			"end": "2349.570",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "이 (()) 모델도 부익부 빈익빈 이지 않습니까 정비업만 하더라도 전국에 한 (사만 오천 군데)/(4만 5천 군데) 정도가 있는데 뭐 아시겠지만 레드오션화 됐어요.",
+			"original_form": "이 (()) 모델도 부익부 빈익빈 이지 않습니까 정비업만 하더라도 전국에 한 사만 오천 군데 정도가 있는데 뭐 아시겠지만 레드오션화 됐어요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "사만 오천 군데",
+					"number": "4만 5천 군데",
+					"begin": 44,
+					"end": 51
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.300",
+			"start": "2349.570",
+			"end": "2361.304",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "그러니까 이 어떻게 보면은 좀 스러지는 그러니까 이제 기업 중에서도 왜냐면 자동차의 내구성도 좋아지구요 요새 보면은 (에이에스도)/(AS도) 좋아지다 보니까 차가 고장이 나야지 정비 업소에 가는데",
+			"original_form": "그러니까 이 어떻게 보면은 좀 스러지는 그러니까 이제 기업 중에서도 왜냐면 자동차의 내구성도 좋아지구요 요새 보면은 에이에스도 좋아지다 보니까 차가 고장이 나야지 정비 업소에 가는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "에이에스도",
+					"english": "AS도",
+					"begin": 66,
+					"end": 70
+				}
+			],
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.301",
+			"start": "2361.304",
+			"end": "2372.456",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "그러다 보니까 우스갯소리로 그런 얘기 했죠 비나 눈 오는 걸 하늘 쳐다본다고 왜 그래야지 사고가 많이 생겨서 들어온다고 그러니까 (@천수답) 형태가 됐다 이렇게 얘기를 하는데 요번에 코로나 때문에 아시겠지마는",
+			"original_form": "그러다 보니까 우스갯소리로 그런 얘기 했죠 비나 눈 오는 걸 하늘 쳐다본다고 왜 그래야지 사고가 많이 생겨서 들어온다고 그러니까 천수답 형태가 됐다 이렇게 얘기를 하는데 요번에 코로나 때문에 아시겠지마는",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": [
+				{
+					"id": 1,
+					"hangeul": "천수답",
+					"begin": 73,
+					"end": 75
+				}
+			]
+		},
+		{
+			"id": "DGBBB21000071.1.1.302",
+			"start": "2372.456",
+			"end": "2383.553",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "이 나만의 공간 안전한 이동에 대한 부분들을 권장하다 보니까 대중교통보다도 대중교통을 타면 마스크도 해야 되죠 신경 많이 쓰이거든요 그러다 보니까 차 안에는 마스크 안 하고 편하다 보니까",
+			"original_form": "이 나만의 공간 안전한 이동에 대한 부분들을 권장하다 보니까 대중교통보다도 대중교통을 타면 마스크도 해야 되죠 신경 많이 쓰이거든요 그러다 보니까 차 안에는 마스크 안 하고 편하다 보니까",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.303",
+			"start": "2383.553",
+			"end": "2394.918",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "이 그저께 초보 운전면허 따가지고 오늘 차를 가지고 나오는 거예요 굉장히 위험하죠 고령자 운전자분들도 많이 가지고 나오고 그러다 보니까 차가 많이 나오면서 접촉 사고도 늘고",
+			"original_form": "이 그저께 초보 운전면허 따가지고 오늘 차를 가지고 나오는 거예요 굉장히 위험하죠 고령자 운전자분들도 많이 가지고 나오고 그러다 보니까 차가 많이 나오면서 접촉 사고도 늘고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.304",
+			"start": "2394.918",
+			"end": "2406.616",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "또 관리를 안 하다 보니까 관리를 받아야 되니까 그만큼 정비 업소를 많이 가니까 뭐 잘나가는 데는 정비 업소에 차가 줄 서있는 어떻게 보면 예전에 파리 날리고 손가락 빨고 있었다 그러는데",
+			"original_form": "또 관리를 안 하다 보니까 관리를 받아야 되니까 그만큼 정비 업소를 많이 가니까 뭐 잘나가는 데는 정비 업소에 차가 줄 서있는 어떻게 보면 예전에 파리 날리고 손가락 빨고 있었다 그러는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.305",
+			"start": "2406.616",
+			"end": "2415.518",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "최근에 들어와서는 활성화되어 있는 정비업이 많아지는 거는 상대적으로 야 이 코로나로 인해서 정비업이 살아나는 어떻게 보면 생각지도 못한 현상들이 생기는 거죠.",
+			"original_form": "최근에 들어와서는 활성화되어 있는 정비업이 많아지는 거는 상대적으로 야 이 코로나로 인해서 정비업이 살아나는 어떻게 보면 생각지도 못한 현상들이 생기는 거죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.306",
+			"start": "2415.518",
+			"end": "2426.820",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "그러네요 그러니까 결국 (코로나일구)/(코로나19) 이전에는 대중교통을 이용했던 분들 중에서도 (코로나일구)/(코로나19) 이후로 웬만하면 자가용을 이용하는 경우들이 많아지고",
+			"original_form": "그러네요 그러니까 결국 코로나일구 이전에는 대중교통을 이용했던 분들 중에서도 코로나일구 이후로 웬만하면 자가용을 이용하는 경우들이 많아지고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "코로나일구",
+					"number": "코로나19",
+					"begin": 14,
+					"end": 18
+				},
+				{
+					"id": 2,
+					"hangeul": "코로나일구",
+					"number": "코로나19",
+					"begin": 44,
+					"end": 48
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.307",
+			"start": "2426.820",
+			"end": "2436.831",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "그러다 보니까 이제 교통사고율도 높아지게 된다는 말씀이시잖아요 특히나 이제 휴가철이 다가오는데 이렇게 자차 이용해서 국내로 여행 가시는 분들 많을 것 같아서",
+			"original_form": "그러다 보니까 이제 교통사고율도 높아지게 된다는 말씀이시잖아요 특히나 이제 휴가철이 다가오는데 이렇게 자차 이용해서 국내로 여행 가시는 분들 많을 것 같아서",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.308",
+			"start": "2436.831",
+			"end": "2447.825",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "그럴 수밖에 없죠 지금 각 국가별로 섬에서 사는 거예요 다른 섬에서 다들 사는 거죠 다른 섬으로 못 넘어가고 있거든요 그러다 보니까 이 이동화에 대한 교통수단도 부익부 빈익빈이 가속화되면서",
+			"original_form": "그럴 수밖에 없죠 지금 각 국가별로 섬에서 사는 거예요 다른 섬에서 다들 사는 거죠 다른 섬으로 못 넘어가고 있거든요 그러다 보니까 이 이동화에 대한 교통수단도 부익부 빈익빈이 가속화되면서",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.309",
+			"start": "2447.825",
+			"end": "2458.990",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "아시겠지만 항공기 쪽도 손가락 빨고 있죠 화물기 외에는요 이동을 안 하다 보니까 또 예를 들어서 (에스알티나)/(SRT나) (케이티엑스)/(KTX) 같은 거 많이 타지만 요새도 필요한 사람들 타지",
+			"original_form": "아시겠지만 항공기 쪽도 손가락 빨고 있죠 화물기 외에는요 이동을 안 하다 보니까 또 예를 들어서 에스알티나 케이티엑스 같은 거 많이 타지만 요새도 필요한 사람들 타지",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "에스알티나",
+					"english": "SRT나",
+					"begin": 55,
+					"end": 59
+				},
+				{
+					"id": 2,
+					"hangeul": "케이티엑스",
+					"english": "KTX",
+					"begin": 61,
+					"end": 65
+				}
+			],
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.310",
+			"start": "2458.990",
+			"end": "2469.928",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "저도 출장 때문에 서울 부산 이런 거 타고 가는데 (두 시간)/(2시간) 이상 마스크 쓰고 있어야 되거든요 안에서 답답합니다 어쩔 수 없어요 그래서 나도 그렇지만 남을 위해서도",
+			"original_form": "저도 출장 때문에 서울 부산 이런 거 타고 가는데 두 시간 이상 마스크 쓰고 있어야 되거든요 안에서 답답합니다 어쩔 수 없어요 그래서 나도 그렇지만 남을 위해서도",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "두 시간",
+					"number": "2시간",
+					"begin": 29,
+					"end": 32
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.311",
+			"start": "2469.928",
+			"end": "2481.975",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "당연히 지켜야 되는 부분들인데 불편하거든요 그러다 보니까 차를 가지고 하는 분들이 많아서 올여름이 지금 고민이 많죠 그래서 올여름에 아마 가족동반으로 가실 때 가는 데가 휴양림이라든지",
+			"original_form": "당연히 지켜야 되는 부분들인데 불편하거든요 그러다 보니까 차를 가지고 하는 분들이 많아서 올여름이 지금 고민이 많죠 그래서 올여름에 아마 가족동반으로 가실 때 가는 데가 휴양림이라든지",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.312",
+			"start": "2481.975",
+			"end": "2492.515",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "좀 번잡하거나 이런 데를 지양을 해서 안 가시는 분들이 많이 등장을 해요 아마 그렇게 계획 잡으신 분들도 굉장히 많기 때문에 차를 가지고 이동하는 사람이 많아서 많이 막히니까",
+			"original_form": "좀 번잡하거나 이런 데를 지양을 해서 안 가시는 분들이 많이 등장을 해요 아마 그렇게 계획 잡으신 분들도 굉장히 많기 때문에 차를 가지고 이동하는 사람이 많아서 많이 막히니까",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.313",
+			"start": "2492.515",
+			"end": "2503.094",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "그러니까 좀 더 이 교통정보에 대한 것들을 좀 더 확실하게 인지를 하셔야 될 것 같아요 그리고 새로 낸 내는 도로들이 굉장히 많고 요새는 뭐 전국이 사통팔달로 잘 뚫려 있거든요.",
+			"original_form": "그러니까 좀 더 이 교통정보에 대한 것들을 좀 더 확실하게 인지를 하셔야 될 것 같아요 그리고 새로 낸 내는 도로들이 굉장히 많고 요새는 뭐 전국이 사통팔달로 잘 뚫려 있거든요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.314",
+			"start": "2503.094",
+			"end": "2512.766",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "그래서 차 가지고 이동할 때 좀 조심을 하셔야 되고 특히 항상 제가 강조 드리죠 새벽이나 아니면 야밤에 길이 잘 뚫린다고 가지 마시라고 왜 그러냐면",
+			"original_form": "그래서 차 가지고 이동할 때 좀 조심을 하셔야 되고 특히 항상 제가 강조 드리죠 새벽이나 아니면 야밤에 길이 잘 뚫린다고 가지 마시라고 왜 그러냐면",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.315",
+			"start": "2512.766",
+			"end": "2523.356",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "이 시야 확보도 안 돼있구요 졸음도 생기고 굉장히 위험합니다 사고의 비율도 높아요 그래서 장거리 운전할 때는 교대 운전도 좋고 또 보험도 가입을 해서",
+			"original_form": "이 시야 확보도 안 돼있구요 졸음도 생기고 굉장히 위험합니다 사고의 비율도 높아요 그래서 장거리 운전할 때는 교대 운전도 좋고 또 보험도 가입을 해서",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.316",
+			"start": "2523.356",
+			"end": "2534.024",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "편하게 막히는 것 자체를 즐겨라 이런 말씀을 드리거든요 그래서 코로나로 인한 부분들은 좀 더 고민을 하고 좀 더 개인위생에 대한 거 이 요새 비대면 비접촉의 언택트 방식이죠.",
+			"original_form": "편하게 막히는 것 자체를 즐겨라 이런 말씀을 드리거든요 그래서 코로나로 인한 부분들은 좀 더 고민을 하고 좀 더 개인위생에 대한 거 이 요새 비대면 비접촉의 언택트 방식이죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.317",
+			"start": "2534.024",
+			"end": "2546.239",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "그래서 이런 부분들도 요새 그래서 기업들마다 굉장히 고민이 많은데 이동 수단에 대한 것들도 그래서 국내가 자동차도 활성화돼서 올해 전 세계에서 유일하게 국산차 수입차",
+			"original_form": "그래서 이런 부분들도 요새 그래서 기업들마다 굉장히 고민이 많은데 이동 수단에 대한 것들도 그래서 국내가 자동차도 활성화돼서 올해 전 세계에서 유일하게 국산차 수입차",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.318",
+			"start": "2546.239",
+			"end": "2557.532",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "가장 판매가 높은 국가 중에 최고 국가가 대한민국인데요 수입차는요 팔 차가 없어요 다 팔아가지고 다 팔아버려 가지고 예를 들어서 예 완판입니다 그래서 거의 완판이고",
+			"original_form": "가장 판매가 높은 국가 중에 최고 국가가 대한민국인데요 수입차는요 팔 차가 없어요 다 팔아가지고 다 팔아버려 가지고 예를 들어서 예 완판입니다 그래서 거의 완판이고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.319",
+			"start": "2557.532",
+			"end": "2565.776",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "해외 공장이 셧다운 되다 보니까 뭐 아실 거예요 미국 같은 데도 지금 뭐 (삼백만)/(300만) 국민의 (일 퍼센트가)/(1 퍼센트가) 코로나 감염으로",
+			"original_form": "해외 공장이 셧다운 되다 보니까 뭐 아실 거예요 미국 같은 데도 지금 뭐 삼백만 국민의 일 퍼센트가 코로나 감염으로",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼백만",
+					"number": "300만",
+					"begin": 42,
+					"end": 44
+				},
+				{
+					"id": 2,
+					"hangeul": "일 퍼센트가",
+					"number": "1 퍼센트가",
+					"begin": 50,
+					"end": 55
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.320",
+			"start": "2565.776",
+			"end": "2568.676",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "(백 명)/(100명) 중의 (한 명이)/(1명이) 걸린 셈이죠.",
+			"original_form": "백 명 중의 한 명이 걸린 셈이죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "백 명",
+					"number": "100명",
+					"begin": 1,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"hangeul": "한 명이",
+					"number": "1명이",
+					"begin": 8,
+					"end": 11
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.321",
+			"start": "2568.676",
+			"end": "2579.558",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "자동차 공장을 셧다운 시키고 인공호흡기 만들고 차가 못 만들어요 그러니까 차를 국내에서 수입이 안 돼요 일단 이동 수단에 대한 것들은 여름휴가가 다가오니까 고민을 좀 하시면 더 좋을 것 같아요.",
+			"original_form": "자동차 공장을 셧다운 시키고 인공호흡기 만들고 차가 못 만들어요 그러니까 차를 국내에서 수입이 안 돼요 일단 이동 수단에 대한 것들은 여름휴가가 다가오니까 고민을 좀 하시면 더 좋을 것 같아요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.322",
+			"start": "2579.558",
+			"end": "2592.244",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "예 맞습니다 다시 본론으로 돌아와서 그래서 예 어쨌든 언텍트 방식 (코로나일구)/(코로나19) 사태 때문에 타인과의 접촉을 최소화하고자 자차를 이용하는데 만약 교통사고가 나버린다",
+			"original_form": "예 맞습니다 다시 본론으로 돌아와서 그래서 예 어쨌든 언텍트 방식 코로나일구 사태 때문에 타인과의 접촉을 최소화하고자 자차를 이용하는데 만약 교통사고가 나버린다",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "코로나일구",
+					"number": "코로나19",
+					"begin": 38,
+					"end": 42
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.323",
+			"start": "2592.244",
+			"end": "2595.566",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "그러면 오히려 더 본의 아니게 타인들이랑 많이 부딪치게 되잖아요.",
+			"original_form": "그러면 오히려 더 본의 아니게 타인들이랑 많이 부딪치게 되잖아요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.324",
+			"start": "2595.566",
+			"end": "2596.961",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "그 조심하셔야 되는 거에요.",
+			"original_form": "그 조심하셔야 되는 거에요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.325",
+			"start": "2596.961",
+			"end": "2606.532",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "정말 더 안전운전에 신경을 써야겠다 이런 말씀을 드리면서 마지막으로 초보나 고령 운전자들의 경우 특히나 좀 더 유의해야 하는 점 간략하게",
+			"original_form": "정말 더 안전운전에 신경을 써야겠다 이런 말씀을 드리면서 마지막으로 초보나 고령 운전자들의 경우 특히나 좀 더 유의해야 하는 점 간략하게",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.326",
+			"start": "2606.532",
+			"end": "2611.813",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "대한민국 가장 문제 되는 것 중의 하나가 운전면허 제도입니다 (열세 시간)/(13시간) 제가 항상 강조 드리죠?",
+			"original_form": "대한민국 가장 문제 되는 것 중의 하나가 운전면허 제도입니다 열세 시간 제가 항상 강조 드리죠?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "열세 시간",
+					"number": "13시간",
+					"begin": 35,
+					"end": 39
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.327",
+			"start": "2611.813",
+			"end": "2613.037",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "엉터리 면허라고",
+			"original_form": "엉터리 면허라고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.328",
+			"start": "2613.037",
+			"end": "2622.647",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "경찰청에 자문해 주면서 이런 면허가 어딨냐 예를 들어서 호주나 (이 년)/(2년) 독일 (삼 년)/(3년) 이런 얘기 할 필요도 없어요 일본이나 중국 이웃만 얘기를 하거든요 한중일 보통 얘기하잖아요.",
+			"original_form": "경찰청에 자문해 주면서 이런 면허가 어딨냐 예를 들어서 호주나 이 년 독일 삼 년 이런 얘기 할 필요도 없어요 일본이나 중국 이웃만 얘기를 하거든요 한중일 보통 얘기하잖아요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이 년",
+					"number": "2년",
+					"begin": 36,
+					"end": 38
+				},
+				{
+					"id": 2,
+					"hangeul": "삼 년",
+					"number": "3년",
+					"begin": 43,
+					"end": 45
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.329",
+			"start": "2622.647",
+			"end": "2630.426",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "(육십 시간으로)/(60시간으로) 가고 있습니다 우리나라 (열세 시간입니다)/(13시간입니다) 하루 반이면 따니까 중국에서 (오천 명이)/(5천 명이) 와서 면허를 따가는 어떻게 보면 웃지도 못하는 면허가 돼버렸어요.",
+			"original_form": "육십 시간으로 가고 있습니다 우리나라 열세 시간입니다 하루 반이면 따니까 중국에서 오천 명이 와서 면허를 따가는 어떻게 보면 웃지도 못하는 면허가 돼버렸어요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "육십 시간으로",
+					"number": "60시간으로",
+					"begin": 1,
+					"end": 7
+				},
+				{
+					"id": 2,
+					"hangeul": "열세 시간입니다",
+					"number": "13시간입니다",
+					"begin": 22,
+					"end": 29
+				},
+				{
+					"id": 3,
+					"hangeul": "오천 명이",
+					"number": "5천 명이",
+					"begin": 47,
+					"end": 51
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.330",
+			"start": "2630.426",
+			"end": "2640.938",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "그러니까 지금 면허 따가지고 차를 가지고 나오는데 오직 전진만 할 줄 알잖아요 주차 못 하죠 후진 못 하죠 문제가 크거든요 그래서 실질적으로 운전에 대한 것들을 제대로 배우셔야 된다는 겁니다.",
+			"original_form": "그러니까 지금 면허 따가지고 차를 가지고 나오는데 오직 전진만 할 줄 알잖아요 주차 못 하죠 후진 못 하죠 문제가 크거든요 그래서 실질적으로 운전에 대한 것들을 제대로 배우셔야 된다는 겁니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.331",
+			"start": "2640.938",
+			"end": "2650.942",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "다른 사람의 생명을 담보로 한다는 거 또 고령자 같은 경우에도 주의를 하셔야 하는 게 기기 조작이나 판단 능력이 많이 떨어지니까 더더욱 차를 가지고 나오는 건 이해가 되지만",
+			"original_form": "다른 사람의 생명을 담보로 한다는 거 또 고령자 같은 경우에도 주의를 하셔야 하는 게 기기 조작이나 판단 능력이 많이 떨어지니까 더더욱 차를 가지고 나오는 건 이해가 되지만",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.332",
+			"start": "2650.942",
+			"end": "2660.111",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "조심하시라는 거 그리고 보험에 대한 것들도 좀 적극적으로 가입을 해서 고런 부분에 문제가 없게끔 뭐 좀 대비하는 거",
+			"original_form": "조심하시라는 거 그리고 보험에 대한 것들도 좀 적극적으로 가입을 해서 고런 부분에 문제가 없게끔 뭐 좀 대비하는 거",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.333",
+			"start": "2660.111",
+			"end": "2666.898",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "그래서 이 자동차 관리에 대한 것들 안전에 대한 것들에 한번 제삼 숙고하는 것이 좋지 않을까 이렇게 보고 있습니다.",
+			"original_form": "그래서 이 자동차 관리에 대한 것들 안전에 대한 것들에 한번 제삼 숙고하는 것이 좋지 않을까 이렇게 보고 있습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.334",
+			"start": "2666.898",
+			"end": "2676.122",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "예 맞습니다 자 (코로나일구)/(코로나19) 사태 속에서 자동차 이용이 많아질수록 더욱더 운전의 기본기 그리고 안전운전에 신경을 많이 쓰셔야겠습니다.",
+			"original_form": "예 맞습니다 자 코로나일구 사태 속에서 자동차 이용이 많아질수록 더욱더 운전의 기본기 그리고 안전운전에 신경을 많이 쓰셔야겠습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "코로나일구",
+					"number": "코로나19",
+					"begin": 10,
+					"end": 14
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.335",
+			"start": "2676.122",
+			"end": "2681.535",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "오늘도 저희 패널 @이름11 교수님께 유익한 정보 많이 얻어 갑니다 감사합니다.",
+			"original_form": "오늘도 저희 패널 &name11& 교수님께 유익한 정보 많이 얻어 갑니다 감사합니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.336",
+			"start": "2681.535",
+			"end": "2681.933",
+			"speaker_id": "DG0006",
+			"speaker_role": "토론자",
+			"form": "네 고맙습니다.",
+			"original_form": "네 고맙습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.337",
+			"start": "2681.933",
+			"end": "2685.328",
+			"speaker_id": "DG0005",
+			"speaker_role": "사회자",
+			"form": "지금까지 엠씨 바꿔서 아나운서 @이름10이었습니다.",
+			"original_form": "지금까지 엠씨 바꿔서 아나운서 &name10&이었습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.338",
+			"start": "2685.328",
+			"end": "2695.731",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "지금 힘들다면 그건 내가 힘을 쓰고 있기 때문이란다 성 바오로 수도회의 @이름12 신부님의 시에 나오는 글귀인데요 혹시 힘드십니까?",
+			"original_form": "지금 힘들다면 그건 내가 힘을 쓰고 있기 때문이란다 성 바오로 수도회의 &name12& 신부님의 시에 나오는 글귀인데요 혹시 힘드십니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.339",
+			"start": "2695.731",
+			"end": "2704.320",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그렇다면 내가 지금 어디에 힘을 많이 쓰고 있는지 한번 살펴보고 오늘 하루만이라도 그 힘 많이 빼보시기 바랍니다.",
+			"original_form": "그렇다면 내가 지금 어디에 힘을 많이 쓰고 있는지 한번 살펴보고 오늘 하루만이라도 그 힘 많이 빼보시기 바랍니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000071.1.1.340",
+			"start": "2704.320",
+			"end": "2714.831",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "끝 곡으로 @이름13 @이름14의 웃어라 그대 전해드리면서 저는 여기서 인사드리겠습니다 (한 주)/(1주) 건강하게 보내시고요 다음 주 일요일 오전 (일곱 시에)/(7시에) 뵙겠습니다.",
+			"original_form": "끝 곡으로 &name13& &name14&의 웃어라 그대 전해드리면서 저는 여기서 인사드리겠습니다 한 주 건강하게 보내시고요 다음 주 일요일 오전 일곱 시에 뵙겠습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "한 주",
+					"number": "1주",
+					"begin": 56,
+					"end": 58
+				},
+				{
+					"id": 2,
+					"hangeul": "일곱 시에",
+					"number": "7시에",
+					"begin": 83,
+					"end": 87
+				}
+			],
+			"term": null
+		}
+	]
+}

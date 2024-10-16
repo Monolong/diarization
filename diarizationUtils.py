@@ -16,7 +16,9 @@ import librosa
 import os
 import sys
 import torch, gc
+import pandas as pd
 
+from sklearn.preprocessing import MinMaxScaler
 
 """ 
 # MODELSETTINGNUMBER == 0이면 model load
@@ -272,18 +274,6 @@ def dataPreprocessing(globalPath):
     #파일 불러오기
     for file in file_list:
         print(file)
-        
-        if(percent < 3):
-            percent += 1
-            continue
-
-        """  
-        if percent < 0:
-            percent += 1
-            continue
-
-        """
-
 
         my_test_sequence = []
 
@@ -325,6 +315,15 @@ def dataPreprocessing(globalPath):
         """
 
         my_test_sequence = mfcc
+
+        print(my_test_sequence)
+
+        scaler = MinMaxScaler(feature_range=(-1,1))
+        scaler.fit(my_test_sequence);
+        my_test_sequence = scaler.transform(my_test_sequence);
+
+        print(my_test_sequence) 
+
         my_test_sequence = np.array(my_test_sequence)
         my_test_sequence = np.squeeze(my_test_sequence)
 
@@ -468,7 +467,7 @@ def dataPreprocessing(globalPath):
         my_test_cluster_id = np.squeeze(my_test_cluster_id)
 
         
-        my_test_cluster_ids.append(my_test_cluster_id)
+        # my_test_cluster_ids.append(my_test_cluster_id)
 
 
 
@@ -477,14 +476,14 @@ def dataPreprocessing(globalPath):
 
 
 
-    #자르기
-    #my_test_sequences = my_test_sequences[0:int(len(my_test_sequences)/50)]
-    #my_test_cluster_ids = my_test_cluster_ids[0:int(len(my_test_cluster_ids)/50)]
+    #자르기, 조절
+    my_test_sequences = my_test_sequences[0:int(len(my_test_sequences)/50)]
+    my_test_cluster_ids = my_test_cluster_ids[0:int(len(my_test_cluster_ids)/50)]
 
-    my_test_sequences = np.array(my_test_sequences, dtype=object)
+    my_test_sequences = np.array(my_test_sequences)
     my_test_sequences = np.squeeze(my_test_sequences)
 
-    my_test_cluster_ids = np.array(my_test_cluster_ids, dtype=object)
+    my_test_cluster_ids = np.array(my_test_cluster_ids)
     my_test_cluster_ids = np.squeeze(my_test_cluster_ids)
 
 
@@ -523,6 +522,7 @@ def predictWithLabel(model, test_sequences, test_cluster_ids, model_args, traini
         print(predicted_cluster_id)
         print('-' * 100)
         i+=1 """
+    print(type(test_sequences))
     predicted_cluster_id = model.predict(test_sequences, inference_args)
     print(f"predict done :  {time.time() - start_time}s")
     predicted_cluster_ids.append(predicted_cluster_id)
@@ -542,7 +542,7 @@ def predictWithLabel(model, test_sequences, test_cluster_ids, model_args, traini
     print(output_result)
 
     print(f"All predict done :  {time.time() - start_time}s")
-
+    return predicted_cluster_id
 
 
 
@@ -604,6 +604,15 @@ def dataPreprocessingForPredict(globalPath):
 
 
     my_test_sequence = mfcc
+
+    print(my_test_sequence)
+
+    scaler = MinMaxScaler(feature_range=(-1,1))
+    scaler.fit(my_test_sequence);
+    my_test_sequence = scaler.transform(my_test_sequence);
+
+    print(my_test_sequence) 
+
     my_test_sequence = np.array(my_test_sequence)
     my_test_sequence = np.squeeze(my_test_sequence)
 

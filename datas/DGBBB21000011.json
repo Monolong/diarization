@@ -1,0 +1,5507 @@
+{
+	"metadata": {
+		"title": "DGBBB21000011",
+		"creator": "솔트룩스",
+		"distributor": "솔트룩스",
+		"year": 2021,
+		"category": "구어 > 공적 > 회의",
+		"date": "20200602",
+		"media": "라디오",
+		"communication": "대면",
+		"type": "회의",
+		"domain": "경제",
+		"topic": "임시국회 개원논의",
+		"speaker_num": 5,
+		"organization": "",
+		"annotation_level": "원시",
+		"sampling": "본문 전체"
+	},
+	"speaker": [
+		{
+			"id": "DG0001",
+			"name": "DG0001",
+			"age": "60대 이상",
+			"occupation": "앵커",
+			"role": "사회자",
+			"sex": "남"
+		},
+		{
+			"id": "DG0002",
+			"name": "DG0002",
+			"age": "30대",
+			"occupation": "리포터",
+			"role": "토론자",
+			"sex": "여"
+		},
+		{
+			"id": "DG0003",
+			"name": "DG0003",
+			"age": "30대",
+			"occupation": "성우",
+			"role": "토론자",
+			"sex": "여"
+		},
+		{
+			"id": "DG0004",
+			"name": "DG0004",
+			"age": "40대",
+			"occupation": "연구소장",
+			"role": "토론자",
+			"sex": "남"
+		},
+		{
+			"id": "DG0005",
+			"name": "DG0005",
+			"age": "30대",
+			"occupation": "기자",
+			"role": "토론자",
+			"sex": "남"
+		}
+	],
+	"setting": {
+		"relation": "사회자 1인 외 토론자"
+	},
+	"utterance": [
+		{
+			"id": "DGBBB21000011.1.1.1",
+			"start": "0.000",
+			"end": "3.779",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "여러분 안녕하십니까 허리케인 라디오 앵커 디제이 앵디 @이름1입니다. /(bgm)",
+			"original_form": "여러분 안녕하십니까 허리케인 라디오 앵커 디제이 앵디 &name1&입니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.2",
+			"start": "3.779",
+			"end": "8.412",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "인간관계에서 적당한 거리는 얼마일까요? @웃음 /(bgm)",
+			"original_form": "인간관계에서 적당한 거리는 얼마일까요? {laughing}",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.3",
+			"start": "8.412",
+			"end": "13.075",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "인류학자 @이름2은 인간관계의 거리를 (네 가지로)/(4가지로) 분류했습니다. /(bgm)",
+			"original_form": "인류학자 &name2&은 인간관계의 거리를 네 가지로 분류했습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "네 가지로",
+					"number": "4가지로",
+					"begin": 25,
+					"end": 29
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.4",
+			"start": "13.075",
+			"end": "17.184",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "친밀한 거리 개인적 거리 사회적 거리 공적인 거리 /(bgm)",
+			"original_form": "친밀한 거리 개인적 거리 사회적 거리 공적인 거리",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.5",
+			"start": "17.184",
+			"end": "21.715",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "친밀한 거리는 사십육 센티미터 이내에 지극히 사적인 영역입니다. /(bgm)",
+			"original_form": "친밀한 거리는 사십육 센티미터 이내에 지극히 사적인 영역입니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.6",
+			"start": "21.715",
+			"end": "27.762",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "사회적 거리는 (백이십에서)/(120에서) (삼백육십 센티미터)/(360센티미터) 정도의 거리로 일적으로 만나는 관계를 뜻하는데요. /(bgm)",
+			"original_form": "사회적 거리는 백이십에서 삼백육십 센티미터 정도의 거리로 일적으로 만나는 관계를 뜻하는데요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "백이십에서",
+					"number": "120에서",
+					"begin": 9,
+					"end": 13
+				},
+				{
+					"id": 2,
+					"hangeul": "삼백육십 센티미터",
+					"number": "360센티미터",
+					"begin": 15,
+					"end": 23
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.7",
+			"start": "27.762",
+			"end": "32.226",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "요즘 시행하고 있는 사회적 거리 두기 (이 미터가)/(2미터가) 여기에 속합니다. /(bgm)",
+			"original_form": "요즘 시행하고 있는 사회적 거리 두기 이 미터가 여기에 속합니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이 미터가",
+					"number": "2미터가",
+					"begin": 22,
+					"end": 26
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.8",
+			"start": "32.226",
+			"end": "42.310",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "생각해 보면 쪼금만 거리를 두었으면 더 좋았을 사람들과 너무 거리를 두어서 멀어졌던 사람들 그래서 아쉬웠던 인간관계들이 있는데요. /(bgm)",
+			"original_form": "생각해 보면 쪼금만 거리를 두었으면 더 좋았을 사람들과 너무 거리를 두어서 멀어졌던 사람들 그래서 아쉬웠던 인간관계들이 있는데요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.9",
+			"start": "42.310",
+			"end": "47.377",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "사람 사이의 관계 어느 정도의 거리가 적당한 걸까요? /(bgm)",
+			"original_form": "사람 사이의 관계 어느 정도의 거리가 적당한 걸까요?",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.10",
+			"start": "47.377",
+			"end": "54.283",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "제주도 돌담이 거친 섬 바람에도 무너지지 않는 이유는 돌과 돌 사이에 틈새에 있다고 하죠. /(bgm)",
+			"original_form": "제주도 돌담이 거친 섬 바람에도 무너지지 않는 이유는 돌과 돌 사이에 틈새에 있다고 하죠.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.11",
+			"start": "54.283",
+			"end": "60.619",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "틈과 틈 사이 그~ 빈 공간으로 바람이 빠져나가면서 강한 바람에도 버틸 수 있는 건데요. /(bgm)",
+			"original_form": "틈과 틈 사이 그~ 빈 공간으로 바람이 빠져나가면서 강한 바람에도 버틸 수 있는 건데요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.12",
+			"start": "60.619",
+			"end": "64.622",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "소규모 집단 감염이 수도권에서 계속 이어지고 있습니다. /(bgm)",
+			"original_form": "소규모 집단 감염이 수도권에서 계속 이어지고 있습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.13",
+			"start": "64.622",
+			"end": "73.412",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "잡힐 듯 잡힐 듯 애를 태우는 코로나바이러스 쪼금은 지치지만 지금은 아름다운 사회적 거리가 필요해 보입니다. /(bgm)",
+			"original_form": "잡힐 듯 잡힐 듯 애를 태우는 코로나바이러스 쪼금은 지치지만 지금은 아름다운 사회적 거리가 필요해 보입니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.14",
+			"start": "73.412",
+			"end": "81.434",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(유월 이 일)/(6월 2일) 화요일 시동 거셨습니까 출석 체크하면 행복이 옵니다 여러분 (티비에스)/(TBS) 앱 (오십 원)/(50원) 유료 문자 샵 (영구오일로)/(0951로) 출첵 문자 보내주시기 바랍니다 좋은 음악과 알아야 할 뉴스 /(bgm)",
+			"original_form": "유월 이 일 화요일 시동 거셨습니까 출석 체크하면 행복이 옵니다 여러분 티비에스 앱 오십 원 유료 문자 샵 영구오일로 출첵 문자 보내주시기 바랍니다 좋은 음악과 알아야 할 뉴스",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "티비에스",
+					"english": "TBS",
+					"begin": 41,
+					"end": 44
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "유월 이 일",
+					"number": "6월 2일",
+					"begin": 1,
+					"end": 6
+				},
+				{
+					"id": 2,
+					"hangeul": "오십 원",
+					"number": "50원",
+					"begin": 48,
+					"end": 51
+				},
+				{
+					"id": 3,
+					"hangeul": "영구오일로",
+					"number": "0951로",
+					"begin": 61,
+					"end": 65
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.15",
+			"start": "81.434",
+			"end": "88.428",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "연중무휴 허리케인 라디오 출격 /(bgm)",
+			"original_form": "연중무휴 허리케인 라디오 출격",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.16",
+			"start": "88.428",
+			"end": "93.062",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "선곡 건달 @이름3 피디의 첫 곡입니다 @이름4 점프 /(bgm)",
+			"original_form": "선곡 건달 &name3& 피디의 첫 곡입니다 &name4& 점프",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.17",
+			"start": "93.062",
+			"end": "99.626",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "@이름4 점프 아~ 누가 치는지 기타 살벌하게 칩니다.",
+			"original_form": "&name4& 점프 아~ 누가 치는지 기타 살벌하게 칩니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.18",
+			"start": "99.626",
+			"end": "102.908",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이~ 사람들 도대체 연습을 얼마나 했을까요?",
+			"original_form": "이~ 사람들 도대체 연습을 얼마나 했을까요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.19",
+			"start": "102.908",
+			"end": "111.712",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "출첵합니다 안성은 비 오다가 햇빛 났네요 형님 턱 안 아프세요 어제 너무 벌리고 계셔서 화이팅.",
+			"original_form": "출첵합니다 안성은 비 오다가 햇빛 났네요 형님 턱 안 아프세요 어제 너무 벌리고 계셔서 화이팅.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.20",
+			"start": "111.712",
+			"end": "119.633",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "어제 점심 먹고 디저트 쇼에 @이름5 씨하고 이~ @이름6 씨",
+			"original_form": "어제 점심 먹고 디저트 쇼에 &name5& 씨하고 이~ &name6& 씨",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.21",
+			"start": "119.633",
+			"end": "125.651",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "제 표정 보시고 안성이세요 예 반갑습니다 예.",
+			"original_form": "제 표정 보시고 안성이세요 예 반갑습니다 예.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.22",
+			"start": "125.651",
+			"end": "130.568",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(삼)/(3) (사 부는)/(4부는) 이따가 (티비에스)/(TBS) 텔레비전으로 방송하고요 지금 @상호명1도 열어 놨습니다.",
+			"original_form": "삼 사 부는 이따가 티비에스 텔레비전으로 방송하고요 지금 &company-name1&도 열어 놨습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "티비에스",
+					"english": "TBS",
+					"begin": 12,
+					"end": 15
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼",
+					"number": "3",
+					"begin": 1,
+					"end": 1
+				},
+				{
+					"id": 2,
+					"hangeul": "사 부는",
+					"number": "4부는",
+					"begin": 3,
+					"end": 6
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.23",
+			"start": "130.568",
+			"end": "134.875",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "좋은 음악과 알아야 할 뉴스 듣고 나면 남는 방송 @이름1의 허리케인 라디오 듣고 계십니다.",
+			"original_form": "좋은 음악과 알아야 할 뉴스 듣고 나면 남는 방송 &name1&의 허리케인 라디오 듣고 계십니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.24",
+			"start": "134.875",
+			"end": "137.190",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "서울 시내 교통 상황 좀 알아보고 올게요.",
+			"original_form": "서울 시내 교통 상황 좀 알아보고 올게요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.25",
+			"start": "137.190",
+			"end": "138.303",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "@이름7 리포터",
+			"original_form": "&name7& 리포터",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.26",
+			"start": "138.303",
+			"end": "138.788",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "네.",
+			"original_form": "네.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.27",
+			"start": "138.788",
+			"end": "145.320",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아까 저~ 버스 내리다가 비 와가지고 우산 샀잖아요 근데 상암동 내리니까 비 안 와요 아이참. /(noise)",
+			"original_form": "아까 저~ 버스 내리다가 비 와가지고 우산 샀잖아요 근데 상암동 내리니까 비 안 와요 아이참.",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.28",
+			"start": "145.320",
+			"end": "146.224",
+			"speaker_id": "DG0002",
+			"speaker_role": "토론자",
+			"form": "그러네요.",
+			"original_form": "그러네요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.29",
+			"start": "146.224",
+			"end": "149.619",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "벌써 한 (네 개)/(4개) 샀어요 올 들어서 @웃음",
+			"original_form": "벌써 한 네 개 샀어요 올 들어서 {laughing}",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "네 개",
+					"number": "4개",
+					"begin": 6,
+					"end": 8
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.30",
+			"start": "149.619",
+			"end": "151.509",
+			"speaker_id": "DG0003",
+			"speaker_role": "토론자",
+			"form": "허리케인 데스크 /(bgm)",
+			"original_form": "허리케인 데스크",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.31",
+			"start": "151.509",
+			"end": "156.826",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "먹고 살기 힘들어도 지나치면 안 되는 세상 소식 전해드립니다 허리케인 데스크 /(bgm)",
+			"original_form": "먹고 살기 힘들어도 지나치면 안 되는 세상 소식 전해드립니다 허리케인 데스크",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.32",
+			"start": "156.826",
+			"end": "167.203",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "첫 번째 소식입니다 미국 전역에서 시위가 격화되고 있는 가운데 로스앤젤레스 한인 타운에 캘리포니아 주 방위군이 전격 투입됐습니다. /(bgm)",
+			"original_form": "첫 번째 소식입니다 미국 전역에서 시위가 격화되고 있는 가운데 로스앤젤레스 한인 타운에 캘리포니아 주 방위군이 전격 투입됐습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.33",
+			"start": "167.203",
+			"end": "170.844",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "한인 타운에 치한 유지와 한인 상점 약탈 등을 막기 위해서인데요. /(bgm)",
+			"original_form": "한인 타운에 치한 유지와 한인 상점 약탈 등을 막기 위해서인데요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.34",
+			"start": "170.844",
+			"end": "175.779",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "무장한 군 병력은 코리아타운 주요 길목 곳곳에 배치돼 삼엄한 경계에 들어갔습니다. /(bgm)",
+			"original_form": "무장한 군 병력은 코리아타운 주요 길목 곳곳에 배치돼 삼엄한 경계에 들어갔습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.35",
+			"start": "175.779",
+			"end": "185.180",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아프리카계 미국인 @이름8가 경찰의 진압 과정에서 숨진 사건은 한 개인의 죽음과 경찰의 처벌로 끝나지 않고 미국 사회를 온통 뒤흔들고 있습니다. /(bgm)",
+			"original_form": "아프리카계 미국인 &name8&가 경찰의 진압 과정에서 숨진 사건은 한 개인의 죽음과 경찰의 처벌로 끝나지 않고 미국 사회를 온통 뒤흔들고 있습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.36",
+			"start": "185.180",
+			"end": "192.574",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "미네소타주 미니애폴리스에서 시작된 항의 시위는 뉴욕 워싱턴 (엘에이)/(LA) 등 미국 전역 (백사십 개)/(140개) 이상의 도시로 번졌습니다. /(bgm)",
+			"original_form": "미네소타주 미니애폴리스에서 시작된 항의 시위는 뉴욕 워싱턴 엘에이 등 미국 전역 백사십 개 이상의 도시로 번졌습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "엘에이",
+					"english": "LA",
+					"begin": 34,
+					"end": 36
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "백사십 개",
+					"number": "140개",
+					"begin": 46,
+					"end": 50
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.37",
+			"start": "192.574",
+			"end": "198.330",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "또 미국을 넘어서 영국 런던 독일 베를린 캐나다 밴쿠버 등에서 동조 시위가 벌어졌습니다. /(bgm)",
+			"original_form": "또 미국을 넘어서 영국 런던 독일 베를린 캐나다 밴쿠버 등에서 동조 시위가 벌어졌습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.38",
+			"start": "198.330",
+			"end": "204.443",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "한편 @이름9 대통령은 군대를 포함한 모든 자원을 동원해 진압하겠다고 강경 대응 방침 천명했습니다. /(bgm)",
+			"original_form": "한편 &name9& 대통령은 군대를 포함한 모든 자원을 동원해 진압하겠다고 강경 대응 방침 천명했습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.39",
+			"start": "204.443",
+			"end": "214.339",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "남북 전쟁 끝난 지 벌써 (백오십오 년이)/(155년이) 흘렀건만 미국의 흑인들 여전히 길고 긴 차별과 억압 그리고 불공정에 시달리고 있습니다. /(bgm)",
+			"original_form": "남북 전쟁 끝난 지 벌써 백오십오 년이 흘렀건만 미국의 흑인들 여전히 길고 긴 차별과 억압 그리고 불공정에 시달리고 있습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "백오십오 년이",
+					"number": "155년이",
+					"begin": 15,
+					"end": 21
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.40",
+			"start": "214.339",
+			"end": "218.473",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(백오십오 년의)/(155년의) 분노가 이번에 폭발했다고 해도 과언이 아닌데요. /(bgm)",
+			"original_form": "백오십오 년의 분노가 이번에 폭발했다고 해도 과언이 아닌데요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "백오십오 년의",
+					"number": "155년의",
+					"begin": 1,
+					"end": 7
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.41",
+			"start": "218.473",
+			"end": "224.645",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "정의 없이는 평화도 없다 라는 (()) 구호가 그~ 절박한 심정을 대변하는 거 같습니다. /(bgm)",
+			"original_form": "정의 없이는 평화도 없다 라는 (()) 구호가 그~ 절박한 심정을 대변하는 거 같습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.42",
+			"start": "224.645",
+			"end": "232.217",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "지난 (삼)/(3) (사 월)/(4월) 치러진 인하대 의과 대학 단원 평가에서 부정행위를 저지른 학생 (아흔한 명이)/(91명이) 적발됐습니다. /(bgm)",
+			"original_form": "지난 삼 사 월 치러진 인하대 의과 대학 단원 평가에서 부정행위를 저지른 학생 아흔한 명이 적발됐습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼",
+					"number": "3",
+					"begin": 4,
+					"end": 4
+				},
+				{
+					"id": 2,
+					"hangeul": "사 월",
+					"number": "4월",
+					"begin": 6,
+					"end": 8
+				},
+				{
+					"id": 3,
+					"hangeul": "아흔한 명이",
+					"number": "91명이",
+					"begin": 45,
+					"end": 50
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.43",
+			"start": "232.217",
+			"end": "240.611",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(일 학년)/(1학년) (오십 명)/(50명) (이 학년)/(2학년) (마흔한 명인데요)/(41명인데요) 몇 명씩 모여서 함께 문제를 풀거나 전화 또는 (에스엔에스를)/(SNS를) 이용해서 답을 공유했습니다. /(bgm)",
+			"original_form": "일 학년 오십 명 이 학년 마흔한 명인데요 몇 명씩 모여서 함께 문제를 풀거나 전화 또는 에스엔에스를 이용해서 답을 공유했습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "에스엔에스를",
+					"english": "SNS를",
+					"begin": 51,
+					"end": 56
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 학년",
+					"number": "1학년",
+					"begin": 1,
+					"end": 4
+				},
+				{
+					"id": 2,
+					"hangeul": "오십 명",
+					"number": "50명",
+					"begin": 6,
+					"end": 9
+				},
+				{
+					"id": 3,
+					"hangeul": "이 학년",
+					"number": "2학년",
+					"begin": 11,
+					"end": 14
+				},
+				{
+					"id": 4,
+					"hangeul": "마흔한 명인데요",
+					"number": "41명인데요",
+					"begin": 16,
+					"end": 23
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.44",
+			"start": "240.611",
+			"end": "252.466",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "추적을 피하려고 보완성 높은 @상호명2을 이용하기도 했습니다 결국 인하대는 자체 상벌 위원회를 열고 집단 부정행위를 저지른 의대생 (아흔한 명의)/(91명의) 점수를 모두 (빵점)/(0점) 처리하기로 결정했습니다.",
+			"original_form": "추적을 피하려고 보완성 높은 &company-name2&을 이용하기도 했습니다 결국 인하대는 자체 상벌 위원회를 열고 집단 부정행위를 저지른 의대생 아흔한 명의 점수를 모두 빵점 처리하기로 결정했습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "아흔한 명의",
+					"number": "91명의",
+					"begin": 84,
+					"end": 89
+				},
+				{
+					"id": 2,
+					"hangeul": "빵점",
+					"number": "0점",
+					"begin": 98,
+					"end": 99
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.45",
+			"start": "252.466",
+			"end": "260.960",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그런데요 인하대뿐만이 아닙니다 (코로나일구)/(코로나19) 여파로 온라인으로 시험을 치르면서 집단 부정행위가 대학 곳곳에서 발생하고 있습니다. /(bgm)",
+			"original_form": "그런데요 인하대뿐만이 아닙니다 코로나일구 여파로 온라인으로 시험을 치르면서 집단 부정행위가 대학 곳곳에서 발생하고 있습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "코로나일구",
+					"number": "코로나19",
+					"begin": 18,
+					"end": 22
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.46",
+			"start": "260.960",
+			"end": "266.490",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "건국대에서는 같은 (아이피)/(IP) 주소로 동시 접속한 기록이 교수에게 발각되는가 하면 /(bgm)",
+			"original_form": "건국대에서는 같은 아이피 주소로 동시 접속한 기록이 교수에게 발각되는가 하면",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "아이피",
+					"english": "IP",
+					"begin": 11,
+					"end": 13
+				}
+			],
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.47",
+			"start": "266.490",
+			"end": "273.285",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "한양대에선 온라인 시험 직전에 시험을 대신 치러주겠다는 글이 온라인 커뮤니티에 올라와 논란이 됐습니다. /(bgm)",
+			"original_form": "한양대에선 온라인 시험 직전에 시험을 대신 치러주겠다는 글이 온라인 커뮤니티에 올라와 논란이 됐습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.48",
+			"start": "273.285",
+			"end": "281.906",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "결국 경희대 서울대 중앙대 한국외대 한양대 등은 다가올 기말고사를 대면 방식으로 치르기로 잠정 결정한 상태인데요. /(bgm)",
+			"original_form": "결국 경희대 서울대 중앙대 한국외대 한양대 등은 다가올 기말고사를 대면 방식으로 치르기로 잠정 결정한 상태인데요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.49",
+			"start": "281.906",
+			"end": "288.199",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그러나 일부 학생들은 (코로나일구)/(코로나19) 감염이 우려된다면서 학교에 대면 시험 방침에 반발하고 있습니다. /(bgm)",
+			"original_form": "그러나 일부 학생들은 코로나일구 감염이 우려된다면서 학교에 대면 시험 방침에 반발하고 있습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "코로나일구",
+					"number": "코로나19",
+					"begin": 13,
+					"end": 17
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.50",
+			"start": "288.199",
+			"end": "293.636",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "뭔 짓을 해서라도 의사만 되면 장땡이라는 생각이었습니까? /(bgm)",
+			"original_form": "뭔 짓을 해서라도 의사만 되면 장땡이라는 생각이었습니까?",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.51",
+			"start": "293.636",
+			"end": "300.360",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "좋은 머리 그런 데 쓰지 말고 지성만큼 양심도 갖춘 사람이 먼저 되길 바랍니다. /(bgm)",
+			"original_form": "좋은 머리 그런 데 쓰지 말고 지성만큼 양심도 갖춘 사람이 먼저 되길 바랍니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.52",
+			"start": "300.360",
+			"end": "308.669",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "@이름10 경기도지사가 전 국민에게 (이십만 원씩)/(20만 원씩) (이 차)/(2차) 긴급 재난 지원금을 지급하는 추경 경정 예산 편성을 정부에 공식 건의했습니다. /(bgm)",
+			"original_form": "&name10& 경기도지사가 전 국민에게 이십만 원씩 이 차 긴급 재난 지원금을 지급하는 추경 경정 예산 편성을 정부에 공식 건의했습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이십만 원씩",
+					"number": "20만 원씩",
+					"begin": 24,
+					"end": 29
+				},
+				{
+					"id": 2,
+					"hangeul": "이 차",
+					"number": "2차",
+					"begin": 31,
+					"end": 33
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.53",
+			"start": "308.669",
+			"end": "316.859",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(일 인당)/(1인당) (이십만 원씩)/(20만 원씩) 전 국민 (오천백팔십사만 명에게)/(5084만명에게) 지급하려면 (십조 삼천육백팔십오억 원의)/(10조 3685억원의) 예산이 필요한데요. /(bgm)",
+			"original_form": "일 인당 이십만 원씩 전 국민 오천백팔십사만 명에게 지급하려면 십조 삼천육백팔십오억 원의 예산이 필요한데요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 인당",
+					"number": "1인당",
+					"begin": 1,
+					"end": 4
+				},
+				{
+					"id": 2,
+					"hangeul": "이십만 원씩",
+					"number": "20만 원씩",
+					"begin": 6,
+					"end": 11
+				},
+				{
+					"id": 3,
+					"hangeul": "오천백팔십사만 명에게",
+					"number": "5084만명에게",
+					"begin": 18,
+					"end": 28
+				},
+				{
+					"id": 4,
+					"hangeul": "십조 삼천육백팔십오억 원의",
+					"number": "10조 3685억원의",
+					"begin": 36,
+					"end": 49
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.54",
+			"start": "316.859",
+			"end": "325.412",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "경기도는 (코로나일구)/(코로나19) 장기화로 어려움을 겪는 국민의 생활 안정과 지역 경제 활성화를 위해 추가 재난 지원금 지원이 필요하다는 입장입니다 그러나 /(bgm)",
+			"original_form": "경기도는 코로나일구 장기화로 어려움을 겪는 국민의 생활 안정과 지역 경제 활성화를 위해 추가 재난 지원금 지원이 필요하다는 입장입니다 그러나",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "코로나일구",
+					"number": "코로나19",
+					"begin": 6,
+					"end": 10
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.55",
+			"start": "325.412",
+			"end": "332.431",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "@이름11 부총리 겸 기획재정부 장관이 이에 대해서 부정적인 입장이라 이번 건의가 받아들여질지는 미지수입니다. /(bgm)",
+			"original_form": "&name11& 부총리 겸 기획재정부 장관이 이에 대해서 부정적인 입장이라 이번 건의가 받아들여질지는 미지수입니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.56",
+			"start": "332.431",
+			"end": "340.017",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "홍 부총리는 재정 당국을 맡는 입장에서 추가적인 긴급 재난 지원금 지급은 전혀 생각하지 않고 있다고 밝혔습니다. /(bgm)",
+			"original_form": "홍 부총리는 재정 당국을 맡는 입장에서 추가적인 긴급 재난 지원금 지급은 전혀 생각하지 않고 있다고 밝혔습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.57",
+			"start": "340.017",
+			"end": "345.920",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(()) 골목 상권에서 재난 지원금 효과가 속속 입증되고 있죠. /(bgm)",
+			"original_form": "(()) 골목 상권에서 재난 지원금 효과가 속속 입증되고 있죠.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.58",
+			"start": "345.920",
+			"end": "357.156",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "물 들어올 때 노 저으라고 쪼끔씩 살아나고 있는 소비 심리를 쪼끔 더 끌어올려야 한다는 의견 나오고 있습니다 반면에 나라 빚 늘려서 재난 지원금을 지급하는 게 맞냐. /(bgm)",
+			"original_form": "물 들어올 때 노 저으라고 쪼끔씩 살아나고 있는 소비 심리를 쪼끔 더 끌어올려야 한다는 의견 나오고 있습니다 반면에 나라 빚 늘려서 재난 지원금을 지급하는 게 맞냐.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.59",
+			"start": "357.156",
+			"end": "360.762",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "재정 안정은 그냥 포기할 거냐 이런 우려도 있는데요. /(bgm)",
+			"original_form": "재정 안정은 그냥 포기할 거냐 이런 우려도 있는데요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.60",
+			"start": "360.762",
+			"end": "365.299",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(이 차)/(2차) 긴급 재난 지원금 지급 청취자 여러분들은 어떻게 생각하십니까? /(bgm)",
+			"original_form": "이 차 긴급 재난 지원금 지급 청취자 여러분들은 어떻게 생각하십니까?",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이 차",
+					"number": "2차",
+					"begin": 1,
+					"end": 3
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.61",
+			"start": "365.299",
+			"end": "372.234",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "@이름12 대통령이 @이름9 대통령이 제안한 주요 (칠 개)/(7개) 국 (지 세븐)/(G7) 정상 회의에 참석하겠다는 뜻을 밝혔습니다. /(bgm)",
+			"original_form": "&name12& 대통령이 &name9& 대통령이 제안한 주요 칠 개 국 지 세븐 정상 회의에 참석하겠다는 뜻을 밝혔습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "지 세븐",
+					"english": "G7",
+					"begin": 41,
+					"end": 44
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "칠 개",
+					"number": "7개",
+					"begin": 35,
+					"end": 37
+				},
+				{
+					"id": 2,
+					"hangeul": "지 세븐",
+					"number": "G7",
+					"begin": 41,
+					"end": 44
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.62",
+			"start": "372.234",
+			"end": "379.483",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "초청에 기꺼이 응할 것이며 방역과 경제의 양면에서 한국이 할 수 있는 역할을 하겠다 이렇게 화답했습니다. /(bgm)",
+			"original_form": "초청에 기꺼이 응할 것이며 방역과 경제의 양면에서 한국이 할 수 있는 역할을 하겠다 이렇게 화답했습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.63",
+			"start": "379.483",
+			"end": "389.314",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "또 @이름9 대통령이 한국과 호주 인도 러시아가 포함된 (지 일레븐이나)/(G11) 브라질까지 합류한 (지 투헬브)/(G12) 체제로 확 다른 방안을 모색 중이라면서 의견을 구하자 /(bgm)",
+			"original_form": "또 &name9& 대통령이 한국과 호주 인도 러시아가 포함된 지 일레븐이나 브라질까지 합류한 지 투헬브 체제로 확 다른 방안을 모색 중이라면서 의견을 구하자",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "지 일레븐이나",
+					"english": "G11",
+					"begin": 35,
+					"end": 41
+				},
+				{
+					"id": 2,
+					"hangeul": "지 투헬브",
+					"english": "G12",
+					"begin": 53,
+					"end": 57
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "지 일레븐이나",
+					"number": "G11",
+					"begin": 35,
+					"end": 41
+				},
+				{
+					"id": 2,
+					"hangeul": "지 투헬브",
+					"number": "G12",
+					"begin": 53,
+					"end": 57
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.64",
+			"start": "389.314",
+			"end": "395.727",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "문 대통령도 (지 세븐을)/(G7을) 확대하는 @이름9 대통령의 조치가 적절하다고 밝힌 것으로 전해졌습니다. /(bgm)",
+			"original_form": "문 대통령도 지 세븐을 확대하는 &name9& 대통령의 조치가 적절하다고 밝힌 것으로 전해졌습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "지 세븐을",
+					"english": "G7을",
+					"begin": 8,
+					"end": 12
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "지 세븐을",
+					"number": "G7을",
+					"begin": 8,
+					"end": 12
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.65",
+			"start": "395.727",
+			"end": "403.046",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "@이름9 대통령의 이번 제안이 미중 관계 악화 속에 얼마큼 우리 정부도 고민이 컸을 텐데요. /(bgm)",
+			"original_form": "&name9& 대통령의 이번 제안이 미중 관계 악화 속에 얼마큼 우리 정부도 고민이 컸을 텐데요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.66",
+			"start": "403.046",
+			"end": "410.351",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "자 기회가 온 만큼 견제와 균형의 사다리를 잘 타서 좋은 결과 나오길 기대합니다. /(bgm)",
+			"original_form": "자 기회가 온 만큼 견제와 균형의 사다리를 잘 타서 좋은 결과 나오길 기대합니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.67",
+			"start": "410.351",
+			"end": "414.953",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "마지막 소식입니다 가혹 행위를 받고 우리 오빠는 간첩입니다. /(bgm)",
+			"original_form": "마지막 소식입니다 가혹 행위를 받고 우리 오빠는 간첩입니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.68",
+			"start": "414.953",
+			"end": "421.173",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "허위 자백을 했던 @이름12 씨 서울시 공무원 간첩 조작 사건 피해자 @이름13 씨의 여동생입니다. /(bgm)",
+			"original_form": "허위 자백을 했던 &name12& 씨 서울시 공무원 간첩 조작 사건 피해자 &name13& 씨의 여동생입니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.69",
+			"start": "421.173",
+			"end": "428.409",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "여동생의 허위 자백으로 간첩 혐의를 받은 @이름13 씨는 지난 (이천십오 년)/(2015년) 대법원에서 무죄 확정판결을 받았는데요. /(bgm)",
+			"original_form": "여동생의 허위 자백으로 간첩 혐의를 받은 &name13& 씨는 지난 이천십오 년 대법원에서 무죄 확정판결을 받았는데요.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이천십오 년",
+					"number": "2015년",
+					"begin": 39,
+					"end": 44
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.70",
+			"start": "428.409",
+			"end": "435.078",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그~ 후에 피해자 @이름13 씨가 고소한 수사 검사들에 대해서 혐의없음 결론이 내려졌습니다. /(bgm)",
+			"original_form": "그~ 후에 피해자 &name13& 씨가 고소한 수사 검사들에 대해서 혐의없음 결론이 내려졌습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.71",
+			"start": "435.078",
+			"end": "447.415",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "검찰은 불기소 처분 결정문에서 당시 수사를 진행한 검사들은 출입경 기록이나 회신 공문 등 사건과 관련된 증거 위조에 관여하지 않았으며 위조된 사실도 알지 못했다 이렇게 설명했습니다. /(bgm)",
+			"original_form": "검찰은 불기소 처분 결정문에서 당시 수사를 진행한 검사들은 출입경 기록이나 회신 공문 등 사건과 관련된 증거 위조에 관여하지 않았으며 위조된 사실도 알지 못했다 이렇게 설명했습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.72",
+			"start": "447.415",
+			"end": "455.241",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "앞서 이~ 사건에 연루된 국가 정보원 수사관 (두 명은)/(2명은) 불구속기소 돼서 검찰의 제 식구 감싸기 아니냐는 비판 제기되고 있습니다. /(bgm)",
+			"original_form": "앞서 이~ 사건에 연루된 국가 정보원 수사관 두 명은 불구속기소 돼서 검찰의 제 식구 감싸기 아니냐는 비판 제기되고 있습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "두 명은",
+					"number": "2명은",
+					"begin": 26,
+					"end": 29
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.73",
+			"start": "455.241",
+			"end": "461.183",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "남의 인생 끝장내놓고 몰랐다 하면 그만입니까? /(bgm)",
+			"original_form": "남의 인생 끝장내놓고 몰랐다 하면 그만입니까?",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.74",
+			"start": "461.183",
+			"end": "466.662",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "무소불위의 검찰 시대 이거 이거 말이죠. /(bgm)",
+			"original_form": "무소불위의 검찰 시대 이거 이거 말이죠.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.75",
+			"start": "466.662",
+			"end": "470.246",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "언제쯤 돼야 종지부를 찍을 수 있는 겁니까? /(bgm)",
+			"original_form": "언제쯤 돼야 종지부를 찍을 수 있는 겁니까?",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.76",
+			"start": "470.246",
+			"end": "475.533",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "오늘 허리케인 데스크 여기까지 하겠습니다 깨어 있는 시민이 됩시다. /(bgm)",
+			"original_form": "오늘 허리케인 데스크 여기까지 하겠습니다 깨어 있는 시민이 됩시다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.77",
+			"start": "475.533",
+			"end": "482.800",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "잠시 후에 무거운 녀석들과 주요 뉴스 더 자세히 살펴보겠습니다. /(bgm)",
+			"original_form": "잠시 후에 무거운 녀석들과 주요 뉴스 더 자세히 살펴보겠습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.78",
+			"start": "482.800",
+			"end": "486.440",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "왔다야 @이름14 /(bgm)",
+			"original_form": "왔다야 &name14&",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.79",
+			"start": "486.440",
+			"end": "491.531",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "무거운 녀석들 가벼운 뉴스는 가라 무게 있는 뉴스만 골라서 서빙해드립니다.",
+			"original_form": "무거운 녀석들 가벼운 뉴스는 가라 무게 있는 뉴스만 골라서 서빙해드립니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.80",
+			"start": "491.531",
+			"end": "494.364",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "무게 있는 뉴스 전해줄 무거운 녀석 두 분 나왔습니다.",
+			"original_form": "무게 있는 뉴스 전해줄 무거운 녀석 두 분 나왔습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.81",
+			"start": "494.364",
+			"end": "498.086",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "먼저 뚱커벨 @상호명3 @이름15 소장 어서 오세요.",
+			"original_form": "먼저 뚱커벨 &company-name3& &name15& 소장 어서 오세요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.82",
+			"start": "498.086",
+			"end": "499.698",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "안녕하십니까 뚱커벨입니다.",
+			"original_form": "안녕하십니까 뚱커벨입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.83",
+			"start": "499.698",
+			"end": "503.464",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "요거 오늘 새로 샀어요 알아요 가볍죠 좀 이거. /(noise)",
+			"original_form": "요거 오늘 새로 샀어요 알아요 가볍죠 좀 이거.",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.84",
+			"start": "503.464",
+			"end": "505.501",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이어서 뚱블리 @이름16 기자",
+			"original_form": "이어서 뚱블리 &name16& 기자",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.85",
+			"start": "505.501",
+			"end": "506.842",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "안녕하십니까.",
+			"original_form": "안녕하십니까.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.86",
+			"start": "506.842",
+			"end": "518.109",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "자 쪼금 전에 문자 좀 두 분만 소개해드리고 시작할게요 @전화번호1께서 나는 @이름1 님 노래 방송 탈 때까지 문자 보냅니다 지금 (이 주째)/(2주째) 인생 뭐 있니 좀 들어주세요.",
+			"original_form": "자 쪼금 전에 문자 좀 두 분만 소개해드리고 시작할게요 &tel-num1&께서 나는 &name1& 님 노래 방송 탈 때까지 문자 보냅니다 지금 이 주째 인생 뭐 있니 좀 들어주세요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이 주째",
+					"number": "2주째",
+					"begin": 81,
+					"end": 84
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.87",
+			"start": "518.109",
+			"end": "524.594",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "야 그러셨구나 그래보셔야 소용없을 거예요 (한 달에)/(1달에) (한 번)/(1번) 겨우 듣는데요 뭐~",
+			"original_form": "야 그러셨구나 그래보셔야 소용없을 거예요 한 달에 한 번 겨우 듣는데요 뭐~",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "한 달에",
+					"number": "1달에",
+					"begin": 24,
+					"end": 27
+				},
+				{
+					"id": 2,
+					"hangeul": "한 번",
+					"number": "1번",
+					"begin": 29,
+					"end": 31
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.88",
+			"start": "524.594",
+			"end": "535.828",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "비애라니께서도 늘 깨어 있도록 노력하겠습니다 (칠십이 년생인데)/(72년생인데) 오빠라 해도 될까요 어~ (칠십이 년생이면은)/(72년생이면은) 뭐~ 오빠 맞죠 네. /(noise)",
+			"original_form": "비애라니께서도 늘 깨어 있도록 노력하겠습니다 칠십이 년생인데 오빠라 해도 될까요 어~ 칠십이 년생이면은 뭐~ 오빠 맞죠 네.",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "칠십이 년생인데",
+					"number": "72년생인데",
+					"begin": 26,
+					"end": 33
+				},
+				{
+					"id": 2,
+					"hangeul": "칠십이 년생이면은",
+					"number": "72년생이면은",
+					"begin": 49,
+					"end": 57
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.89",
+			"start": "535.828",
+			"end": "537.371",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "뭐~ 저~ 우리",
+			"original_form": "뭐~ 저~ 우리",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.90",
+			"start": "537.371",
+			"end": "538.365",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "딸뻘 아닙니까?",
+			"original_form": "딸뻘 아닙니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.91",
+			"start": "538.365",
+			"end": "541.730",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "딸은 무슨 딸이에요 동생 네. /(noise)",
+			"original_form": "딸은 무슨 딸이에요 동생 네.",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.92",
+			"start": "541.730",
+			"end": "550.797",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "오늘 말입니다 기자 중에 안타까운 소식 그~ 프로레슬러 (일 세대)/(1세대) @이름17 씨께서 어~ 영면하셨더라구요 에~",
+			"original_form": "오늘 말입니다 기자 중에 안타까운 소식 그~ 프로레슬러 일 세대 &name17& 씨께서 어~ 영면하셨더라구요 에~",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 세대",
+					"number": "1세대",
+					"begin": 32,
+					"end": 35
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.93",
+			"start": "550.797",
+			"end": "557.337",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "향년 (팔십팔 세고)/(88세고) 하튼 고인 삼가 명복을 빌고 저~ 탤런트 @이름18 씨 있잖아요 부친이잖아요.",
+			"original_form": "향년 팔십팔 세고 하튼 고인 삼가 명복을 빌고 저~ 탤런트 &name18& 씨 있잖아요 부친이잖아요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "팔십팔 세고",
+					"number": "88세고",
+					"begin": 4,
+					"end": 9
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.94",
+			"start": "557.337",
+			"end": "558.291",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "네.",
+			"original_form": "네.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.95",
+			"start": "558.291",
+			"end": "562.580",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이분이 (육칠십 년대)/(60~70년대) 이제 당수왕 그래가지고 박치기 기밀",
+			"original_form": "이분이 육칠십 년대 이제 당수왕 그래가지고 박치기 기밀",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "육칠십 년대",
+					"number": "60~70년대",
+					"begin": 5,
+					"end": 10
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.96",
+			"start": "562.580",
+			"end": "568.456",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그다음에 비호 @이름19 씨 그래가지고 트로이카 세대였었거든요 뚱커벨은 아시죠?",
+			"original_form": "그다음에 비호 &name19& 씨 그래가지고 트로이카 세대였었거든요 뚱커벨은 아시죠?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.97",
+			"start": "568.456",
+			"end": "569.515",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "알죠 네.",
+			"original_form": "알죠 네.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.98",
+			"start": "569.515",
+			"end": "576.682",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "@이름20 선수 프로레슬러 @이름20 이후에 프로레슬링에 전성시대를 이끌어 갔던 인물 인물이죠.",
+			"original_form": "&name20& 선수 프로레슬러 &name20& 이후에 프로레슬링에 전성시대를 이끌어 갔던 인물 인물이죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.99",
+			"start": "576.682",
+			"end": "579.000",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "@이름16 기자 세대는 아마 모르실 거예요.",
+			"original_form": "&name16& 기자 세대는 아마 모르실 거예요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.100",
+			"start": "579.000",
+			"end": "583.147",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "저는 잘 모르겠습니다 프로레슬링 하면 이제 저는 이제 @이름21 씨 네.",
+			"original_form": "저는 잘 모르겠습니다 프로레슬링 하면 이제 저는 이제 &name21& 씨 네.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.101",
+			"start": "583.147",
+			"end": "593.925",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이분이 인제 (백팔십 센치의)/(180센치의) (백오 킬로)/(105킬로) 무거우셨던 분인데 이분이 저~ 평생 생전에 신념이 움직이지 않으면 녹슨다 하루에 팔 굽혀 펴기 (이천 번)/(2000번) 하셨대.",
+			"original_form": "이분이 인제 백팔십 센치의 백오 킬로 무거우셨던 분인데 이분이 저~ 평생 생전에 신념이 움직이지 않으면 녹슨다 하루에 팔 굽혀 펴기 이천 번 하셨대.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "백팔십 센치의",
+					"number": "180센치의",
+					"begin": 8,
+					"end": 14
+				},
+				{
+					"id": 2,
+					"hangeul": "백오 킬로",
+					"number": "105킬로",
+					"begin": 16,
+					"end": 20
+				},
+				{
+					"id": 3,
+					"hangeul": "이천 번",
+					"number": "2000번",
+					"begin": 75,
+					"end": 78
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.102",
+			"start": "593.925",
+			"end": "596.752",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "두 분은 뭐~ 하세요 녹슬기 않기 위해서.",
+			"original_form": "두 분은 뭐~ 하세요 녹슬기 않기 위해서.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.103",
+			"start": "596.752",
+			"end": "600.540",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "저희들은 뭐~ 가벼워지면 안 되니까 입맛 다시기 (이천 번)/(2000번)",
+			"original_form": "저희들은 뭐~ 가벼워지면 안 되니까 입맛 다시기 이천 번",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이천 번",
+					"number": "2000번",
+					"begin": 28,
+					"end": 31
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.104",
+			"start": "600.540",
+			"end": "604.031",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "전 숟가락질을 (이천 번)/(2000번) /(noise)",
+			"original_form": "전 숟가락질을 이천 번",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이천 번",
+					"number": "2000번",
+					"begin": 9,
+					"end": 12
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.105",
+			"start": "604.031",
+			"end": "612.612",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "자 청취자 여러분 코너 끝에 방송만 잘 듣고 계시면 금세 맞힐 수 있는 무게 있는 퀴즈 내드릴게요 지금부터 무거운 두 분이 전해줄 무거운 뉴스 잘 들어 보시기 바랍니다.",
+			"original_form": "자 청취자 여러분 코너 끝에 방송만 잘 듣고 계시면 금세 맞힐 수 있는 무게 있는 퀴즈 내드릴게요 지금부터 무거운 두 분이 전해줄 무거운 뉴스 잘 들어 보시기 바랍니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.106",
+			"start": "612.612",
+			"end": "614.925",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "자 먼저 (코로나일구)/(코로나19) 얘기해볼게요.",
+			"original_form": "자 먼저 코로나일구 얘기해볼게요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "코로나일구",
+					"number": "코로나19",
+					"begin": 6,
+					"end": 10
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.107",
+			"start": "614.925",
+			"end": "621.176",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이~ 시 수도권에 지금 대 집중이 되고 있어요 이틀째 (삼십 명대)/(30명대) 확진자 유지는 되고 있는데",
+			"original_form": "이~ 시 수도권에 지금 대 집중이 되고 있어요 이틀째 삼십 명대 확진자 유지는 되고 있는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼십 명대",
+					"number": "30명대",
+					"begin": 31,
+					"end": 35
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.108",
+			"start": "621.176",
+			"end": "627.634",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "네 지역 감염인데 중앙 방역 대책 본부가 어~ (영 시를)/(0시를) 기준으로 해서 발표를 했는데요.",
+			"original_form": "네 지역 감염인데 중앙 방역 대책 본부가 어~ 영 시를 기준으로 해서 발표를 했는데요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "영 시를",
+					"number": "0시를",
+					"begin": 27,
+					"end": 30
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.109",
+			"start": "627.634",
+			"end": "634.397",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "(삼십팔 명입니다)/(38명입니다) 확진자가 뭐~ 많은 숫자라 많은 숫자는 아니라고 볼 수도 있는데",
+			"original_form": "삼십팔 명입니다 확진자가 뭐~ 많은 숫자라 많은 숫자는 아니라고 볼 수도 있는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼십팔 명입니다",
+					"number": "38명입니다",
+					"begin": 1,
+					"end": 8
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.110",
+			"start": "634.397",
+			"end": "641.611",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "수도권 중심이라는 것 또 교회 소모임 식당 감염 여파가 일어나고 있는데요.",
+			"original_form": "수도권 중심이라는 것 또 교회 소모임 식당 감염 여파가 일어나고 있는데요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.111",
+			"start": "641.611",
+			"end": "651.691",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "특히 경기 인천 서울 쪽에 확진자가 몰리면서 이~ 지역 감염이 또 학생들의 등교에까지 영향을 주는 건 아닌지 상당히 우려를 하고 있습니다.",
+			"original_form": "특히 경기 인천 서울 쪽에 확진자가 몰리면서 이~ 지역 감염이 또 학생들의 등교에까지 영향을 주는 건 아닌지 상당히 우려를 하고 있습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.112",
+			"start": "651.691",
+			"end": "658.855",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "아~ 새로 확진된 어~ 확진자는 경기도 (열다섯 명)/(15명) 서울이 (열네 명)/(14명) 인천 (여덟 명이구요.)/(8명이구요.)",
+			"original_form": "아~ 새로 확진된 어~ 확진자는 경기도 열다섯 명 서울이 열네 명 인천 여덟 명이구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "열다섯 명",
+					"number": "15명",
+					"begin": 23,
+					"end": 27
+				},
+				{
+					"id": 2,
+					"hangeul": "열네 명",
+					"number": "14명",
+					"begin": 33,
+					"end": 36
+				},
+				{
+					"id": 3,
+					"hangeul": "여덟 명이구요.",
+					"number": "8명이구요.",
+					"begin": 41,
+					"end": 48
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.113",
+			"start": "658.855",
+			"end": "664.453",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "신규 확진자 수는 어제 (서른다섯 명에)/(35명에) 이어서 이틀째 (삼십 명대를)/(30명대를) 이어가고 있습니다.",
+			"original_form": "신규 확진자 수는 어제 서른다섯 명에 이어서 이틀째 삼십 명대를 이어가고 있습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "서른다섯 명에",
+					"number": "35명에",
+					"begin": 14,
+					"end": 20
+				},
+				{
+					"id": 2,
+					"hangeul": "삼십 명대를",
+					"number": "30명대를",
+					"begin": 30,
+					"end": 35
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.114",
+			"start": "664.453",
+			"end": "674.681",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "쿠팡 발 확진은 이제 소강상태인데 지역적으로 소규모 감염이 이~ 산발적으로 수도권에서 일어나고 있다는 점 이~ 점이 이제 눈여겨",
+			"original_form": "쿠팡 발 확진은 이제 소강상태인데 지역적으로 소규모 감염이 이~ 산발적으로 수도권에서 일어나고 있다는 점 이~ 점이 이제 눈여겨",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.115",
+			"start": "674.681",
+			"end": "685.152",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그렇죠 좀 이제 대형 교회에서 쫌 규모가 큰 예배의 경우에는 이~ 서로 간의 거리 두기 또 감염되지 않는 걸 굉장히 주의하고 있는데 문제는 이제 소모임입니다.",
+			"original_form": "그렇죠 좀 이제 대형 교회에서 쫌 규모가 큰 예배의 경우에는 이~ 서로 간의 거리 두기 또 감염되지 않는 걸 굉장히 주의하고 있는데 문제는 이제 소모임입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.116",
+			"start": "685.152",
+			"end": "692.399",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "성경 공부라든지 이런 경우에는 좀 붙어서 진행을 할 수밖에 없기 때문에 상당히 좀 유의를 할 필요가 있겠습니다.",
+			"original_form": "성경 공부라든지 이런 경우에는 좀 붙어서 진행을 할 수밖에 없기 때문에 상당히 좀 유의를 할 필요가 있겠습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.117",
+			"start": "692.399",
+			"end": "697.906",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "정말 좀 각별히 유의를 해주시면서 성경 공부하시더라도 해주셨으면 좋을 거 같구요.",
+			"original_form": "정말 좀 각별히 유의를 해주시면서 성경 공부하시더라도 해주셨으면 좋을 거 같구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.118",
+			"start": "697.906",
+			"end": "701.925",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아마 경기 침체가 이제 계속 우려가 되고 있는데",
+			"original_form": "아마 경기 침체가 이제 계속 우려가 되고 있는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.119",
+			"start": "701.925",
+			"end": "705.930",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "에~ (삼 차)/(3차) 추경 논의도 이제 본격적으로 시작이 되고 있지 않습니까?",
+			"original_form": "에~ 삼 차 추경 논의도 이제 본격적으로 시작이 되고 있지 않습니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼 차",
+					"number": "3차",
+					"begin": 4,
+					"end": 6
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.120",
+			"start": "705.930",
+			"end": "717.230",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "네 그~ 전에 @이름12 대통령이 (사십 일)/(40일) 만에 직접 비상 경제 회의를 주체를 했는데 그~ 이~ 자리에서 이~ 경제 위기 극복을 최우선으로 두고 이~ 재정 역량을 총동원하겠다라는 입장을 밝혔습니다",
+			"original_form": "네 그~ 전에 &name12& 대통령이 사십 일 만에 직접 비상 경제 회의를 주체를 했는데 그~ 이~ 자리에서 이~ 경제 위기 극복을 최우선으로 두고 이~ 재정 역량을 총동원하겠다라는 입장을 밝혔습니다",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "사십 일",
+					"number": "40일",
+					"begin": 23,
+					"end": 26
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.121",
+			"start": "717.230",
+			"end": "730.147",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "그러면서 이제 하반기에 우리 경제를 빠르게 회복시켜야 한다 라면서 이~ 단일 규모로는 역대 최대일 것으로 보이는 이~ (삼 차)/(3차) 추경안을 이~ 내일 모래 이~ 국회에 제출하기로 네 정부가 짐 방침을 정한 상황입니다.",
+			"original_form": "그러면서 이제 하반기에 우리 경제를 빠르게 회복시켜야 한다 라면서 이~ 단일 규모로는 역대 최대일 것으로 보이는 이~ 삼 차 추경안을 이~ 내일 모래 이~ 국회에 제출하기로 네 정부가 짐 방침을 정한 상황입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼 차",
+					"number": "3차",
+					"begin": 67,
+					"end": 69
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.122",
+			"start": "730.147",
+			"end": "736.502",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "이~ (삼 차)/(3차) 추경안에는 이~ 소상공인들에게 긴급 자금을 지원할 수 있도록 뭐~ 신용 보증 기금을 확대하고",
+			"original_form": "이~ 삼 차 추경안에는 이~ 소상공인들에게 긴급 자금을 지원할 수 있도록 뭐~ 신용 보증 기금을 확대하고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼 차",
+					"number": "3차",
+					"begin": 4,
+					"end": 6
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.123",
+			"start": "736.502",
+			"end": "743.512",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "또 이른바 이제 한국형 (@뉴딜 사업으로) 어~ 비대면 디지털 관련 분야 (오십오만 개의)/(55만개의) 일자리 창출 방안 등이 담겨 있다고 합니다.",
+			"original_form": "또 이른바 이제 한국형 뉴딜 사업으로 어~ 비대면 디지털 관련 분야 오십오만 개의 일자리 창출 방안 등이 담겨 있다고 합니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오십오만 개의",
+					"number": "55만개의",
+					"begin": 39,
+					"end": 45
+				}
+			],
+			"term": [
+				{
+					"id": 1,
+					"hangeul": "뉴딜 사업으로",
+					"begin": 14,
+					"end": 20
+				}
+			]
+		},
+		{
+			"id": "DGBBB21000011.1.1.124",
+			"start": "743.512",
+			"end": "747.178",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(오십오만 개)/(55만개) 일자리 잘 좀 됐으면 하구요.",
+			"original_form": "오십오만 개 일자리 잘 좀 됐으면 하구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오십오만 개",
+					"number": "55만개",
+					"begin": 1,
+					"end": 6
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.125",
+			"start": "747.178",
+			"end": "754.258",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이~ 추경에 대해서 이제 @정당1 같은 경우 (이십일 대)/(21대) 들어와서는 아예 추경 자체",
+			"original_form": "이~ 추경에 대해서 이제 &party-name1& 같은 경우 이십일 대 들어와서는 아예 추경 자체",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이십일 대",
+					"number": "21대",
+					"begin": 35,
+					"end": 39
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.126",
+			"start": "754.258",
+			"end": "761.844",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "왜 선거 전엔 그랬잖아요 퍼주기다 이랬는데 이~ 지금은 좀 많이 달라졌어요 @정당1 추경 자체를 반대하진 않고 있어요.",
+			"original_form": "왜 선거 전엔 그랬잖아요 퍼주기다 이랬는데 이~ 지금은 좀 많이 달라졌어요 &party-name1& 추경 자체를 반대하진 않고 있어요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.127",
+			"start": "761.844",
+			"end": "764.232",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "추경을 하게 되는 불가피한 이유가 있는 거죠.",
+			"original_form": "추경을 하게 되는 불가피한 이유가 있는 거죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.128",
+			"start": "764.232",
+			"end": "771.907",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "이~ (코로나일구)/(코로나19) 국면에서 어~ 올해 (삼 차)/(3차) 추경안까지 통과되면 이제 (세 번)/(3번) 하는 건 수십 년 만에 있는 일 아니겠습니까?",
+			"original_form": "이~ 코로나일구 국면에서 어~ 올해 삼 차 추경안까지 통과되면 이제 세 번 하는 건 수십 년 만에 있는 일 아니겠습니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "코로나일구",
+					"number": "코로나19",
+					"begin": 4,
+					"end": 8
+				},
+				{
+					"id": 2,
+					"hangeul": "삼 차",
+					"number": "3차",
+					"begin": 21,
+					"end": 23
+				},
+				{
+					"id": 3,
+					"hangeul": "세 번",
+					"number": "3번",
+					"begin": 39,
+					"end": 41
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.129",
+			"start": "771.907",
+			"end": "781.514",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그런 만큼 예산이 이미 집행이 되고 있는 가운데 추가로 세 번째 하게 된다는 것은 그만큼 (코로나일구의)/(코로나19의) 위기 사태가 예사롭지 않다.",
+			"original_form": "그런 만큼 예산이 이미 집행이 되고 있는 가운데 추가로 세 번째 하게 된다는 것은 그만큼 코로나일구의 위기 사태가 예사롭지 않다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "코로나일구의",
+					"number": "코로나19의",
+					"begin": 51,
+					"end": 56
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.130",
+			"start": "781.514",
+			"end": "789.923",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "또 국민 여론 (()) 경제 (@팬데믹을) 극복해야 되고 전 세계적으로 적극적 경제 부양 정책을 하고 있거든요 우리라고 예외일 순 없는데.",
+			"original_form": "또 국민 여론 (()) 경제 팬데믹을 극복해야 되고 전 세계적으로 적극적 경제 부양 정책을 하고 있거든요 우리라고 예외일 순 없는데.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": [
+				{
+					"id": 1,
+					"hangeul": "팬데믹을",
+					"begin": 17,
+					"end": 20
+				}
+			]
+		},
+		{
+			"id": "DGBBB21000011.1.1.131",
+			"start": "789.923",
+			"end": "797.815",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "야당으로서는 또 이럴 때 견제해야 되는 또 몫이 있는 것이고 그~ 역할을 적극적으로 하겠다는 것인데 반대는 아닙니다 하지만",
+			"original_form": "야당으로서는 또 이럴 때 견제해야 되는 또 몫이 있는 것이고 그~ 역할을 적극적으로 하겠다는 것인데 반대는 아닙니다 하지만",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.132",
+			"start": "797.815",
+			"end": "807.137",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "이~ 한국판 (@뉴딜) 큰 축으로 이제 (@디지털 뉴딜과) (@그린 뉴딜인데) 쫌 내용이 정책이 이전에도 이미 발표됐던 반복이 아니냐.",
+			"original_form": "이~ 한국판 뉴딜 큰 축으로 이제 디지털 뉴딜과 그린 뉴딜인데 쫌 내용이 정책이 이전에도 이미 발표됐던 반복이 아니냐.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": [
+				{
+					"id": 1,
+					"hangeul": "뉴딜",
+					"begin": 8,
+					"end": 9
+				},
+				{
+					"id": 2,
+					"hangeul": "디지털 뉴딜과",
+					"begin": 20,
+					"end": 26
+				},
+				{
+					"id": 3,
+					"hangeul": "그린 뉴딜인데",
+					"begin": 28,
+					"end": 34
+				}
+			]
+		},
+		{
+			"id": "DGBBB21000011.1.1.133",
+			"start": "807.137",
+			"end": "816.091",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "또한 재정 건전성 괜찮겠냐 이제는 (@지디피)/(@GDP) 대피 (사십)/(40) 퍼센트 이상이 되는데 괜찮을지 좀 검토해봐야 된다 또 꼭 필요하고",
+			"original_form": "또한 재정 건전성 괜찮겠냐 이제는 지디피 대피 사십 퍼센트 이상이 되는데 괜찮을지 좀 검토해봐야 된다 또 꼭 필요하고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "지디피",
+					"english": "GDP",
+					"begin": 20,
+					"end": 22
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "사십",
+					"number": "40",
+					"begin": 27,
+					"end": 28
+				}
+			],
+			"term": [
+				{
+					"id": 1,
+					"hangeul": "지디피",
+					"begin": 20,
+					"end": 22
+				}
+			]
+		},
+		{
+			"id": "DGBBB21000011.1.1.134",
+			"start": "816.091",
+			"end": "824.407",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "또 이~ 가야 되는 신속하게 집행돼야 되는 곳에 가는지 이~ 추경 예산이 국회에서 검토해보겠다 이렇게 벼르고 있습니다.",
+			"original_form": "또 이~ 가야 되는 신속하게 집행돼야 되는 곳에 가는지 이~ 추경 예산이 국회에서 검토해보겠다 이렇게 벼르고 있습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.135",
+			"start": "824.407",
+			"end": "834.338",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "@이름22 저~ 비대위 @정당1에서 시작이 됐는데 어제 그~ 비대위 회의할 때 보니까 저~ 뒤에 펼침막에 이렇게 써 있더라구요.",
+			"original_form": "&name22& 저~ 비대위 &party-name1&에서 시작이 됐는데 어제 그~ 비대위 회의할 때 보니까 저~ 뒤에 펼침막에 이렇게 써 있더라구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.136",
+			"start": "834.338",
+			"end": "838.642",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이~ 변화 그~ (캐치프레이즈를)/(catchphrase) 내세웠는데",
+			"original_form": "이~ 변화 그~ 캐치프레이즈를 내세웠는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "캐치프레이즈를",
+					"english": "catchphrase",
+					"begin": 10,
+					"end": 16
+				}
+			],
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.137",
+			"start": "838.642",
+			"end": "850.236",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "@이름22 비대위원장이 어제 국립 서울 현충원 참배를 했다는 거 아닙니까 그래서 방명록에다가 진취적으로 국가를 위해 최선을 다하겠다.",
+			"original_form": "&name22& 비대위원장이 어제 국립 서울 현충원 참배를 했다는 거 아닙니까 그래서 방명록에다가 진취적으로 국가를 위해 최선을 다하겠다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.138",
+			"start": "850.236",
+			"end": "857.115",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이~ @정당1이 뭔가 좀 바뀌는 모습을 좀 보이고 있는 거 같은데 방명록 두 분은 방명록 써봤어요?",
+			"original_form": "이~ &party-name1&이 뭔가 좀 바뀌는 모습을 좀 보이고 있는 거 같은데 방명록 두 분은 방명록 써봤어요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.139",
+			"start": "857.115",
+			"end": "858.815",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "결혼식장에서 네. /(noise)",
+			"original_form": "결혼식장에서 네.",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.140",
+			"start": "858.815",
+			"end": "860.476",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "결혼식장에서 /(noise)",
+			"original_form": "결혼식장에서",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.141",
+			"start": "860.476",
+			"end": "861.256",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "뚱커벨은",
+			"original_form": "뚱커벨은",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.142",
+			"start": "861.256",
+			"end": "863.306",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "방구는 뀌어 봤는데 방명록은",
+			"original_form": "방구는 뀌어 봤는데 방명록은",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.143",
+			"start": "863.306",
+			"end": "865.303",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "방명록 안 써봤어요?",
+			"original_form": "방명록 안 써봤어요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.144",
+			"start": "865.303",
+			"end": "874.602",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "또 그~ 꼭 (()) 이렇게 유명한 정치인들은 현충원 (()) 방명록 쓰는 거고 그~ 이름 쓰는 게 방명록이에요 예.",
+			"original_form": "또 그~ 꼭 (()) 이렇게 유명한 정치인들은 현충원 (()) 방명록 쓰는 거고 그~ 이름 쓰는 게 방명록이에요 예.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.145",
+			"start": "874.602",
+			"end": "881.476",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "자 그리고 @이름10 경기도지사가 (이 차)/(2차) 재난 지원금 얘기를 했어요 쪼금 전에 허리케인 데스크에서도 말씀을 드렸는데",
+			"original_form": "자 그리고 &name10& 경기도지사가 이 차 재난 지원금 얘기를 했어요 쪼금 전에 허리케인 데스크에서도 말씀을 드렸는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이 차",
+					"number": "2차",
+					"begin": 23,
+					"end": 25
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.146",
+			"start": "881.476",
+			"end": "891.634",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "네 (삼 차)/(3차) 추경안 제출을 지금 앞두고 있는데 그~ @이름10 지사가 그~ (이 차)/(2차) 재난 지원금을 지급하자 이렇게 어~ 지난달 (이십구 일)/(29일) 정부에 건의했다라고 합니다.",
+			"original_form": "네 삼 차 추경안 제출을 지금 앞두고 있는데 그~ &name10& 지사가 그~ 이 차 재난 지원금을 지급하자 이렇게 어~ 지난달 이십구 일 정부에 건의했다라고 합니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "삼 차",
+					"number": "3차",
+					"begin": 3,
+					"end": 5
+				},
+				{
+					"id": 2,
+					"hangeul": "이 차",
+					"number": "2차",
+					"begin": 45,
+					"end": 47
+				},
+				{
+					"id": 3,
+					"hangeul": "이십구 일",
+					"number": "29일",
+					"begin": 73,
+					"end": 77
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.147",
+			"start": "891.634",
+			"end": "901.313",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "어~ (일 인당)/(1인당) (이십만 원씩)/(20만 원씩) 그~ 총 (십조 삼천육백어 여 억 원)/(10조 3600어 여 억원) 정도의 그~ 규모의 그~ 예산을 어~ 삼 차 추경 안에 반영해달라 이렇게 건의를 했다고 하는데",
+			"original_form": "어~ 일 인당 이십만 원씩 그~ 총 십조 삼천육백어 여 억 원 정도의 그~ 규모의 그~ 예산을 어~ 삼 차 추경 안에 반영해달라 이렇게 건의를 했다고 하는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 인당",
+					"number": "1인당",
+					"begin": 4,
+					"end": 7
+				},
+				{
+					"id": 2,
+					"hangeul": "이십만 원씩",
+					"number": "20만 원씩",
+					"begin": 9,
+					"end": 14
+				},
+				{
+					"id": 3,
+					"hangeul": "십조 삼천육백어 여 억 원",
+					"number": "10조 3600어 여 억원",
+					"begin": 21,
+					"end": 34
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.148",
+			"start": "901.313",
+			"end": "906.708",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "@이름10 지사는 뭐~ (코로나일구가)/(코로나19가) 종식이 되더라도 이~ 경제가 상당 기간 나빠질 가능성이 있기 때문에",
+			"original_form": "&name10& 지사는 뭐~ 코로나일구가 종식이 되더라도 이~ 경제가 상당 기간 나빠질 가능성이 있기 때문에",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "코로나일구가",
+					"number": "코로나19가",
+					"begin": 17,
+					"end": 22
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.149",
+			"start": "906.708",
+			"end": "910.018",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "이~ 최소한 (두세 번)/(2~3번) 정도는 더 해야 할 거 같다 이렇게 얘기를 했구요.",
+			"original_form": "이~ 최소한 두세 번 정도는 더 해야 할 거 같다 이렇게 얘기를 했구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "두세 번",
+					"number": "2~3번",
+					"begin": 8,
+					"end": 11
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.150",
+			"start": "910.018",
+			"end": "917.443",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "하지만 이~ 재난 지원금 지급 논쟁 당시 때도 이~ @이름11 경제 부총리를 비롯해서 이~ 기재부에서 강하게 반대를 했었기 때문에",
+			"original_form": "하지만 이~ 재난 지원금 지급 논쟁 당시 때도 이~ &name11& 경제 부총리를 비롯해서 이~ 기재부에서 강하게 반대를 했었기 때문에",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.151",
+			"start": "917.443",
+			"end": "918.044",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "안 돼.",
+			"original_form": "안 돼.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.152",
+			"start": "918.044",
+			"end": "922.062",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "네 저~ 이번에 좀 반영이 될지 여부는 불투명합니다.",
+			"original_form": "네 저~ 이번에 좀 반영이 될지 여부는 불투명합니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.153",
+			"start": "922.062",
+			"end": "932.395",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "반영되면 좋겠구요 또 아니더래도 @이름10 지사는 이렇게 또 국민들을 위해서 경기도 또 경기지사인 @이름10 본인이 노력하고 있다.",
+			"original_form": "반영되면 좋겠구요 또 아니더래도 &name10& 지사는 이렇게 또 국민들을 위해서 경기도 또 경기지사인 &name10& 본인이 노력하고 있다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.154",
+			"start": "932.395",
+			"end": "937.629",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "이런 모습을 또 보이는 것도 뭐~ 나쁠 건 없으니깐요 그런 또 차원도 있다고 봅니다.",
+			"original_form": "이런 모습을 또 보이는 것도 뭐~ 나쁠 건 없으니깐요 그런 또 차원도 있다고 봅니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.155",
+			"start": "937.629",
+			"end": "943.722",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그래요 오늘 여기 (티비에스)/(TBS) 아침에 오다가 보니까 여기 상암 초등학교 있잖아요.",
+			"original_form": "그래요 오늘 여기 티비에스 아침에 오다가 보니까 여기 상암 초등학교 있잖아요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "티비에스",
+					"english": "TBS",
+					"begin": 11,
+					"end": 14
+				}
+			],
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.156",
+			"start": "943.722",
+			"end": "954.021",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이~ 초등학생들 (일)/(1) (이 학년)/(2학년) 학생들이래요 오늘 등교했다고 그러더라고 그래서 앞에 엄마들 많이 나와 있더라구요 하교할 때 이제 데려갈라고.",
+			"original_form": "이~ 초등학생들 일 이 학년 학생들이래요 오늘 등교했다고 그러더라고 그래서 앞에 엄마들 많이 나와 있더라구요 하교할 때 이제 데려갈라고.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일",
+					"number": "1",
+					"begin": 10,
+					"end": 10
+				},
+				{
+					"id": 2,
+					"hangeul": "이 학년",
+					"number": "2학년",
+					"begin": 12,
+					"end": 15
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.157",
+			"start": "954.021",
+			"end": "960.266",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그~ 내일은 저~ 고등학교 (일 학년하고)/(1학년들) (중이)/(중2) 또 이게 초딩들 (삼)/(3) (사 학년들)/(4학년들) 등교하잖아요.",
+			"original_form": "그~ 내일은 저~ 고등학교 일 학년하고 중이 또 이게 초딩들 삼 사 학년들 등교하잖아요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 학년하고",
+					"number": "1학년들",
+					"begin": 16,
+					"end": 21
+				},
+				{
+					"id": 2,
+					"hangeul": "중이",
+					"number": "중2",
+					"begin": 23,
+					"end": 24
+				},
+				{
+					"id": 3,
+					"hangeul": "삼",
+					"number": "3",
+					"begin": 35,
+					"end": 35
+				},
+				{
+					"id": 4,
+					"hangeul": "사 학년들",
+					"number": "4학년들",
+					"begin": 37,
+					"end": 41
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.158",
+			"start": "960.266",
+			"end": "966.142",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그렇죠 내일 이제 어~ 일정상으로 정해진 건 삼 차 등교입니다",
+			"original_form": "그렇죠 내일 이제 어~ 일정상으로 정해진 건 삼 차 등교입니다",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.159",
+			"start": "966.142",
+			"end": "977.397",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그래서 내일 이제 (고일)/(고1) 그리고 (중이)/(중2) 초등학교 (삼)/(3) (사 학년이)/(4학년이) 이제 등교를 하게 되는데 문제는 그렇습니다 (일 차)/(1차) 등교인 지난 (이십)/(20) 어~ (칠 일이었죠)/(7일이었죠) 그때도",
+			"original_form": "그래서 내일 이제 고일 그리고 중이 초등학교 삼 사 학년이 이제 등교를 하게 되는데 문제는 그렇습니다 일 차 등교인 지난 이십 어~ 칠 일이었죠 그때도",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "고일",
+					"number": "고1",
+					"begin": 11,
+					"end": 12
+				},
+				{
+					"id": 2,
+					"hangeul": "중이",
+					"number": "중2",
+					"begin": 18,
+					"end": 19
+				},
+				{
+					"id": 3,
+					"hangeul": "삼",
+					"number": "3",
+					"begin": 26,
+					"end": 26
+				},
+				{
+					"id": 4,
+					"hangeul": "사 학년이",
+					"number": "4학년이",
+					"begin": 28,
+					"end": 32
+				},
+				{
+					"id": 5,
+					"hangeul": "일 차",
+					"number": "1차",
+					"begin": 58,
+					"end": 60
+				},
+				{
+					"id": 6,
+					"hangeul": "이십",
+					"number": "20",
+					"begin": 69,
+					"end": 70
+				},
+				{
+					"id": 7,
+					"hangeul": "칠 일이었죠",
+					"number": "7일이었죠",
+					"begin": 75,
+					"end": 80
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.160",
+			"start": "977.397",
+			"end": "985.122",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "어~ (이십 일이었죠)/(20일이었죠) (고삼)/(고3) 등교 시작하면서부터 확진자가 발생을 해서 또 바로 하교 조치를 취하는 경우도 발생을 했는데",
+			"original_form": "어~ 이십 일이었죠 고삼 등교 시작하면서부터 확진자가 발생을 해서 또 바로 하교 조치를 취하는 경우도 발생을 했는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이십 일이었죠",
+					"number": "20일이었죠",
+					"begin": 4,
+					"end": 10
+				},
+				{
+					"id": 2,
+					"hangeul": "고삼",
+					"number": "고3",
+					"begin": 12,
+					"end": 13
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.161",
+			"start": "985.122",
+			"end": "995.118",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "이~ 초등학생들 많이 이제 최근 또 지역 감염이 있으면서 우려가 되고 있고 그래서 내일 등교 후에 이~ 확진자가 돌발하지 않는지도 좀 지켜봐야 될 거 같구요.",
+			"original_form": "이~ 초등학생들 많이 이제 최근 또 지역 감염이 있으면서 우려가 되고 있고 그래서 내일 등교 후에 이~ 확진자가 돌발하지 않는지도 좀 지켜봐야 될 거 같구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.162",
+			"start": "995.118",
+			"end": "1003.300",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "이~ 교육부 장관 @이름23 부총리와 또 교육 당국에서는 만약에 이~ 학생들에 확진자가 생기면 빨리 하교 조치를 하고",
+			"original_form": "이~ 교육부 장관 &name23& 부총리와 또 교육 당국에서는 만약에 이~ 학생들에 확진자가 생기면 빨리 하교 조치를 하고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.163",
+			"start": "1003.300",
+			"end": "1011.309",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "지역 또 방역 여건에 따라서 일정을 그~ 이후에 일정들을 좀 순연할 수도 있다 이런 어~ 방침을 내놨습니다.",
+			"original_form": "지역 또 방역 여건에 따라서 일정을 그~ 이후에 일정들을 좀 순연할 수도 있다 이런 어~ 방침을 내놨습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.164",
+			"start": "1011.309",
+			"end": "1015.564",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "지금 뚱커벨 얘기하면서 달력 쳐다봤더니 달력도 안 뜯어놨네.",
+			"original_form": "지금 뚱커벨 얘기하면서 달력 쳐다봤더니 달력도 안 뜯어놨네.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.165",
+			"start": "1015.564",
+			"end": "1016.397",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그러네요. /(noise)",
+			"original_form": "그러네요.",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.166",
+			"start": "1016.397",
+			"end": "1024.664",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "끝나고 뜯어놔야 될 거 같애요 피디들이 감 떨어져가지고 달력도 좀 뜯어 먹고 그래야지 말이야 진행자가 저~ 방송 사고 내게 할라고 @이름24 피디 수고하시고 에~",
+			"original_form": "끝나고 뜯어놔야 될 거 같애요 피디들이 감 떨어져가지고 달력도 좀 뜯어 먹고 그래야지 말이야 진행자가 저~ 방송 사고 내게 할라고 &name24& 피디 수고하시고 에~",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.167",
+			"start": "1024.664",
+			"end": "1027.466",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "달력에 이렇게 또 많이 좀 집중을 하시네요.",
+			"original_form": "달력에 이렇게 또 많이 좀 집중을 하시네요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.168",
+			"start": "1027.466",
+			"end": "1030.861",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아니 날짜를 봐야지 생방송에서 실수 안 하죠.",
+			"original_form": "아니 날짜를 봐야지 생방송에서 실수 안 하죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.169",
+			"start": "1030.861",
+			"end": "1032.194",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "다 보이던데 네.",
+			"original_form": "다 보이던데 네.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.170",
+			"start": "1032.194",
+			"end": "1033.527",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "이~ 치과 치료하고 오셨나 봐요.",
+			"original_form": "이~ 치과 치료하고 오셨나 봐요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.171",
+			"start": "1033.527",
+			"end": "1040.465",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "네 (코로나일구로)/(코로나19로) 온라인 시험을 보는 대학들이 있는데 앞서도 말씀드리긴 했는데 이렇게 부정행위들을 해요 지금.",
+			"original_form": "네 코로나일구로 온라인 시험을 보는 대학들이 있는데 앞서도 말씀드리긴 했는데 이렇게 부정행위들을 해요 지금.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "코로나일구로",
+					"number": "코로나19로",
+					"begin": 3,
+					"end": 8
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.172",
+			"start": "1040.465",
+			"end": "1044.963",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "네 그~ 인하대에서 그~ 의대 학생들이 (아흔한 명이나)/(91명이나) 적발이 됐습니다.",
+			"original_form": "네 그~ 인하대에서 그~ 의대 학생들이 아흔한 명이나 적발이 됐습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "아흔한 명이나",
+					"number": "91명이나",
+					"begin": 23,
+					"end": 29
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.173",
+			"start": "1044.963",
+			"end": "1045.538",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그러니까 말이에요.",
+			"original_form": "그러니까 말이에요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.174",
+			"start": "1045.538",
+			"end": "1051.261",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "네 제보가 들어와서 조사를 해봤더니 (이 학년)/(2학년) (마흔한 명)/(41명) 그리고 (일 학년)/(1학년) (쉰 명이)/(50명이) 이~ 부정행위를 한 건데",
+			"original_form": "네 제보가 들어와서 조사를 해봤더니 이 학년 마흔한 명 그리고 일 학년 쉰 명이 이~ 부정행위를 한 건데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "이 학년",
+					"number": "2학년",
+					"begin": 21,
+					"end": 24
+				},
+				{
+					"id": 2,
+					"hangeul": "마흔한 명",
+					"number": "41명",
+					"begin": 26,
+					"end": 30
+				},
+				{
+					"id": 3,
+					"hangeul": "일 학년",
+					"number": "1학년",
+					"begin": 36,
+					"end": 39
+				},
+				{
+					"id": 4,
+					"hangeul": "쉰 명이",
+					"number": "50명이",
+					"begin": 41,
+					"end": 44
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.175",
+			"start": "1051.261",
+			"end": "1058.250",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "어~ 적게는 (두 명)/(2명) 그리고 많게는 (아홉 명이)/(9명이) 짝을 지어서 시험 문제를 같이 풀거나 아니면 메신저를 통해서 시험 문제를 공유한 겁니다.",
+			"original_form": "어~ 적게는 두 명 그리고 많게는 아홉 명이 짝을 지어서 시험 문제를 같이 풀거나 아니면 메신저를 통해서 시험 문제를 공유한 겁니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "두 명",
+					"number": "2명",
+					"begin": 8,
+					"end": 10
+				},
+				{
+					"id": 2,
+					"hangeul": "아홉 명이",
+					"number": "9명이",
+					"begin": 20,
+					"end": 24
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.176",
+			"start": "1058.250",
+			"end": "1070.407",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "어~ 문제는 이게 인하대만이 문제는 아닐 거 같다라는 거 있는데 그~ 온라인으로 중간고사를 진행했던 이~ 건국대에서도 이~ 같은 (아이피)/(IP) 주소로 동시 접속한 기록이 어~ 적발이 된 적 있었고",
+			"original_form": "어~ 문제는 이게 인하대만이 문제는 아닐 거 같다라는 거 있는데 그~ 온라인으로 중간고사를 진행했던 이~ 건국대에서도 이~ 같은 아이피 주소로 동시 접속한 기록이 어~ 적발이 된 적 있었고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "아이피",
+					"english": "IP",
+					"begin": 73,
+					"end": 75
+				}
+			],
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.177",
+			"start": "1070.407",
+			"end": "1077.308",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "또 한양대에서는 온라인 시험 직전에 뭐~ 시험을 대신 치러주겠다 이런 글이 커뮤니티에 올라와서 또 논란이 됐었습니다.",
+			"original_form": "또 한양대에서는 온라인 시험 직전에 뭐~ 시험을 대신 치러주겠다 이런 글이 커뮤니티에 올라와서 또 논란이 됐었습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.178",
+			"start": "1077.308",
+			"end": "1085.830",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "어~ 그래서 대학들이 뭐~ 중간고사 같은 경우에는 온라인으로 시험을 봤는데 이~ 기말고사는 대면 시험을 하는 걸로 학생들도 이렇게 요구를 하고 있다라고 하더라구요.",
+			"original_form": "어~ 그래서 대학들이 뭐~ 중간고사 같은 경우에는 온라인으로 시험을 봤는데 이~ 기말고사는 대면 시험을 하는 걸로 학생들도 이렇게 요구를 하고 있다라고 하더라구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.179",
+			"start": "1085.830",
+			"end": "1089.672",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "두 분은 뭐~ 부정행위 해본 적 당연히 없으시죠?",
+			"original_form": "두 분은 뭐~ 부정행위 해본 적 당연히 없으시죠?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.180",
+			"start": "1089.672",
+			"end": "1090.861",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "네네.",
+			"original_form": "네네.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.181",
+			"start": "1090.861",
+			"end": "1092.970",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "배 소장 왜 얘기 안 해요?",
+			"original_form": "배 소장 왜 얘기 안 해요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.182",
+			"start": "1092.970",
+			"end": "1095.106",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "솔직히 있습니다. @웃음",
+			"original_form": "솔직히 있습니다. {laughing}",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.183",
+			"start": "1095.106",
+			"end": "1095.901",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "정 기자는",
+			"original_form": "정 기자는",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.184",
+			"start": "1095.901",
+			"end": "1096.965",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "저는 없습니다.",
+			"original_form": "저는 없습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.185",
+			"start": "1096.965",
+			"end": "1097.620",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "솔직히",
+			"original_form": "솔직히",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.186",
+			"start": "1097.620",
+			"end": "1098.232",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "네",
+			"original_form": "네",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.187",
+			"start": "1098.232",
+			"end": "1099.906",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "고등학교 때 있거든요 네.",
+			"original_form": "고등학교 때 있거든요 네.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.188",
+			"start": "1099.906",
+			"end": "1103.789",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "저도 뭐~ 있긴 있었겠죠 저는 아마 중학교 때 있었던 거 같기도 하고",
+			"original_form": "저도 뭐~ 있긴 있었겠죠 저는 아마 중학교 때 있었던 거 같기도 하고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.189",
+			"start": "1103.789",
+			"end": "1106.062",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "아~ 이걸 또 방송에 공개를 해야 되는 거네요.",
+			"original_form": "아~ 이걸 또 방송에 공개를 해야 되는 거네요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.190",
+			"start": "1106.062",
+			"end": "1113.314",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "뭐~ 옛날 추억이죠 뭐~ 근데 지금은 (사 차)/(4차) 산업 혁명 시대 (()) 언필칭",
+			"original_form": "뭐~ 옛날 추억이죠 뭐~ 근데 지금은 사 차 산업 혁명 시대 (()) 언필칭",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "사 차",
+					"number": "4차",
+					"begin": 22,
+					"end": 24
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.191",
+			"start": "1113.314",
+			"end": "1120.879",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "입만 열면 (사 차)/(4차) 산업 혁명 시대인데 이렇게 컨닝 같은 거 해가지고 (사 차)/(4차) 산업 혁명에서 제일 중요한 게 뭐라고 보세요 인간의?",
+			"original_form": "입만 열면 사 차 산업 혁명 시대인데 이렇게 컨닝 같은 거 해가지고 사 차 산업 혁명에서 제일 중요한 게 뭐라고 보세요 인간의?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "사 차",
+					"number": "4차",
+					"begin": 7,
+					"end": 9
+				},
+				{
+					"id": 2,
+					"hangeul": "사 차",
+					"number": "4차",
+					"begin": 39,
+					"end": 41
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.192",
+			"start": "1120.879",
+			"end": "1122.915",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "창의성 아니겠어요 창의성.",
+			"original_form": "창의성 아니겠어요 창의성.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.193",
+			"start": "1122.915",
+			"end": "1126.350",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "이~ 부정행위 남이 쓴 거 그대로 베끼 이게 무슨 창의성이 있습니까?",
+			"original_form": "이~ 부정행위 남이 쓴 거 그대로 베끼 이게 무슨 창의성이 있습니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.194",
+			"start": "1126.350",
+			"end": "1127.222",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "돌아오기 마련입니다.",
+			"original_form": "돌아오기 마련입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.195",
+			"start": "1127.222",
+			"end": "1138.411",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "어제도 잠깐 얘기했었지만 미국의 @상호명4 설립한 @이름25 전기 읽어 보면요 그~ 친구가 컨닝 했다는 그거 본 적이 없어.",
+			"original_form": "어제도 잠깐 얘기했었지만 미국의 &company-name4& 설립한 &name25& 전기 읽어 보면요 그~ 친구가 컨닝 했다는 그거 본 적이 없어.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.196",
+			"start": "1138.411",
+			"end": "1141.192",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "자기가 컨닝 했다는 거를 그~ 책에다 쓸까요?",
+			"original_form": "자기가 컨닝 했다는 거를 그~ 책에다 쓸까요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.197",
+			"start": "1141.192",
+			"end": "1142.056",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그런가요?",
+			"original_form": "그런가요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.198",
+			"start": "1142.056",
+			"end": "1146.688",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "@정당1을 제외한 정당들이 임시 국회에 소집 요구서를 제출했습니다 이제.",
+			"original_form": "&party-name1&을 제외한 정당들이 임시 국회에 소집 요구서를 제출했습니다 이제.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.199",
+			"start": "1146.688",
+			"end": "1154.136",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "네 제출을 오늘 했는데 이~ @정당1의 그~ 원고서 협상이 마무리가 되지 않더라도 이~ 개원을 하겠다라는 건데요.",
+			"original_form": "네 제출을 오늘 했는데 이~ &party-name1&의 그~ 원고서 협상이 마무리가 되지 않더라도 이~ 개원을 하겠다라는 건데요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.200",
+			"start": "1154.136",
+			"end": "1159.871",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "어~ 이렇게 되면은 이제 국회 의장단이 이~ 그~ 의회가 소집이 되면 선출이 될 수가 있고",
+			"original_form": "어~ 이렇게 되면은 이제 국회 의장단이 이~ 그~ 의회가 소집이 되면 선출이 될 수가 있고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.201",
+			"start": "1159.871",
+			"end": "1164.209",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "어~ 그러면 국회 의장단이 상임위 의원들을 또 배분을 할 수가 있구요",
+			"original_form": "어~ 그러면 국회 의장단이 상임위 의원들을 또 배분을 할 수가 있구요",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.202",
+			"start": "1164.209",
+			"end": "1176.039",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "이~ 상임위 위원들이 또 과반수 (()) 절차에 따라서 상임 위원장을 선출하게 되면은 이~ @정당2이 예고를 했던 대로 이~ 전 상임 위원장 의석이 어~ 자리가 이~ 전부 이제 @정당2으로 가져올 수 있게 되는 그런 상황입니다.",
+			"original_form": "이~ 상임위 위원들이 또 과반수 (()) 절차에 따라서 상임 위원장을 선출하게 되면은 이~ &party-name2&이 예고를 했던 대로 이~ 전 상임 위원장 의석이 어~ 자리가 이~ 전부 이제 &party-name2&으로 가져올 수 있게 되는 그런 상황입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.203",
+			"start": "1176.039",
+			"end": "1181.214",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "네 @정당1 지도부는 이~ 개원은 협상 대상이 아니다 이런 입장이잖아요.",
+			"original_form": "네 &party-name1& 지도부는 이~ 개원은 협상 대상이 아니다 이런 입장이잖아요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.204",
+			"start": "1181.214",
+			"end": "1189.045",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "네 먼저 이런 이야기가 나오는 배경이 앞서 이제 @이름16 기자도 이야기를 했는데 지금 뭐~ 의장단은 다 내정이 돼 있는 상태이고",
+			"original_form": "네 먼저 이런 이야기가 나오는 배경이 앞서 이제 &name16& 기자도 이야기를 했는데 지금 뭐~ 의장단은 다 내정이 돼 있는 상태이고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.205",
+			"start": "1189.045",
+			"end": "1197.000",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "이제 투표만 하면 되는 것인데 문제는 이제 (열여덟 개의)/(18개의) 상임 위원장 자리입니다 이게 @정당1에서는 뭐~ 다 가져갈 수도 잇는 것 아니냐.",
+			"original_form": "이제 투표만 하면 되는 것인데 문제는 이제 열여덟 개의 상임 위원장 자리입니다 이게 &party-name1&에서는 뭐~ 다 가져갈 수도 잇는 것 아니냐.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "열여덟 개의",
+					"number": "18개의",
+					"begin": 25,
+					"end": 30
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.206",
+			"start": "1197.000",
+			"end": "1205.609",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "국회법 어디에도 야당에게 국제 아~ 국회 법제 사법 위원회 위원장 자리나 예결위원장 자리를 준다는 것은 없다.",
+			"original_form": "국회법 어디에도 야당에게 국제 아~ 국회 법제 사법 위원회 위원장 자리나 예결위원장 자리를 준다는 것은 없다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.207",
+			"start": "1205.609",
+			"end": "1208.632",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그런 만큼 이거 또 투표를 해야 된다 이런 입장인데",
+			"original_form": "그런 만큼 이거 또 투표를 해야 된다 이런 입장인데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.208",
+			"start": "1208.632",
+			"end": "1219.303",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "@정당1 이제 @이름26 원내 대표는 뭐~ (십일 대 칠)/(11대7) 이렇게 나누는 것도 이야기가 되지 않았었느냐 이걸 다 가져가고 그동안 관행을 무시하는 것은 말이 안 된다.",
+			"original_form": "&party-name1& 이제 &name26& 원내 대표는 뭐~ 십일 대 칠 이렇게 나누는 것도 이야기가 되지 않았었느냐 이걸 다 가져가고 그동안 관행을 무시하는 것은 말이 안 된다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "십일 대 칠",
+					"number": "11대7",
+					"begin": 37,
+					"end": 42
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.209",
+			"start": "1219.303",
+			"end": "1228.311",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "이거 때문에 이~ 이~ (()) 문제가 해결되지 않고서는 (오 일)/(5일) 날 개원할 순 없다 이런 입장인데요 @이름28 대표가 이미 발언을 했었었죠.",
+			"original_form": "이거 때문에 이~ 이~ (()) 문제가 해결되지 않고서는 오 일 날 개원할 순 없다 이런 입장인데요 &name28& 대표가 이미 발언을 했었었죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오 일",
+					"number": "5일",
+					"begin": 33,
+					"end": 35
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.210",
+			"start": "1228.311",
+			"end": "1236.667",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "이건 절대 국민들에게 명분도 없을뿐더러 상임 위원회 위원장 자리를 놓고 다투면서 개원을 하지 않는다는 것은 말이 안 된다.",
+			"original_form": "이건 절대 국민들에게 명분도 없을뿐더러 상임 위원회 위원장 자리를 놓고 다투면서 개원을 하지 않는다는 것은 말이 안 된다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.211",
+			"start": "1236.667",
+			"end": "1242.367",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "정상적인 국회법에 따른 일정이 진행돼야 된다면서 또 입장을 확고히 했습니다.",
+			"original_form": "정상적인 국회법에 따른 일정이 진행돼야 된다면서 또 입장을 확고히 했습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.212",
+			"start": "1242.367",
+			"end": "1246.285",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "개원은 (오 일이)/(5일이) 아니고 다음 주 월요일 (팔 일)/(8일) 아닌가요?",
+			"original_form": "개원은 오 일이 아니고 다음 주 월요일 팔 일 아닌가요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오 일이",
+					"number": "5일이",
+					"begin": 5,
+					"end": 8
+				},
+				{
+					"id": 2,
+					"hangeul": "팔 일",
+					"number": "8일",
+					"begin": 23,
+					"end": 25
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.213",
+			"start": "1246.285",
+			"end": "1248.172",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "네 (오 일)/(5일) 소집 여부를",
+			"original_form": "네 오 일 소집 여부를",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오 일",
+					"number": "5일",
+					"begin": 3,
+					"end": 5
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.214",
+			"start": "1248.172",
+			"end": "1249.897",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "(오 일로)/(5일로) 소집 여부를 했죠.",
+			"original_form": "오 일로 소집 여부를 했죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오 일로",
+					"number": "5일로",
+					"begin": 1,
+					"end": 4
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.215",
+			"start": "1249.897",
+			"end": "1250.772",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(오 일로)/(5일로) 했습니까?",
+			"original_form": "오 일로 했습니까?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오 일로",
+					"number": "5일로",
+					"begin": 1,
+					"end": 4
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.216",
+			"start": "1250.772",
+			"end": "1251.797",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "네 (오 일로)/(5일로) 제출했습",
+			"original_form": "네 오 일로 제출했습",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오 일로",
+					"number": "5일로",
+					"begin": 3,
+					"end": 6
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.217",
+			"start": "1251.797",
+			"end": "1253.901",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그~ @정당1은 어때요 입장이?",
+			"original_form": "그~ &party-name1&은 어때요 입장이?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.218",
+			"start": "1253.901",
+			"end": "1261.873",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "어~ 거세게 뭐~ 반발을 하고 있는데요 뭐~ 말로만 협치를 하는 거냐 뭐~ 독재다 이렇게 하면 뭐~ 추경 협조 못 한다 이렇게 강하게 반발하고 있습니다.",
+			"original_form": "어~ 거세게 뭐~ 반발을 하고 있는데요 뭐~ 말로만 협치를 하는 거냐 뭐~ 독재다 이렇게 하면 뭐~ 추경 협조 못 한다 이렇게 강하게 반발하고 있습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.219",
+			"start": "1261.873",
+			"end": "1269.258",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "아까 말씀하신 대로 이~ 국회에서 상임위를 배분을 하고 또 이제 법사위와 예결위를 그~ 야당이 해왔던 것이 관례다 이렇게 얘기를 하고 있습니다.",
+			"original_form": "아까 말씀하신 대로 이~ 국회에서 상임위를 배분을 하고 또 이제 법사위와 예결위를 그~ 야당이 해왔던 것이 관례다 이렇게 얘기를 하고 있습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.220",
+			"start": "1269.258",
+			"end": "1276.207",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "예 그리고 @정당2이 오늘 @이름29 전 의원을 이제 징계했는데 왜 그런 거죠?",
+			"original_form": "예 그리고 &party-name2&이 오늘 &name29& 전 의원을 이제 징계했는데 왜 그런 거죠?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.221",
+			"start": "1276.207",
+			"end": "1283.579",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "네 이~ @정당2 윤리 심판원에서 어~ @이름29 전 의원이죠 이~ 경고로 징계를 했습니다.",
+			"original_form": "네 이~ &party-name2& 윤리 심판원에서 어~ &name29& 전 의원이죠 이~ 경고로 징계를 했습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.222",
+			"start": "1283.579",
+			"end": "1287.222",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그~ 징계한 이유가 뭐냐 뭐~ @이름30 전 장관 때문이냐",
+			"original_form": "그~ 징계한 이유가 뭐냐 뭐~ &name30& 전 장관 때문이냐",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.223",
+			"start": "1287.222",
+			"end": "1297.949",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "아닙니다 @이름30 전 장관 때문이 아니라 지난해 (십이월)/(12월) 공수처 법안 표결에서 기권표를 던졌어요 네 @정당2 모든 의원들 그니까 이제",
+			"original_form": "아닙니다 &name30& 전 장관 때문이 아니라 지난해 십이월 공수처 법안 표결에서 기권표를 던졌어요 네 &party-name2& 모든 의원들 그니까 이제",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "십이월",
+					"number": "12월",
+					"begin": 32,
+					"end": 34
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.224",
+			"start": "1297.949",
+			"end": "1302.451",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "이~ @이름29 전 의원을 제외하고는 찬성표를 던졌는데",
+			"original_form": "이~ &name29& 전 의원을 제외하고는 찬성표를 던졌는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.225",
+			"start": "1302.451",
+			"end": "1314.705",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그래서 이~ 권리 당원에서 @이름29을 제명하라 이렇게 이제 주장을 냈고요 이것은 이제 @정당2 윤리 심판원이 지금 최근에 이제 결정을 했죠 최근에 심판 결정문에서",
+			"original_form": "그래서 이~ 권리 당원에서 &name29&을 제명하라 이렇게 이제 주장을 냈고요 이것은 이제 &party-name2& 윤리 심판원이 지금 최근에 이제 결정을 했죠 최근에 심판 결정문에서",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.226",
+			"start": "1314.705",
+			"end": "1325.109",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "어~ 공수처 법안 찬성은 우리 당의 당론이었다 그래서 금 전 의원이 소신을 이유로 표결 당시 기원한 건 사실이기 때문에 어~ 경고 징계를 한다 이렇게 얘기했는데",
+			"original_form": "어~ 공수처 법안 찬성은 우리 당의 당론이었다 그래서 금 전 의원이 소신을 이유로 표결 당시 기원한 건 사실이기 때문에 어~ 경고 징계를 한다 이렇게 얘기했는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.227",
+			"start": "1325.109",
+			"end": "1336.055",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "@이름29 전 의원은 뭐~ 상당히 반발합니다 왜냐면 국회 의원의 표결 행위를 가지고서 징계하는 행위 자체가 헌법에 위배된다고 재심을 청구했습니다.",
+			"original_form": "&name29& 전 의원은 뭐~ 상당히 반발합니다 왜냐면 국회 의원의 표결 행위를 가지고서 징계하는 행위 자체가 헌법에 위배된다고 재심을 청구했습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.228",
+			"start": "1336.055",
+			"end": "1346.286",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "자 @이름22 비대위가 이~ 변화 이~ 주장을 하고 있다고 아까도 말씀드렸는데 근데 @정당1 내부에서 이제 반발이 나오고 있는 거 같애요.",
+			"original_form": "자 &name22& 비대위가 이~ 변화 이~ 주장을 하고 있다고 아까도 말씀드렸는데 근데 &party-name1& 내부에서 이제 반발이 나오고 있는 거 같애요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.229",
+			"start": "1346.286",
+			"end": "1356.012",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "네 이~ @이름22 위원장이 뭐~ 말씀하신 대로 뭐~ (일 일)/(1일) 어제죠 이~ 현충원 참배에서 방명록에 뭐~ 진취적으로 국가를 위해 최선을 다하겠다라고 쓰고 또 뒤에 이제",
+			"original_form": "네 이~ &name22& 위원장이 뭐~ 말씀하신 대로 뭐~ 일 일 어제죠 이~ 현충원 참배에서 방명록에 뭐~ 진취적으로 국가를 위해 최선을 다하겠다라고 쓰고 또 뒤에 이제",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 일",
+					"number": "1일",
+					"begin": 34,
+					"end": 36
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.230",
+			"start": "1356.012",
+			"end": "1365.265",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "걸개로도 뭐~ 변화 그~ 이상의 변화 이렇게 주장을 하고 있는데 어~ 그런데 내부에서는 이것이 이제 독불장군식 개혁이다 이렇게 비판을 하는 목소리가 나오고 있습니다.",
+			"original_form": "걸개로도 뭐~ 변화 그~ 이상의 변화 이렇게 주장을 하고 있는데 어~ 그런데 내부에서는 이것이 이제 독불장군식 개혁이다 이렇게 비판을 하는 목소리가 나오고 있습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.231",
+			"start": "1365.265",
+			"end": "1373.086",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "일단은 이~ 부산의 @이름31 의원 같은 경우에는 오늘 @상호명5에 글을 올렸는데 이~ 개혁은 함께해야 실천 가능하고 또 지속 가능하다.",
+			"original_form": "일단은 이~ 부산의 &name31& 의원 같은 경우에는 오늘 &company-name5&에 글을 올렸는데 이~ 개혁은 함께해야 실천 가능하고 또 지속 가능하다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.232",
+			"start": "1373.086",
+			"end": "1376.460",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "이~ 독불장군식 개혁은 지속 가능하지 않다 이렇게 비판을 했구요.",
+			"original_form": "이~ 독불장군식 개혁은 지속 가능하지 않다 이렇게 비판을 했구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.233",
+			"start": "1376.460",
+			"end": "1381.408",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "또 부산에서 낙선했던 @이름32 전 의원도 그~ 야당은 야당다워야 한다 이렇게 또 주장하기도 했습니다.",
+			"original_form": "또 부산에서 낙선했던 &name32& 전 의원도 그~ 야당은 야당다워야 한다 이렇게 또 주장하기도 했습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.234",
+			"start": "1381.408",
+			"end": "1387.683",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그래서 오늘 오전에 또 첫 의총이 @정당1 열렸는데",
+			"original_form": "그래서 오늘 오전에 또 첫 의총이 &party-name1& 열렸는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.235",
+			"start": "1387.683",
+			"end": "1396.783",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "@이름22 비대위원장이 이렇게 얘기했다는 거 아닙니까 너무 시비 걸지 말고 협력해 주십쇼 @이름32 의원을 겨냥해서 이런 발언을 했던 거 같습니다.",
+			"original_form": "&name22& 비대위원장이 이렇게 얘기했다는 거 아닙니까 너무 시비 걸지 말고 협력해 주십쇼 &name32& 의원을 겨냥해서 이런 발언을 했던 거 같습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.236",
+			"start": "1396.783",
+			"end": "1398.509",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "이~ 자리에 또 @이름31 의원이 안 왔습니다.",
+			"original_form": "이~ 자리에 또 &name31& 의원이 안 왔습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.237",
+			"start": "1398.509",
+			"end": "1400.254",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "안 왔다고 그러죠 예.",
+			"original_form": "안 왔다고 그러죠 예.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.238",
+			"start": "1400.254",
+			"end": "1404.955",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "예 자 @이름33 청취자께서 뚱커벨 컨닝 했니 크크크.",
+			"original_form": "예 자 &name33& 청취자께서 뚱커벨 컨닝 했니 크크크.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.239",
+			"start": "1404.955",
+			"end": "1412.176",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "배 소장님 청취자한테 앞으로 뉴스 정리 더 열심히 해오겠다고 다짐의 말씀을 한마디 하십쇼.",
+			"original_form": "배 소장님 청취자한테 앞으로 뉴스 정리 더 열심히 해오겠다고 다짐의 말씀을 한마디 하십쇼.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.240",
+			"start": "1412.176",
+			"end": "1413.659",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "밖에 음악 깔아드리네.",
+			"original_form": "밖에 음악 깔아드리네.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.241",
+			"start": "1413.659",
+			"end": "1419.887",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "정직하고 어~ 공정한 사회를 만들기 위해서 아무리 뭐~ 초등학교 때의 어린 마음이라도 /(bgm)",
+			"original_form": "정직하고 어~ 공정한 사회를 만들기 위해서 아무리 뭐~ 초등학교 때의 어린 마음이라도",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.242",
+			"start": "1419.887",
+			"end": "1427.630",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "절대 커닝을 해서는 안 됐었는데 사죄드리고 앞으로 우리 어~ 반성하는 기회로 삼겠습니다. /(bgm)",
+			"original_form": "절대 커닝을 해서는 안 됐었는데 사죄드리고 앞으로 우리 어~ 반성하는 기회로 삼겠습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.243",
+			"start": "1427.630",
+			"end": "1433.323",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "어~ 감동적이다 박수 한번 치세요 박수 와. @박수 /(bgm)",
+			"original_form": "어~ 감동적이다 박수 한번 치세요 박수 와. {applauding}",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.244",
+			"start": "1433.323",
+			"end": "1435.582",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "공개적으로 이렇게 해야 될 줄 또 몰랐네요. /(noise)",
+			"original_form": "공개적으로 이렇게 해야 될 줄 또 몰랐네요.",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.245",
+			"start": "1435.582",
+			"end": "1437.298",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "혹시 우는 건 아니죠? /(noise)",
+			"original_form": "혹시 우는 건 아니죠?",
+			"environment": "잡음",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.246",
+			"start": "1437.298",
+			"end": "1438.059",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "속으론 울죠.",
+			"original_form": "속으론 울죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.247",
+			"start": "1438.059",
+			"end": "1445.934",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "속으론 울고 있습니까 예 알겠습 저~ 허리케인 라디오 앵커 디제이 @이름1구요 @상호명3 @이름15 소장 시사 전문 @이름16 기자 함께 하고 있습니다.",
+			"original_form": "속으론 울고 있습니까 예 알겠습 저~ 허리케인 라디오 앵커 디제이 &name1&구요 &company-name3& &name15& 소장 시사 전문 &name16& 기자 함께 하고 있습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.248",
+			"start": "1445.934",
+			"end": "1449.016",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "자 미국 얘기해보자구요.",
+			"original_form": "자 미국 얘기해보자구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.249",
+			"start": "1449.016",
+			"end": "1456.924",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "@이름8 그~ 사망 사건 관련해서 지금 (엘에이)/(LA) 한인 타운에 허데에서도 말씀드렸는데",
+			"original_form": "&name8& 그~ 사망 사건 관련해서 지금 엘에이 한인 타운에 허데에서도 말씀드렸는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "엘에이",
+					"english": "LA",
+					"begin": 26,
+					"end": 28
+				}
+			],
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.250",
+			"start": "1456.924",
+			"end": "1461.946",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "미국 그~ 주 방위가 캘리포니아겠죠 주 방위군이 투입이 됐다면서요.",
+			"original_form": "미국 그~ 주 방위가 캘리포니아겠죠 주 방위군이 투입이 됐다면서요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.251",
+			"start": "1461.946",
+			"end": "1469.386",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "시위가 상당히 격화되고 있기 때문에 주 방위군이 캘리포니아 (엘에이가)/(LA가) 위치하고 있는 주죠.",
+			"original_form": "시위가 상당히 격화되고 있기 때문에 주 방위군이 캘리포니아 엘에이가 위치하고 있는 주죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "엘에이가",
+					"english": "LA가",
+					"begin": 34,
+					"end": 37
+				}
+			],
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.252",
+			"start": "1469.386",
+			"end": "1479.323",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "아~ (엘에이뿐만)/(LA뿐만) 아니라 다른 주에도 투입이 됐는데 뭐~ 이제 상당히 시위가 격화되거나 또 방화 약탈까지 이어진 이유도 있겠습니다만",
+			"original_form": "아~ 엘에이뿐만 아니라 다른 주에도 투입이 됐는데 뭐~ 이제 상당히 시위가 격화되거나 또 방화 약탈까지 이어진 이유도 있겠습니다만",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "엘에이뿐만",
+					"english": "LA뿐만",
+					"begin": 4,
+					"end": 8
+				}
+			],
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.253",
+			"start": "1479.323",
+			"end": "1484.815",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "이번 문제가 @이름8와 관련된 사건이 백인 경찰과 관련된 부분이거든요.",
+			"original_form": "이번 문제가 &name8&와 관련된 사건이 백인 경찰과 관련된 부분이거든요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.254",
+			"start": "1484.815",
+			"end": "1492.201",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "경찰만으로 충분히 또 통제되지 않기 때문에 주 정부는 주 방위군 투입을 또 결정할 수밖에 없는 것이구요.",
+			"original_form": "경찰만으로 충분히 또 통제되지 않기 때문에 주 정부는 주 방위군 투입을 또 결정할 수밖에 없는 것이구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.255",
+			"start": "1492.201",
+			"end": "1497.576",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "또 특히 이~ 상인들의 피해가 이제 집중되면서 주 자 방위군이 빨리 투입돼야 한다.",
+			"original_form": "또 특히 이~ 상인들의 피해가 이제 집중되면서 주 자 방위군이 빨리 투입돼야 한다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.256",
+			"start": "1497.576",
+			"end": "1508.292",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "이것은 이제 지역 사회에서도 요구가 됐던 부분인데 어~ 결국 어~ 캘리포니아뿐만 아니라 미국의 여러 주에서 주 방위군이 투입되는 상황까지 벌어지고 있습니다.",
+			"original_form": "이것은 이제 지역 사회에서도 요구가 됐던 부분인데 어~ 결국 어~ 캘리포니아뿐만 아니라 미국의 여러 주에서 주 방위군이 투입되는 상황까지 벌어지고 있습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.257",
+			"start": "1508.292",
+			"end": "1512.856",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "군대가 들어간 거예요 군대가 네 경찰 가지곤 안 되니까.",
+			"original_form": "군대가 들어간 거예요 군대가 네 경찰 가지곤 안 되니까.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.258",
+			"start": "1512.856",
+			"end": "1521.261",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "자 우리가 우려해야 되는 게 이제 우리 교포들이 거기 많이 사는데 그래서 (제이의)/(제2의) (엘에이)/(LA) 폭동 되는 거 아니야 걱정하는 목소리가 많습니다.",
+			"original_form": "자 우리가 우려해야 되는 게 이제 우리 교포들이 거기 많이 사는데 그래서 제이의 엘에이 폭동 되는 거 아니야 걱정하는 목소리가 많습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "엘에이",
+					"english": "LA",
+					"begin": 46,
+					"end": 48
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "제이의",
+					"number": "제2의",
+					"begin": 42,
+					"end": 44
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.259",
+			"start": "1521.261",
+			"end": "1531.550",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "네 맞습니다 이~ (천구백구십이 년)/(1992년) 이~ @이름34 사건 어~ 이번 사태가 이~ (제이의)/(제2의) @이름34 사건으로 이~ 비화할 가능성을 우려하는 시선이 많이 나오는데요.",
+			"original_form": "네 맞습니다 이~ 천구백구십이 년 이~ &name34& 사건 어~ 이번 사태가 이~ 제이의 &name34& 사건으로 이~ 비화할 가능성을 우려하는 시선이 많이 나오는데요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "천구백구십이 년",
+					"number": "1992년",
+					"begin": 11,
+					"end": 18
+				},
+				{
+					"id": 2,
+					"hangeul": "제이의",
+					"number": "제2의",
+					"begin": 48,
+					"end": 50
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.260",
+			"start": "1531.550",
+			"end": "1537.973",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "이~ @이름34 사건은 지난 (천구백구십 년 사월에서 오월)/(1990년 4월에서 4월) 이~ (엘에이를)/(LA를) 뒤덮은 사건입니다.",
+			"original_form": "이~ &name34& 사건은 지난 천구백구십 년 사월에서 오월 이~ 엘에이를 뒤덮은 사건입니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "엘에이를",
+					"english": "LA를",
+					"begin": 39,
+					"end": 42
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "천구백구십 년 사월에서 오월",
+					"number": "1990년 4월에서 4월",
+					"begin": 20,
+					"end": 34
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.261",
+			"start": "1537.973",
+			"end": "1542.984",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "사실 이~ 사건은 그~ (일 년)/(1년) 전인 이~ (천구백구십일 년으로)/(1991년으로) 거슬러 올라가는데",
+			"original_form": "사실 이~ 사건은 그~ 일 년 전인 이~ 천구백구십일 년으로 거슬러 올라가는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 년",
+					"number": "1년",
+					"begin": 14,
+					"end": 16
+				},
+				{
+					"id": 2,
+					"hangeul": "천구백구십일 년으로",
+					"number": "1991년으로",
+					"begin": 24,
+					"end": 33
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.262",
+			"start": "1542.984",
+			"end": "1549.871",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "어~ 한국산 이~ 포니 엑셀 승용차를 몰고 이~ 과속으로 고속도를 달리던 예 @이름34이 경찰에 체포가 됐는데",
+			"original_form": "어~ 한국산 이~ 포니 엑셀 승용차를 몰고 이~ 과속으로 고속도를 달리던 예 &name34&이 경찰에 체포가 됐는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.263",
+			"start": "1549.871",
+			"end": "1560.870",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "이~ 백인 경찰관 네 명이 이~ @이름34을 잔혹하게 구타하는 장면이 흑인들 사이에선 굉장한 분노가 일었는데 어~ 문제는 그로부터 (일 년)/(1년) 뒤인 이~ (천구백구십이 년 사월 이십구 일에)/(1992년 4월 29일에)",
+			"original_form": "이~ 백인 경찰관 네 명이 이~ &name34&을 잔혹하게 구타하는 장면이 흑인들 사이에선 굉장한 분노가 일었는데 어~ 문제는 그로부터 일 년 뒤인 이~ 천구백구십이 년 사월 이십구 일에",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 년",
+					"number": "1년",
+					"begin": 77,
+					"end": 79
+				},
+				{
+					"id": 2,
+					"hangeul": "천구백구십이 년 사월 이십구 일에",
+					"number": "1992년 4월 29일에",
+					"begin": 87,
+					"end": 104
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.264",
+			"start": "1560.870",
+			"end": "1567.713",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "어~ (일 심)/(1심) 재판에서 해당 경찰관들이 무죄를 선고받은 거예요 그래서 이~ (엘에이)/(LA) 지역 흑인들이 이제 들고 일어섰는데",
+			"original_form": "어~ 일 심 재판에서 해당 경찰관들이 무죄를 선고받은 거예요 그래서 이~ 엘에이 지역 흑인들이 이제 들고 일어섰는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "엘에이",
+					"english": "LA",
+					"begin": 42,
+					"end": 44
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "일 심",
+					"number": "1심",
+					"begin": 4,
+					"end": 6
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.265",
+			"start": "1567.713",
+			"end": "1578.995",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "어~ 시위가 계속 벌어졌지만 또 한편에서는 이~ 상점에 돌을 던지고 어~ 지나가는 이제 백인 운전자를 붙잡아서 이제 때리고 또 이~ 그~ 상점을 약탈하고 이런 일들이 벌어졌었고",
+			"original_form": "어~ 시위가 계속 벌어졌지만 또 한편에서는 이~ 상점에 돌을 던지고 어~ 지나가는 이제 백인 운전자를 붙잡아서 이제 때리고 또 이~ 그~ 상점을 약탈하고 이런 일들이 벌어졌었고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.266",
+			"start": "1578.995",
+			"end": "1583.817",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "어~ 문제는 여기에 우리 이제 그~ 한인들의 피해가 컸다라는 겁니다.",
+			"original_form": "어~ 문제는 여기에 우리 이제 그~ 한인들의 피해가 컸다라는 겁니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.267",
+			"start": "1583.817",
+			"end": "1591.490",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "어~ 그래서 이~ 닷새간의 폭동 끝에 (예순세 명의)/(63명의) 사망자가 나왔는데 그중에서 한국인도 (한 명이)/(1명이) 포함이 돼 있었습니다.",
+			"original_form": "어~ 그래서 이~ 닷새간의 폭동 끝에 예순세 명의 사망자가 나왔는데 그중에서 한국인도 한 명이 포함이 돼 있었습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "예순세 명의",
+					"number": "63명의",
+					"begin": 22,
+					"end": 27
+				},
+				{
+					"id": 2,
+					"hangeul": "한 명이",
+					"number": "1명이",
+					"begin": 49,
+					"end": 52
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.268",
+			"start": "1591.490",
+			"end": "1601.112",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "근데 또 그~ 와중에 (엘에이)/(LA) 한인 타운에서 흑인 소녀가 와서 하는 거를 저~ 이~ 우리 한인 주인이 이제 사격을 해서",
+			"original_form": "근데 또 그~ 와중에 엘에이 한인 타운에서 흑인 소녀가 와서 하는 거를 저~ 이~ 우리 한인 주인이 이제 사격을 해서",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "엘에이",
+					"english": "LA",
+					"begin": 13,
+					"end": 15
+				}
+			],
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.269",
+			"start": "1601.112",
+			"end": "1607.760",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "그렇죠 오렌지 주스를 훔치는 것으로 뭐~ 오인을 해서 이제 총기를 발사를 했는데",
+			"original_form": "그렇죠 오렌지 주스를 훔치는 것으로 뭐~ 오인을 해서 이제 총기를 발사를 했는데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.270",
+			"start": "1607.760",
+			"end": "1616.485",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "이~ 흑인 소녀가 죽으면서 이제 흑인들의 분노가 이~ 그~ 사건을 통해서 이제 @이름35 사건을 통해서 한인들에게로 이어졌죠.",
+			"original_form": "이~ 흑인 소녀가 죽으면서 이제 흑인들의 분노가 이~ 그~ 사건을 통해서 이제 &name35& 사건을 통해서 한인들에게로 이어졌죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.271",
+			"start": "1616.485",
+			"end": "1620.922",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "우리 한인 타운에 많은 집중의 공격을 흑인들이 그때 했었던 거고 그런 거였죠.",
+			"original_form": "우리 한인 타운에 많은 집중의 공격을 흑인들이 그때 했었던 거고 그런 거였죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.272",
+			"start": "1620.922",
+			"end": "1623.187",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "이번에 정말 그런 일이 있어서는 안 될 거 같고",
+			"original_form": "이번에 정말 그런 일이 있어서는 안 될 거 같고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.273",
+			"start": "1623.187",
+			"end": "1629.675",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아직까지는 뭐~ 그~ 크게 뭐~ 이렇게 약탈당했다 이런 소식은 안 들려오고 있죠?",
+			"original_form": "아직까지는 뭐~ 그~ 크게 뭐~ 이렇게 약탈당했다 이런 소식은 안 들려오고 있죠?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.274",
+			"start": "1629.675",
+			"end": "1635.673",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "아니 약탈 당하 이~ 미네소타주로 뭐~ 아직까지 구체적으로 보도된 바는 없는데요.",
+			"original_form": "아니 약탈 당하 이~ 미네소타주로 뭐~ 아직까지 구체적으로 보도된 바는 없는데요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.275",
+			"start": "1635.673",
+			"end": "1644.129",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "일단은 바깥으로 나갈 수 없는 상황이라 그러구요 실질적으로 어~ 이~ 지역에서 왜냐하면은 @이름8 사건 사실 인권 문제이고",
+			"original_form": "일단은 바깥으로 나갈 수 없는 상황이라 그러구요 실질적으로 어~ 이~ 지역에서 왜냐하면은 &name8& 사건 사실 인권 문제이고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.276",
+			"start": "1644.129",
+			"end": "1652.659",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "흑인 갈등과 관련해서 나는 숨을 쉴 수 없다 아이 캔 브리드 바로 이 사건이 이제 이~ 배경인 것인데 그럼에도 불구하고",
+			"original_form": "흑인 갈등과 관련해서 나는 숨을 쉴 수 없다 아이 캔 브리드 바로 이 사건이 이제 이~ 배경인 것인데 그럼에도 불구하고",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.277",
+			"start": "1652.659",
+			"end": "1662.572",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "지역의 다른 소요 사태에 참여하는 또 인력들이 있거든요 이들이 이제 사실 약탈을 하고 심지어는 케이크도 통째로 가져가고 하는 사건이 벌어지고 있기 때문에",
+			"original_form": "지역의 다른 소요 사태에 참여하는 또 인력들이 있거든요 이들이 이제 사실 약탈을 하고 심지어는 케이크도 통째로 가져가고 하는 사건이 벌어지고 있기 때문에",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.278",
+			"start": "1662.572",
+			"end": "1666.088",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "우리 한인 또 상권을 중심으로 해서 피해가 우려되는 것이죠.",
+			"original_form": "우리 한인 또 상권을 중심으로 해서 피해가 우려되는 것이죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.279",
+			"start": "1666.088",
+			"end": "1670.316",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "그래요 자 알겠습니다 자 오늘 여기까지 하구요.",
+			"original_form": "그래요 자 알겠습니다 자 오늘 여기까지 하구요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.280",
+			"start": "1670.316",
+			"end": "1675.253",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "청취자 여러분 이제 방송만 잘 듣고 계셨으면 금세 맞힐 수 있는 무게 있는 퀴즈 드립니다.",
+			"original_form": "청취자 여러분 이제 방송만 잘 듣고 계셨으면 금세 맞힐 수 있는 무게 있는 퀴즈 드립니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.281",
+			"start": "1675.253",
+			"end": "1684.192",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(엘에이)/(LA) 한인 타운에 주 방위군이 전격 투입이 됐습니다 그러면서 (제이의)/(제2의) (엘에이)/(LA) 폭동 사태가 일어나는 거 아니냐 걱정하는 목소리 큰데요.",
+			"original_form": "엘에이 한인 타운에 주 방위군이 전격 투입이 됐습니다 그러면서 제이의 엘에이 폭동 사태가 일어나는 거 아니냐 걱정하는 목소리 큰데요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "엘에이",
+					"english": "LA",
+					"begin": 1,
+					"end": 3
+				},
+				{
+					"id": 2,
+					"hangeul": "엘에이",
+					"english": "LA",
+					"begin": 40,
+					"end": 42
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "제이의",
+					"number": "제2의",
+					"begin": 36,
+					"end": 38
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.282",
+			"start": "1684.192",
+			"end": "1693.387",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "(천구백구십이 년에)/(1992년에) 일어난 (엘에이)/(LA) 폭동 사태의 씨앗은 흑인이라는 이유로 경찰의 과잉 진압을 당했던 이~ 사건이었습니다 이~ 사건이 뭘까요?",
+			"original_form": "천구백구십이 년에 일어난 엘에이 폭동 사태의 씨앗은 흑인이라는 이유로 경찰의 과잉 진압을 당했던 이~ 사건이었습니다 이~ 사건이 뭘까요?",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "엘에이",
+					"english": "LA",
+					"begin": 15,
+					"end": 17
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "천구백구십이 년에",
+					"number": "1992년에",
+					"begin": 1,
+					"end": 9
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.283",
+			"start": "1693.387",
+			"end": "1694.906",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "뚱커벨 힌트 주세요.",
+			"original_form": "뚱커벨 힌트 주세요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.284",
+			"start": "1694.906",
+			"end": "1702.620",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "인물이죠 우리에게는 너무나 익숙하게 잘 알려져 있는 것이 한인 피해가 또 상당히 컸었던 (천구백구십이 년)/(1992년) 그래서",
+			"original_form": "인물이죠 우리에게는 너무나 익숙하게 잘 알려져 있는 것이 한인 피해가 또 상당히 컸었던 천구백구십이 년 그래서",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "천구백구십이 년",
+					"number": "1992년",
+					"begin": 50,
+					"end": 57
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.285",
+			"start": "1702.620",
+			"end": "1710.278",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "이~ (엘에이)/(LA) 교포들은 아직도 (사이구)/(4 2 9) 사태라고 이야기합니다 (사월 이십구 일)/(4월 29일) 벌어졌기 때문에 부상자만 (이천여 명)/(2000여 명) 이상이 됐다고 그럽니다.",
+			"original_form": "이~ 엘에이 교포들은 아직도 사이구 사태라고 이야기합니다 사월 이십구 일 벌어졌기 때문에 부상자만 이천여 명 이상이 됐다고 그럽니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "엘에이",
+					"english": "LA",
+					"begin": 4,
+					"end": 6
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "사이구",
+					"number": "4 2 9",
+					"begin": 17,
+					"end": 19
+				},
+				{
+					"id": 2,
+					"hangeul": "사월 이십구 일",
+					"number": "4월 29일",
+					"begin": 33,
+					"end": 40
+				},
+				{
+					"id": 3,
+					"hangeul": "이천여 명",
+					"number": "2000여 명",
+					"begin": 56,
+					"end": 60
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.286",
+			"start": "1710.278",
+			"end": "1717.106",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "이~ 포니 엑셀 한국산 차를 몰았던 인물이죠 흑인이고 네 (네 글자인데)/(4글자인데)",
+			"original_form": "이~ 포니 엑셀 한국산 차를 몰았던 인물이죠 흑인이고 네 네 글자인데",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "네 글자인데",
+					"number": "4글자인데",
+					"begin": 33,
+					"end": 38
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.287",
+			"start": "1717.106",
+			"end": "1721.502",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "아까 중요하고 별도 그리고 밑줄도 치고 그랬었죠.",
+			"original_form": "아까 중요하고 별도 그리고 밑줄도 치고 그랬었죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.288",
+			"start": "1721.502",
+			"end": "1722.412",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "힌트 좀 주세요.",
+			"original_form": "힌트 좀 주세요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.289",
+			"start": "1722.412",
+			"end": "1726.746",
+			"speaker_id": "DG0005",
+			"speaker_role": "토론자",
+			"form": "네 과속하다가 길에서 잡혀서 이제 로드에서 네 걸렸는데요.",
+			"original_form": "네 과속하다가 길에서 잡혀서 이제 로드에서 네 걸렸는데요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.290",
+			"start": "1726.746",
+			"end": "1735.123",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "거기까지 하면 다 아실 거예요 자 청취자 여러분 정답 보내주십쇼 (오십 원)/(50원) 유료 문자 샵 (영구오일)/(0951) (티비에스)/(TBS) 앱 열려 있습니다 두 분 상품 소개해주세요.",
+			"original_form": "거기까지 하면 다 아실 거예요 자 청취자 여러분 정답 보내주십쇼 오십 원 유료 문자 샵 영구오일 티비에스 앱 열려 있습니다 두 분 상품 소개해주세요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": [
+				{
+					"id": 1,
+					"hangeul": "티비에스",
+					"english": "TBS",
+					"begin": 55,
+					"end": 58
+				}
+			],
+			"hangeulToNumber": [
+				{
+					"id": 1,
+					"hangeul": "오십 원",
+					"number": "50원",
+					"begin": 37,
+					"end": 40
+				},
+				{
+					"id": 2,
+					"hangeul": "영구오일",
+					"number": "0951",
+					"begin": 50,
+					"end": 53
+				}
+			],
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.291",
+			"start": "1735.123",
+			"end": "1743.186",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "저~ @이름33 청취자께서요 아까 저~ 뚱커벨 @이름15 소장이 그~ 용기 있는 그~ 과거 반성",
+			"original_form": "저~ &name33& 청취자께서요 아까 저~ 뚱커벨 &name15& 소장이 그~ 용기 있는 그~ 과거 반성",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.292",
+			"start": "1743.186",
+			"end": "1744.123",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "아~ 반성은 해야죠.",
+			"original_form": "아~ 반성은 해야죠.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.293",
+			"start": "1744.123",
+			"end": "1745.790",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "용기 있었다고 칭찬해주셨어요.",
+			"original_form": "용기 있었다고 칭찬해주셨어요.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.294",
+			"start": "1745.790",
+			"end": "1747.071",
+			"speaker_id": "DG0004",
+			"speaker_role": "토론자",
+			"form": "감사합니다 반성하겠습니다.",
+			"original_form": "감사합니다 반성하겠습니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.295",
+			"start": "1747.071",
+			"end": "1755.253",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "자 지금까지 오늘 무게 있는 뉴스들 무거운 녀석들이 전해드렸습니다 @상호명3 @이름25 소장 시사 전문 @이름16 기자였습니다 두 분 감사합니다.",
+			"original_form": "자 지금까지 오늘 무게 있는 뉴스들 무거운 녀석들이 전해드렸습니다 &company-name3& &name25& 소장 시사 전문 &name16& 기자였습니다 두 분 감사합니다.",
+			"environment": "",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		},
+		{
+			"id": "DGBBB21000011.1.1.296",
+			"start": "1755.253",
+			"end": "1763.155",
+			"speaker_id": "DG0001",
+			"speaker_role": "사회자",
+			"form": "네 무게 있는 퀴즈 정답은 @이름34 사건입니다 선물 받아 보실 분들 명단 홈페이지에 나중에 올려 놓도록 하겠습니다. /(bgm)",
+			"original_form": "네 무게 있는 퀴즈 정답은 &name34& 사건입니다 선물 받아 보실 분들 명단 홈페이지에 나중에 올려 놓도록 하겠습니다.",
+			"environment": "배경 음악",
+			"isIdiom": false,
+			"hangeulToEnglish": null,
+			"hangeulToNumber": null,
+			"term": null
+		}
+	]
+}
